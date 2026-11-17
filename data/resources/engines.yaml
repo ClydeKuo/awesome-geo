@@ -1,0 +1,564 @@
+- id: bing-ai-mode
+  name: Bing AI Mode
+  url: https://www.bing.com/copilotsearch
+  category: engines/global
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Microsoft Bing's conversational search mode, formerly Copilot Search, which in 2026 was split into AI Mode and the AI Overview summaries shown in regular results.
+    zh-CN: Microsoft Bing 的对话式搜索模式，前身为 Copilot Search，2026 年拆分为 AI Mode 和常规结果中的 AI Overview 摘要。
+    ja: Microsoft Bing の対話型検索モードで、旧 Copilot Search が 2026年に AI Mode と、通常の結果に出る AI Overview の要約に分かれたものです。
+    ko: Microsoft Bing의 대화형 검색 모드로, 옛 Copilot Search가 2026년에 AI Mode와 일반 검색 결과의 AI Overview 요약으로 나뉘었습니다.
+    es: Modo de búsqueda conversacional de Microsoft Bing, antes Copilot Search, que en 2026 se dividió en AI Mode y los resúmenes AI Overview que aparecen en los resultados normales.
+    de: Konversationeller Suchmodus von Microsoft Bing, früher Copilot Search, der 2026 in AI Mode und die in den regulären Ergebnissen angezeigten AI-Overview-Zusammenfassungen aufgeteilt wurde.
+- id: brave-search-ai
+  name: Brave Search
+  url: https://brave.com/search/
+  category: engines/global
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Brave's search engine built on its own independent index, with Answer with AI summaries that cite their sources and an Ask Brave chat mode for follow-up questions.
+    zh-CN: Brave 基于自有独立索引的搜索引擎，提供附带来源引用的 Answer with AI 摘要，以及可继续追问的 Ask Brave 聊天模式。
+    ja: 独自のインデックスを持つ Brave の検索エンジンで、引用元を示す Answer with AI の要約と、追加の質問ができるチャットモード Ask Brave を備えています。
+    ko: 자체 독립 인덱스를 기반으로 한 Brave의 검색 엔진으로, 출처를 인용하는 Answer with AI 요약과 후속 질문용 Ask Brave 채팅 모드를 제공합니다.
+    es: Buscador de Brave con índice propio e independiente, resúmenes Answer with AI que citan sus fuentes y un modo de chat, Ask Brave, para preguntas de seguimiento.
+    de: Suchmaschine von Brave auf Basis eines eigenen, unabhängigen Index mit Answer with AI, das Zusammenfassungen mit Quellenangaben erstellt, und dem Chatmodus Ask Brave für Folgefragen.
+- id: chatgpt-search
+  name: ChatGPT Search
+  url: https://chatgpt.com/search
+  category: engines/global
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: OpenAI's ChatGPT with built-in web search, which answers questions in conversation and links to the pages it used.
+    zh-CN: OpenAI 内置网页搜索的 ChatGPT，在对话中回答问题并附上所参考页面的链接。
+    ja: OpenAI の ChatGPT にウェブ検索を組み込んだもので、会話の中で質問に答え、参照したページへのリンクを示します。
+    ko: 웹 검색이 내장된 OpenAI의 ChatGPT로, 대화 속에서 질문에 답하고 참고한 페이지 링크를 제공합니다.
+    es: ChatGPT de OpenAI con búsqueda web integrada, que responde preguntas en la conversación y enlaza a las páginas que ha usado.
+    de: ChatGPT von OpenAI mit integrierter Websuche, das Fragen im Gespräch beantwortet und die genutzten Seiten verlinkt.
+- id: claude
+  name: Claude
+  url: https://claude.ai
+  category: engines/global
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Anthropic's Claude assistant, which can search the web during a conversation and cite the pages behind its answer.
+    zh-CN: Anthropic 的 Claude 助手，可在对话中搜索网页并引用回答所依据的页面。
+    ja: Anthropic のアシスタント Claude で、会話中にウェブを検索し、回答の根拠となったページを引用できます。
+    ko: 대화 중 웹을 검색하고 답변의 근거가 된 페이지를 인용할 수 있는 Anthropic의 Claude 어시스턴트입니다.
+    es: Asistente Claude de Anthropic, que puede buscar en la web durante la conversación y citar las páginas en las que se basa su respuesta.
+    de: Claude-Assistent von Anthropic, der während eines Gesprächs im Web suchen und die Seiten hinter seiner Antwort zitieren kann.
+- id: duck-ai
+  name: Duck.ai
+  url: https://duck.ai
+  category: engines/global
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: DuckDuckGo's anonymized chat with third-party AI models, reachable from search results; DuckDuckGo search also offers optional AI-assisted answers.
+    zh-CN: DuckDuckGo 提供的匿名化第三方 AI 模型聊天服务，可从搜索结果进入；DuckDuckGo 搜索也提供可选的 AI 辅助回答。
+    ja: DuckDuckGo が提供する、サードパーティの AI モデルと匿名で対話できるチャットで、検索結果から利用でき、DuckDuckGo の検索では任意で AI による回答も表示できます。
+    ko: 서드파티 AI 모델과 익명으로 대화하는 DuckDuckGo의 채팅으로 검색 결과에서 바로 열 수 있으며, DuckDuckGo 검색도 선택형 AI 보조 답변을 제공합니다.
+    es: Chat anonimizado de DuckDuckGo con modelos de IA de terceros, accesible desde los resultados de búsqueda; el buscador también ofrece respuestas opcionales asistidas por IA.
+    de: Anonymisierter Chat von DuckDuckGo mit KI-Modellen von Drittanbietern, erreichbar aus den Suchergebnissen; die DuckDuckGo-Suche bietet zudem optionale KI-gestützte Antworten.
+- id: gemini
+  name: Gemini
+  url: https://gemini.google.com
+  category: engines/global
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Google's Gemini AI assistant, which draws on Google Search for current information in its answers.
+    zh-CN: Google 的 Gemini AI 助手，借助 Google 搜索在回答中提供最新信息。
+    ja: Google の AI アシスタント Gemini で、Google 検索から最新の情報を取り入れて回答します。
+    ko: Google 검색을 활용해 답변에 최신 정보를 반영하는 Google의 Gemini AI 어시스턴트입니다.
+    es: Asistente de IA Gemini de Google, que recurre a la Búsqueda de Google para incluir información actual en sus respuestas.
+    de: KI-Assistent Gemini von Google, der für aktuelle Informationen in seinen Antworten auf die Google-Suche zurückgreift.
+- id: google-ai-mode
+  name: Google AI Mode
+  url: https://search.google/ways-to-search/ai-mode/
+  category: engines/global
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Google Search's conversational mode, built on Gemini, which answers complex questions, takes follow-ups and links to sources on the web.
+    zh-CN: Google 搜索基于 Gemini 的对话模式，可回答复杂问题、支持追问，并链接到网络上的来源。
+    ja: Gemini を基盤とする Google 検索の対話型モードで、複雑な質問に答え、追加の質問にも対応し、ウェブ上の情報源へのリンクを示します。
+    ko: Gemini 기반의 Google 검색 대화형 모드로, 복잡한 질문에 답하고 후속 질문을 받으며 웹의 출처로 연결되는 링크를 제공합니다.
+    es: Modo conversacional de la Búsqueda de Google, basado en Gemini, que responde preguntas complejas, admite preguntas de seguimiento y enlaza a fuentes de la web.
+    de: Konversationeller Modus der Google-Suche auf Basis von Gemini, der komplexe Fragen beantwortet, Folgefragen zulässt und auf Quellen im Web verlinkt.
+- id: google-ai-overviews
+  name: Google AI Overviews
+  url: https://search.google/ways-to-search/ai-overviews/
+  category: engines/global
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Google Search's generative summaries shown above regular results, with links to the sources they draw on, in more than 120 countries and territories.
+    zh-CN: Google 搜索在常规结果上方显示的生成式摘要，附有所引来源的链接，覆盖 120 多个国家和地区。
+    ja: Google 検索で通常の結果の上に表示される生成 AI の要約で、参照した情報源へのリンクを示し、120以上の国と地域で提供されています。
+    ko: Google 검색의 일반 결과 위에 표시되는 생성형 요약으로, 참고한 출처 링크를 함께 보여 주며 120개 이상의 국가와 지역에서 제공됩니다.
+    es: Resúmenes generativos de la Búsqueda de Google que aparecen sobre los resultados normales, con enlaces a las fuentes en que se basan, en más de 120 países y territorios.
+    de: Generative Zusammenfassungen der Google-Suche über den regulären Ergebnissen, mit Links zu den verwendeten Quellen, verfügbar in mehr als 120 Ländern und Gebieten.
+- id: grok
+  name: Grok
+  url: https://grok.com
+  category: engines/global
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: AI assistant from xAI, now part of SpaceX, which searches the web and posts on X to answer questions about current events.
+    zh-CN: xAI（现隶属 SpaceX）推出的 AI 助手，通过搜索网页和 X 上的帖子回答时事问题。
+    ja: 現在は SpaceX 傘下の xAI が提供する AI アシスタントで、ウェブと X の投稿を検索して時事的な質問に答えます。
+    ko: 현재 SpaceX 산하인 xAI의 AI 어시스턴트로, 웹과 X 게시물을 검색해 시사 관련 질문에 답합니다.
+    es: Asistente de IA de xAI, ahora parte de SpaceX, que busca en la web y en las publicaciones de X para responder preguntas sobre la actualidad.
+    de: KI-Assistent von xAI, inzwischen Teil von SpaceX, der im Web und in Beiträgen auf X sucht, um Fragen zu aktuellen Ereignissen zu beantworten.
+- id: kagi-assistant
+  name: Kagi Assistant
+  url: https://kagi.com/assistant
+  category: engines/global
+  type: engine
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Kagi's chat assistant for paying members, which pairs models from many providers with optional access to Kagi's ad-free search results.
+    zh-CN: Kagi 面向付费会员的聊天助手，可搭配多家服务商的模型，并可选接入 Kagi 无广告的搜索结果。
+    ja: 有料会員向けの Kagi のチャットアシスタントで、多数のプロバイダーのモデルと、任意で利用できる Kagi の広告なし検索結果を組み合わせています。
+    ko: 여러 제공업체의 모델에 Kagi의 광고 없는 검색 결과를 선택적으로 연결해 쓰는 유료 회원용 Kagi 채팅 어시스턴트입니다.
+    es: Asistente de chat de Kagi para miembros de pago, que combina modelos de muchos proveedores con acceso opcional a los resultados de búsqueda sin anuncios de Kagi.
+    de: Chat-Assistent von Kagi für zahlende Mitglieder, der Modelle vieler Anbieter mit optionalem Zugriff auf die werbefreien Suchergebnisse von Kagi kombiniert.
+- id: meta-ai
+  name: Meta AI
+  url: https://www.meta.ai
+  category: engines/global
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Meta's AI assistant on the web and inside WhatsApp, Instagram and Facebook, which can pull in web search results for current questions.
+    zh-CN: Meta 的 AI 助手，覆盖网页端以及 WhatsApp、Instagram 和 Facebook，可调用网页搜索结果回答时效性问题。
+    ja: ウェブ版と WhatsApp、Instagram、Facebook 内で使える Meta の AI アシスタントで、時事的な質問にはウェブ検索の結果を取り込めます。
+    ko: 웹과 WhatsApp, Instagram, Facebook에서 쓸 수 있는 Meta의 AI 어시스턴트로, 시의성 있는 질문에는 웹 검색 결과를 가져올 수 있습니다.
+    es: Asistente de IA de Meta en la web y dentro de WhatsApp, Instagram y Facebook, que puede incorporar resultados de búsqueda web para preguntas actuales.
+    de: KI-Assistent von Meta im Web und in WhatsApp, Instagram und Facebook, der für aktuelle Fragen Ergebnisse der Websuche einbeziehen kann.
+- id: microsoft-copilot
+  name: Microsoft Copilot
+  url: https://copilot.microsoft.com
+  category: engines/global
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Microsoft's consumer Copilot assistant, which uses Bing web results to answer questions and cites the pages it draws on.
+    zh-CN: Microsoft 面向个人用户的 Copilot 助手，利用 Bing 网页结果回答问题并引用所依据的页面。
+    ja: Microsoft の一般消費者向けアシスタント Copilot で、Bing のウェブ検索結果を使って質問に答え、参照したページを引用します。
+    ko: Bing 웹 검색 결과로 질문에 답하고 참고한 페이지를 인용하는 Microsoft의 소비자용 Copilot 어시스턴트입니다.
+    es: Asistente Copilot de Microsoft para consumidores, que usa resultados web de Bing para responder y cita las páginas en que se basa.
+    de: Copilot-Assistent von Microsoft für Privatnutzer, der Fragen mithilfe von Bing-Webergebnissen beantwortet und die herangezogenen Seiten zitiert.
+- id: perplexity
+  name: Perplexity
+  url: https://www.perplexity.ai
+  category: engines/global
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: AI answer engine that searches the web in real time and returns conversational answers with numbered source citations.
+    zh-CN: 实时搜索网页的 AI 回答引擎，以对话形式作答并附带编号的来源引用。
+    ja: リアルタイムにウェブを検索し、番号付きの引用元を添えた対話形式の回答を返す AI 回答エンジンです。
+    ko: 웹을 실시간으로 검색해 번호가 매겨진 출처 인용과 함께 대화형 답변을 제공하는 AI 답변 엔진입니다.
+    es: Motor de respuestas con IA que busca en la web en tiempo real y ofrece respuestas conversacionales con citas numeradas de las fuentes.
+    de: KI-Antwortmaschine, die das Web in Echtzeit durchsucht und Antworten im Dialogstil mit nummerierten Quellenangaben liefert.
+- id: chatglm
+  name: ChatGLM
+  url: https://chatglm.cn
+  category: engines/china
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: Zhipu AI's Chinese assistant (Zhipu Qingyan), built on its GLM models, with web search and agent features.
+    zh-CN: 智谱基于 GLM 模型打造的中文助手智谱清言，具备联网搜索和智能体功能。
+    ja: Zhipu AI が GLM モデルを基盤に提供する中国の AI アシスタントで、ウェブ検索やエージェント機能を備えています。
+    ko: Zhipu AI의 중국어 어시스턴트(Zhipu Qingyan)로, 자사 GLM 모델을 기반으로 웹 검색과 에이전트 기능을 제공합니다.
+    es: Asistente chino de Zhipu AI (Zhipu Qingyan), basado en sus modelos GLM, con búsqueda web y funciones de agente.
+    de: Chinesischer Assistent von Zhipu AI auf Basis der eigenen GLM-Modelle, mit Websuche und Agentenfunktionen.
+- id: deepseek
+  name: DeepSeek
+  url: https://www.deepseek.com
+  category: engines/china
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: DeepSeek's chat assistant built on its open-weight models, with an optional web search mode for up-to-date answers.
+    zh-CN: DeepSeek 基于自家开放权重模型打造的聊天助手，可选联网搜索模式以获取最新回答。
+    ja: DeepSeek のオープンウェイトモデルを基盤とするチャットアシスタントで、最新の情報で回答するためのウェブ検索モードを任意で利用できます。
+    ko: 오픈 웨이트 모델을 기반으로 한 DeepSeek의 채팅 어시스턴트로, 최신 정보로 답하는 웹 검색 모드를 선택해 쓸 수 있습니다.
+    es: Asistente de chat de DeepSeek basado en sus modelos de pesos abiertos, con un modo opcional de búsqueda web para obtener respuestas actualizadas.
+    de: Chat-Assistent von DeepSeek auf Basis der eigenen Open-Weight-Modelle mit optionalem Websuchmodus für aktuelle Antworten.
+- id: doubao
+  name: Doubao
+  url: https://www.doubao.com
+  category: engines/china
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: ByteDance's general-purpose AI assistant, which searches the web to answer questions in chat and lists the sources it consulted.
+    zh-CN: 字节跳动的通用 AI 助手，可在对话中联网搜索作答并列出参考来源。
+    ja: ByteDance の汎用 AI アシスタントで、チャットでの質問にウェブを検索して答え、参照した情報源を一覧で示します。
+    ko: ByteDance의 범용 AI 어시스턴트로, 채팅에서 웹을 검색해 질문에 답하고 참고한 출처를 보여 줍니다.
+    es: Asistente de IA de uso general de ByteDance, que busca en la web para responder en el chat y muestra las fuentes consultadas.
+    de: Universeller KI-Assistent von ByteDance, der für Antworten im Chat im Web sucht und die herangezogenen Quellen auflistet.
+- id: ernie-bot
+  name: ERNIE Bot
+  url: https://wenxin.baidu.com
+  category: engines/china
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: Baidu's ERNIE Bot assistant (formerly Wenxin Yiyan), now served on the web as Baidu Wenxin Assistant and connected to Baidu Search.
+    zh-CN: 百度的 AI 助手文心（原文心一言），网页端现为百度文心助手，并接入百度搜索。
+    ja: Baidu のアシスタント ERNIE Bot（旧称 Wenxin Yiyan）で、現在はウェブ上で Baidu Wenxin Assistant として提供され、Baidu 検索と連携しています。
+    ko: Baidu의 ERNIE Bot 어시스턴트(옛 Wenxin Yiyan)로, 현재 웹에서는 Baidu Wenxin Assistant로 제공되며 Baidu 검색과 연동됩니다.
+    es: Asistente ERNIE Bot de Baidu (antes Wenxin Yiyan), que ahora se ofrece en la web como Baidu Wenxin Assistant y está conectado a Baidu Search.
+    de: Assistent ERNIE Bot von Baidu (früher Wenxin Yiyan), der im Web inzwischen als Baidu Wenxin Assistant läuft und an die Baidu-Suche angebunden ist.
+- id: kimi
+  name: Kimi
+  url: https://www.kimi.com
+  category: engines/china
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: Moonshot AI's Kimi assistant, known for long-context reading, which searches the web and cites the pages it reads.
+    zh-CN: 月之暗面的 Kimi 助手，以长上下文阅读见长，可联网搜索并引用所阅读的页面。
+    ja: 長文の読解で知られる Moonshot AI のアシスタント Kimi で、ウェブを検索し、読んだページを引用します。
+    ko: 긴 문맥 읽기로 알려진 Moonshot AI의 Kimi 어시스턴트로, 웹을 검색하고 읽은 페이지를 인용합니다.
+    es: Asistente Kimi de Moonshot AI, conocido por su lectura de contextos largos, que busca en la web y cita las páginas que lee.
+    de: Kimi-Assistent von Moonshot AI, bekannt für das Lesen langer Kontexte, der im Web sucht und die gelesenen Seiten zitiert.
+- id: metaso
+  name: Metaso
+  url: https://metaso.cn
+  category: engines/china
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: MetaSOTA's ad-free Chinese AI search engine, which answers questions with cited sources and can also search academic literature.
+    zh-CN: 秘塔推出的无广告中文 AI 搜索引擎，回答附带引用来源，也可检索学术文献。
+    ja: MetaSOTA が提供する広告なしの中国の AI 検索エンジンで、引用元を示して質問に答え、学術文献も検索できます。
+    ko: MetaSOTA의 광고 없는 중국 AI 검색 엔진으로, 출처를 인용해 질문에 답하며 학술 문헌도 검색할 수 있습니다.
+    es: Buscador chino de IA sin anuncios de MetaSOTA, que responde con fuentes citadas y también permite buscar literatura académica.
+    de: Werbefreie chinesische KI-Suchmaschine von MetaSOTA, die Fragen mit Quellenangaben beantwortet und auch wissenschaftliche Literatur durchsuchen kann.
+- id: quark
+  name: Quark
+  url: https://www.quark.cn
+  category: engines/china
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: Alibaba's Quark, a search and browser app rebuilt around an AI assistant that answers queries with generated results.
+    zh-CN: 阿里巴巴的夸克，围绕 AI 助手重构的搜索与浏览器应用，以生成式结果回答查询。
+    ja: Alibaba の検索・ブラウザアプリ Quark で、生成した結果で質問に答える AI アシスタントを中心に再構築されています。
+    ko: AI 어시스턴트 중심으로 재구성되어 쿼리에 생성형 결과로 답하는 Alibaba의 검색·브라우저 앱 Quark입니다.
+    es: Quark de Alibaba, una aplicación de búsqueda y navegador rediseñada en torno a un asistente de IA que responde a las consultas con resultados generados.
+    de: Quark von Alibaba, eine Such- und Browser-App, die rund um einen KI-Assistenten neu aufgebaut wurde und Suchanfragen mit generierten Ergebnissen beantwortet.
+- id: qwen
+  name: Qwen
+  url: https://www.qianwen.com
+  category: engines/china
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: Alibaba's Qwen app (formerly Tongyi), an AI assistant built on its Qwen models with web search; the international web version is Qwen Chat.
+    zh-CN: 阿里巴巴的千问 App（原通义），基于 Qwen 系列模型、支持联网搜索的 AI 助手，国际网页版为 Qwen Chat。
+    ja: Alibaba の Qwen モデルを基盤とし、ウェブ検索を備えた AI アシスタントアプリ Qwen（旧 Tongyi）で、海外向けのウェブ版は Qwen Chat です。
+    ko: Alibaba의 Qwen 앱(옛 Tongyi)으로, 자사 Qwen 모델 기반에 웹 검색을 갖춘 AI 어시스턴트이며 해외용 웹 버전은 Qwen Chat입니다.
+    es: Aplicación Qwen de Alibaba (antes Tongyi), un asistente de IA basado en sus modelos Qwen con búsqueda web; la versión web internacional es Qwen Chat.
+    de: Qwen-App von Alibaba (früher Tongyi), ein KI-Assistent auf Basis der eigenen Qwen-Modelle mit Websuche; die internationale Webversion heißt Qwen Chat.
+- id: tencent-yuanbao
+  name: Tencent Yuanbao
+  url: https://yuanbao.tencent.com
+  category: engines/china
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: Tencent's AI assistant, which answers with web search results that include articles from WeChat Official Accounts.
+    zh-CN: 腾讯的 AI 助手，结合网页搜索结果作答，来源包括微信公众号文章。
+    ja: Tencent の AI アシスタントで、WeChat 公式アカウントの記事を含むウェブ検索結果をもとに回答します。
+    ko: WeChat 공식 계정 글을 포함한 웹 검색 결과로 답하는 Tencent의 AI 어시스턴트입니다.
+    es: Asistente de IA de Tencent, que responde con resultados de búsqueda web que incluyen artículos de cuentas oficiales de WeChat.
+    de: KI-Assistent von Tencent, der mit Ergebnissen der Websuche antwortet, darunter Artikel aus WeChat Official Accounts.
+- id: yuanbao-search
+  name: Yuanbao Search
+  url: https://so.qq.com
+  category: engines/china
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: Tencent's AI web search site, which cites its sources, can search WeChat Official Account and Channels content and offers an AI mode for follow-up questions.
+    zh-CN: 腾讯的 AI 网页搜索网站，回答附带引用来源，可搜索微信公众号和视频号内容，并提供可追问的 AI 模式。
+    ja: Tencent の AI ウェブ検索サイトで、引用元を示し、WeChat 公式アカウントや Channels のコンテンツも検索でき、追加質問向けの AI モードを備えています。
+    ko: Tencent의 AI 웹 검색 사이트로, 출처를 인용하고 WeChat 공식 계정과 Channels 콘텐츠도 검색하며 후속 질문용 AI 모드를 제공합니다.
+    es: Sitio de búsqueda web con IA de Tencent que cita sus fuentes, permite buscar contenido de las cuentas oficiales y de Channels de WeChat y ofrece un modo de IA para preguntas de seguimiento.
+    de: KI-Websuche von Tencent, die ihre Quellen angibt, Inhalte aus WeChat Official Accounts und Channels durchsuchen kann und einen KI-Modus für Folgefragen bietet.
+- id: felo
+  name: Felo
+  url: https://felo.ai
+  category: engines/japan
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - jp
+  - global
+  desc:
+    en: Multilingual AI search engine from a Tokyo startup that answers with citations and can search sources across languages.
+    zh-CN: 东京初创公司推出的多语言 AI 搜索引擎，回答附带引用，并可跨语言检索来源。
+    ja: 東京のスタートアップが開発した多言語 AI 検索エンジンで、引用付きで回答し、言語をまたいで情報源を検索できます。
+    ko: 도쿄 스타트업이 만든 다국어 AI 검색 엔진으로, 인용과 함께 답변하며 여러 언어의 출처를 검색할 수 있습니다.
+    es: Buscador de IA multilingüe de una startup de Tokio que responde con citas y puede buscar fuentes en varios idiomas.
+    de: Mehrsprachige KI-Suchmaschine eines Tokioter Start-ups, die mit Quellenangaben antwortet und sprachübergreifend nach Quellen suchen kann.
+- id: yahoo-japan-agent-i
+  name: Agent i
+  url: https://search.yahoo.co.jp/chat
+  category: engines/japan
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - jp
+  desc:
+    en: LY Corporation's AI agent, launched in April 2026 by merging Yahoo! JAPAN Search's AI Assistant and LINE AI, and opened from the Yahoo! JAPAN search box and LINE.
+    zh-CN: LY Corporation 于 2026 年 4 月整合 Yahoo! JAPAN 搜索的 AI 助手与 LINE AI 推出的 AI 智能体，入口为 Yahoo! JAPAN 搜索框和 LINE。
+    ja: Yahoo! JAPAN 検索の AI アシスタントと LINE AI を統合し、2026年4月に始まった LINEヤフーの AI エージェントで、ヤフーの検索窓や LINE から使えます。
+    ko: Yahoo! JAPAN 검색 AI Assistant와 LINE AI를 통합해 2026년 4월 출시한 LY Corporation의 AI 에이전트로, 검색창과 LINE에서 씁니다.
+    es: Agente de IA de LY Corporation, lanzado en abril de 2026 al fusionar el AI Assistant de Yahoo! JAPAN Search y LINE AI, accesible desde el cuadro de búsqueda de Yahoo! JAPAN y LINE.
+    de: KI-Agent der LY Corporation, im April 2026 aus dem AI Assistant der Suche von Yahoo! JAPAN und LINE AI zusammengeführt und über das Suchfeld von Yahoo! JAPAN und LINE aufrufbar.
+- id: adot
+  name: A. (A-dot)
+  url: https://adot.ai
+  category: engines/korea
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  desc:
+    en: SK Telecom's AI personal assistant, which offers an AI search feature developed with Perplexity alongside several chat models.
+    zh-CN: SK Telecom 的 AI 个人助手，除多款聊天模型外，还提供与 Perplexity 合作开发的 AI 搜索功能。
+    ja: SK Telecom の AI パーソナルアシスタントで、複数のチャットモデルに加え、Perplexity と共同開発した AI 検索機能を備えています。
+    ko: SK텔레콤의 AI 개인 비서로, 여러 채팅 모델과 함께 Perplexity와 공동 개발한 AI 검색 기능을 제공합니다.
+    es: Asistente personal de IA de SK Telecom que ofrece, junto a varios modelos de chat, una función de búsqueda con IA desarrollada con Perplexity.
+    de: Persönlicher KI-Assistent von SK Telecom mit einer gemeinsam mit Perplexity entwickelten KI-Suchfunktion und mehreren Chatmodellen.
+- id: kakao-kanana
+  name: Kanana
+  url: https://kanana.ai
+  category: engines/korea
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  desc:
+    en: Kakao's AI brand, covering the Kanana in KakaoTalk assistant and open-source Kanana models, with the KakaoTalk-based Kanana Space agent announced in October 2026.
+    zh-CN: Kakao 的 AI 品牌，涵盖 Kanana in KakaoTalk 助手和开源 Kanana 模型，2026 年 10 月又公布基于 KakaoTalk 的 Kanana Space 智能体。
+    ja: Kakao の AI ブランドで、Kanana in KakaoTalk、オープンソースモデル、2026年10月発表の KakaoTalk 上のエージェント Kanana Space を含みます。
+    ko: 카카오의 AI 브랜드로, 카카오톡 속 Kanana 어시스턴트와 오픈 소스 모델을 아우르며 2026년 10월 카카오톡 기반 에이전트 Kanana Space를 발표했습니다.
+    es: Marca de IA de Kakao que abarca el asistente Kanana in KakaoTalk y los modelos de código abierto Kanana, con el agente Kanana Space, basado en KakaoTalk, anunciado en octubre de 2026.
+    de: KI-Marke von Kakao mit dem Assistenten Kanana in KakaoTalk und den Kanana-Modellen als Open Source; im Oktober 2026 wurde der auf KakaoTalk basierende Agent Kanana Space angekündigt.
+- id: liner
+  name: Liner
+  url: https://liner.com
+  category: engines/korea
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - kr
+  - global
+  desc:
+    en: AI search and research assistant from a Seoul-based company, focused on cited answers and academic sources.
+    zh-CN: 首尔公司推出的 AI 搜索与研究助手，侧重带引用的回答和学术来源。
+    ja: ソウルの企業が開発した AI 検索・リサーチアシスタントで、引用付きの回答と学術的な情報源に重点を置いています。
+    ko: 서울에 본사를 둔 기업의 AI 검색·리서치 어시스턴트로, 인용이 달린 답변과 학술 자료에 중점을 둡니다.
+    es: Buscador y asistente de investigación con IA de una empresa con sede en Seúl, centrado en respuestas con citas y fuentes académicas.
+    de: KI-Such- und Rechercheassistent eines Unternehmens aus Seoul mit Fokus auf Antworten mit Quellenangaben und wissenschaftliche Quellen.
+- id: naver-ai-briefing
+  name: Naver AI Briefing
+  url: https://www.navercorp.com/story/storyDetail?seq=32525
+  category: engines/korea
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  desc:
+    en: Naver Search's generative answers built on HyperCLOVA X, which summarize results at the top of the page and show the source content they used.
+    zh-CN: Naver 搜索基于 HyperCLOVA X 的生成式回答，在页面顶部汇总结果并展示所用的来源内容。
+    ja: HyperCLOVA X を基盤とする Naver 検索の生成回答で、ページ上部に検索結果を要約し、使用した情報源のコンテンツを表示します。
+    ko: HyperCLOVA X 기반의 네이버 검색 생성형 답변으로, 페이지 상단에서 결과를 요약하고 참고한 출처 콘텐츠를 보여 줍니다.
+    es: Respuestas generativas de Naver Search basadas en HyperCLOVA X, que resumen los resultados en la parte superior de la página y muestran el contenido de origen que han usado.
+    de: Generative Antworten der Naver-Suche auf Basis von HyperCLOVA X, die Ergebnisse oben auf der Seite zusammenfassen und die verwendeten Quellinhalte anzeigen.
+- id: naver-ai-tab
+  name: Naver AI Tab
+  url: https://www.navercorp.com/media/pressReleasesDetail?seq=10034429
+  category: engines/korea
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  desc:
+    en: Naver's conversational AI search tab, opened to all users in June 2026, which answers in dialogue with product, place and booking cards.
+    zh-CN: Naver 的对话式 AI 搜索标签页，2026 年 6 月向全体用户开放，以对话形式作答并附商品、地点和预订卡片。
+    ja: Naver の対話型 AI 検索タブで、2026年6月に全ユーザーへ開放され、商品・場所・予約のカードを交えて対話形式で回答します。
+    ko: 2026년 6월 전체 사용자에게 공개된 네이버의 대화형 AI 검색 탭으로, 상품, 장소, 예약 카드와 함께 대화로 답합니다.
+    es: Pestaña de búsqueda conversacional con IA de Naver, abierta a todos los usuarios en junio de 2026, que responde en forma de diálogo con fichas de productos, lugares y reservas.
+    de: Konversationeller KI-Suchtab von Naver, seit Juni 2026 für alle Nutzer geöffnet, der im Dialog mit Infokarten zu Produkten, Orten und Buchungen antwortet.
+- id: wrtn
+  name: Wrtn
+  url: https://wrtn.ai
+  category: engines/korea
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  desc:
+    en: Korean AI assistant from Wrtn Technologies, with a free AI search feature that answers from live web results and lists its sources.
+    zh-CN: Wrtn Technologies 推出的韩国 AI 助手，提供免费的 AI 搜索功能，基于实时网页结果作答并列出来源。
+    ja: Wrtn Technologies の韓国発 AI アシスタントで、リアルタイムのウェブ検索結果から回答して情報源を示す無料の AI 検索機能を備えています。
+    ko: 뤼튼테크놀로지스의 한국어 AI 어시스턴트로, 실시간 웹 결과로 답하고 출처를 보여 주는 무료 AI 검색 기능을 제공합니다.
+    es: Asistente de IA coreano de Wrtn Technologies, con una función gratuita de búsqueda con IA que responde a partir de resultados web en tiempo real y muestra sus fuentes.
+    de: Koreanischer KI-Assistent von Wrtn Technologies mit kostenloser KI-Suchfunktion, die auf Basis aktueller Webergebnisse antwortet und ihre Quellen auflistet.
+- id: ecosia-ai
+  name: Ecosia AI search
+  url: https://www.ecosia.org
+  category: engines/europe
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - eu
+  - de
+  desc:
+    en: AI search features in Ecosia, the Berlin-based search engine that funds tree planting; users can switch them off for AI-free results.
+    zh-CN: 总部位于柏林、以收益资助植树的搜索引擎 Ecosia 的 AI 搜索功能，用户可将其关闭以获得无 AI 的结果。
+    ja: 植林を支援するベルリン発の検索エンジン Ecosia の AI 検索機能で、オフにして AI を使わない検索結果を得ることもできます。
+    ko: 나무 심기를 후원하는 베를린 기반 검색 엔진 Ecosia의 AI 검색 기능으로, 사용자가 끄면 AI 없는 결과를 볼 수 있습니다.
+    es: Funciones de búsqueda con IA de Ecosia, el buscador con sede en Berlín que financia la plantación de árboles; se pueden desactivar para obtener resultados sin IA.
+    de: KI-Suchfunktionen von Ecosia, der Berliner Suchmaschine, die Baumpflanzungen finanziert; Nutzer können sie für Ergebnisse ohne KI abschalten.
+- id: lumo
+  name: Lumo
+  url: https://lumo.proton.me
+  category: engines/europe
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - eu
+  desc:
+    en: Proton's privacy-focused AI assistant, based in Switzerland, with built-in web search and no use of queries for ad targeting.
+    zh-CN: Proton 推出的注重隐私的 AI 助手，总部位于瑞士，内置网页搜索，不将查询用于广告定向。
+    ja: スイスを拠点とする Proton のプライバシー重視の AI アシスタントで、ウェブ検索を内蔵し、クエリを広告ターゲティングに使わない方針です。
+    ko: 스위스에 기반을 둔 Proton의 개인정보 보호 중심 AI 어시스턴트로, 웹 검색이 내장되어 있으며 쿼리를 광고 타기팅에 쓰지 않습니다.
+    es: Asistente de IA de Proton centrado en la privacidad y con sede en Suiza, con búsqueda web integrada, que no usa las consultas para segmentar anuncios.
+    de: Datenschutzorientierter KI-Assistent von Proton mit Sitz in der Schweiz, der eine integrierte Websuche bietet und Anfragen nicht für zielgerichtete Werbung nutzt.
+- id: mistral-vibe
+  name: Mistral Vibe
+  url: https://mistral.ai/products/vibe/
+  category: engines/europe
+  type: engine
+  pricing: freemium
+  open_source: false
+  regions:
+  - eu
+  - fr
+  desc:
+    en: Mistral AI's assistant, renamed from Le Chat to Vibe, which pairs a chat assistant with web search and a coding agent.
+    zh-CN: Mistral AI 的助手，由 Le Chat 更名为 Vibe，集聊天助手、网页搜索和编程智能体于一体。
+    ja: Le Chat から Vibe に名称を変更した Mistral AI のアシスタントで、チャットアシスタントにウェブ検索とコーディングエージェントを組み合わせています。
+    ko: Le Chat에서 Vibe로 이름을 바꾼 Mistral AI의 어시스턴트로, 채팅 어시스턴트에 웹 검색과 코딩 에이전트를 결합했습니다.
+    es: Asistente de Mistral AI, que pasó de llamarse Le Chat a Vibe y combina un asistente de chat con búsqueda web y un agente de programación.
+    de: KI-Assistent von Mistral AI, der von Le Chat in Vibe umbenannt wurde und einen Chat mit Websuche und einen Coding-Agenten verbindet.
+- id: yandex-alice-ai
+  name: Alice AI
+  url: https://alice.yandex.ru
+  category: engines/other
+  type: engine
+  pricing: free
+  open_source: false
+  regions:
+  - ru
+  desc:
+    en: Yandex's Alice AI assistant, whose models also generate the source-linked AI answers in Yandex Search.
+    zh-CN: Yandex 的 Alice AI 助手，其模型也用于生成 Yandex 搜索中附带来源链接的 AI 回答。
+    ja: Yandex の AI アシスタント Alice AI で、そのモデルは Yandex 検索で情報源へのリンク付きの AI 回答の生成にも使われています。
+    ko: Yandex의 Alice AI 어시스턴트로, 같은 모델이 Yandex 검색에서 출처 링크가 달린 AI 답변도 생성합니다.
+    es: Asistente Alice AI de Yandex, cuyos modelos también generan las respuestas de IA con enlaces a fuentes de Yandex Search.
+    de: Assistent Alice AI von Yandex, dessen Modelle auch die KI-Antworten mit Quellenlinks in der Yandex-Suche erzeugen.

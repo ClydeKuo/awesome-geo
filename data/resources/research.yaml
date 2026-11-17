@@ -1,0 +1,1020 @@
+- id: agent2ucb
+  name: 'Agent2UCB: Agentic System for Generative Engine Optimization'
+  url: https://arxiv.org/abs/2608.29063
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Demonstrates an agentic system that evaluates nine GEO strategies per content item and speeds up selecting the best one with a bandit approach.
+    zh-CN: 演示一套智能体系统，针对每条内容评估 9 种 GEO 策略，并用多臂老虎机方法更快选出最优策略。
+    ja: コンテンツごとに 9種類の GEO 戦略を評価し、バンディット手法で最適な戦略の選択を高速化するエージェント型システムを示した論文です。
+    ko: 콘텐츠마다 9가지 GEO 전략을 평가하고 밴딧 기법으로 최적 전략 선택 속도를 높이는 에이전트 시스템을 시연한 논문입니다.
+    es: Muestra un sistema agéntico que evalúa nueve estrategias de GEO para cada pieza de contenido y acelera la elección de la mejor con un enfoque de bandidos multibrazo.
+    de: Zeigt ein agentenbasiertes System, das pro Inhalt neun GEO-Strategien bewertet und die Auswahl der besten mit einem Bandit-Verfahren beschleunigt.
+- id: agenticgeo
+  name: 'AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization'
+  url: https://arxiv.org/abs/2603.20213
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Proposes a self-evolving agentic system for GEO that goes beyond static heuristics and single-prompt rewriting to raise visibility in summarized answers.
+    zh-CN: 提出面向 GEO 的自进化智能体系统，突破静态启发式规则和单一提示词改写的局限，提升内容在摘要式回答中的可见度。
+    ja: 静的なヒューリスティクスや単一プロンプトによる書き換えを超えて、要約回答での可視性を高める自己進化型のエージェント型 GEO システムを提案した論文です。
+    ko: 정적 휴리스틱과 단일 프롬프트 재작성을 넘어 요약형 답변에서 가시성을 높이는 자기 진화형 GEO 에이전트 시스템을 제안한 논문입니다.
+    es: Propone un sistema agéntico de GEO que evoluciona por sí mismo y va más allá de las heurísticas estáticas y la reescritura con un solo prompt para ganar visibilidad en las respuestas resumidas.
+    de: Schlägt ein selbstlernendes agentenbasiertes GEO-System vor, das über statische Heuristiken und Umschreiben per Einzel-Prompt hinausgeht, um die Sichtbarkeit in zusammenfassenden Antworten zu erhöhen.
+- id: competitor-aware-geo
+  name: 'Beyond the Vacuum: Combinatorial Strategy Selection for Competitor-Aware Generative Engine Optimization'
+  url: https://arxiv.org/abs/2608.27631
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Formalizes GEO as competitor-aware strategy selection and uses Bayesian optimization over combinatorial structures to choose rewriting strategies.
+    zh-CN: 将 GEO 形式化为考虑竞争对手的策略选择问题，并在组合结构上用贝叶斯优化选择改写策略。
+    ja: GEO を競合を考慮した戦略選択として定式化し、組合せ構造上のベイズ最適化で書き換え戦略を選ぶ手法を示した論文です。
+    ko: GEO를 경쟁자를 고려한 전략 선택 문제로 정식화하고, 조합 구조 위의 베이지안 최적화로 재작성 전략을 고르는 논문입니다.
+    es: Formaliza el GEO como selección de estrategias que tiene en cuenta a la competencia y aplica optimización bayesiana sobre estructuras combinatorias para elegir estrategias de reescritura.
+    de: Formalisiert GEO als Strategieauswahl unter Berücksichtigung von Wettbewerbern und wählt Umschreibstrategien per Bayes'scher Optimierung über kombinatorische Strukturen.
+- id: diagnosing-citation-failures-geo
+  name: Diagnosing and Repairing Citation Failures in Generative Engine Optimization
+  url: https://arxiv.org/abs/2603.09296
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Diagnoses why an individual document is not cited by a generative engine and applies targeted repairs instead of uniform rewriting rules.
+    zh-CN: 诊断单篇文档未被生成式引擎引用的原因，并进行针对性修复，而非套用统一的改写规则。
+    ja: 個々の文書が生成エンジンに引用されない理由を診断し、一律の書き換えルールではなく対象を絞った修正を施す手法を示した論文です。
+    ko: 개별 문서가 생성형 엔진에 인용되지 않는 원인을 진단하고, 일괄적인 재작성 규칙 대신 맞춤형 수정을 적용하는 논문입니다.
+    es: Diagnostica por qué un motor generativo no cita un documento concreto y aplica correcciones específicas en lugar de reglas de reescritura uniformes.
+    de: Ermittelt, warum ein einzelnes Dokument von einer generativen Suchmaschine nicht zitiert wird, und behebt dies gezielt statt mit einheitlichen Umschreibregeln.
+- id: mageo
+  name: 'From Experience to Skill: Multi-Agent Generative Engine Optimization via Reusable Strategy Learning'
+  url: https://arxiv.org/abs/2604.19516
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Treats GEO as strategy learning, using planning, editing and evaluation agents to distill reusable editing strategies across tasks and engines.
+    zh-CN: 将 GEO 视为策略学习，借助规划、编辑和评估智能体，提炼可跨任务和引擎复用的编辑策略。
+    ja: GEO を戦略学習として扱い、計画・編集・評価のエージェントを使って、タスクやエンジンをまたいで再利用できる編集戦略を抽出する手法を示した論文です。
+    ko: GEO를 전략 학습으로 보고, 계획·편집·평가 에이전트로 여러 작업과 엔진에서 재사용 가능한 편집 전략을 추출하는 논문입니다.
+    es: Plantea el GEO como aprendizaje de estrategias, con agentes de planificación, edición y evaluación que destilan estrategias de edición reutilizables entre tareas y motores.
+    de: Behandelt GEO als Strategielernen, bei dem Planungs-, Bearbeitungs- und Bewertungsagenten wiederverwendbare Bearbeitungsstrategien über Aufgaben und Suchmaschinen hinweg herausarbeiten.
+- id: if-geo
+  name: 'IF-GEO: Conflict-Aware Instruction Fusion for Multi-Query Generative Engine Optimization'
+  url: https://arxiv.org/abs/2601.13938
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Resolves conflicting revision demands across many queries with a diverge-then-converge framework that mines optimization preferences and fuses them into one revision.
+    zh-CN: 采用先发散后收敛的框架，挖掘优化偏好并融合为一次修订，化解多条查询之间相互冲突的修改需求。
+    ja: 多数のクエリ間で対立する修正要求を、最適化の選好を抽出して 1つの修正に統合する発散・収束型のフレームワークで解決する手法を示した論文です。
+    ko: 여러 쿼리에서 충돌하는 수정 요구를 발산 후 수렴 프레임워크로 해결해 최적화 선호를 찾아내고 하나의 수정안으로 통합하는 논문입니다.
+    es: Resuelve demandas de revisión contradictorias entre muchas consultas con un marco de divergencia y convergencia que extrae preferencias de optimización y las fusiona en una sola revisión.
+    de: Löst widersprüchliche Überarbeitungswünsche aus vielen Suchanfragen mit einem Diverge-then-Converge-Framework, das Optimierungspräferenzen ermittelt und zu einer Überarbeitung zusammenführt.
+- id: geo-sfe
+  name: 'Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior'
+  url: https://arxiv.org/abs/2603.29979
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Proposes GEO-SFE, a framework that engineers content structure at several hierarchical levels to influence which pages generative engines cite.
+    zh-CN: 提出 GEO-SFE 框架，在多个层级上设计内容结构，以影响生成式引擎引用哪些页面。
+    ja: 生成エンジンがどのページを引用するかに影響を与えるため、コンテンツ構造を複数の階層で設計するフレームワーク GEO-SFE を提案した論文です。
+    ko: 생성형 엔진이 인용하는 페이지에 영향을 주도록 여러 계층 수준에서 콘텐츠 구조를 설계하는 프레임워크 GEO-SFE를 제안한 논문입니다.
+    es: Propone GEO-SFE, un marco que diseña la estructura del contenido en varios niveles jerárquicos para influir en qué páginas citan los motores generativos.
+    de: Stellt GEO-SFE vor, ein Framework, das die Struktur von Inhalten auf mehreren Hierarchieebenen gestaltet, um zu beeinflussen, welche Seiten generative Suchmaschinen zitieren.
+- id: featgeo
+  name: 'Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility'
+  url: https://aclanthology.org/2026.acl-long.929
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Proposes FeatGEO, which optimizes interpretable structural, content and linguistic page features to balance citation visibility against content quality.
+    zh-CN: 提出 FeatGEO，通过优化可解释的页面结构、内容和语言特征，在引用可见度与内容质量之间取得平衡。
+    ja: ページの構造・内容・言語に関する解釈可能な特徴を最適化し、引用での可視性とコンテンツの質のバランスを取る FeatGEO を提案した論文です。
+    ko: 해석 가능한 페이지의 구조, 콘텐츠, 언어 특징을 최적화해 인용 가시성과 콘텐츠 품질의 균형을 맞추는 FeatGEO를 제안한 논문입니다.
+    es: Propone FeatGEO, que optimiza características interpretables de estructura, contenido y lenguaje de una página para equilibrar la visibilidad en citas con la calidad del contenido.
+    de: Stellt FeatGEO vor, das interpretierbare strukturelle, inhaltliche und sprachliche Merkmale von Seiten optimiert, um Zitationssichtbarkeit und Content-Qualität auszubalancieren.
+- id: beyond-seo-transformer
+  name: 'Beyond SEO: A Transformer-Based Approach for Reinventing Web Content Optimisation'
+  url: https://arxiv.org/abs/2507.03169
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Fine-tunes a BART-base model on synthetic pairs of travel-website text to rewrite content for better discoverability in LLM outputs.
+    zh-CN: 用旅游网站文本合成的文本对微调 BART-base 模型，改写内容以提升其在大语言模型输出中的可发现性。
+    ja: 旅行サイトのテキストから作った合成ペアで BART-base モデルをファインチューニングし、LLM の出力で見つかりやすくなるようコンテンツを書き換える手法を示した論文です。
+    ko: 여행 웹사이트 텍스트로 만든 합성 쌍으로 BART-base 모델을 미세 조정해 LLM 출력에서 더 잘 발견되도록 콘텐츠를 재작성한 논문입니다.
+    es: Ajusta un modelo BART-base con pares sintéticos de textos de sitios de viajes para reescribir contenido y hacerlo más visible en las respuestas de los LLM.
+    de: Trainiert ein BART-base-Modell per Fine-Tuning mit synthetischen Textpaaren von Reise-Websites, um Inhalte für eine bessere Auffindbarkeit in LLM-Ausgaben umzuschreiben.
+- id: role-augmented-intent-driven-geo
+  name: Role-Augmented Intent-Driven Generative Search Engine Optimization
+  url: https://arxiv.org/abs/2508.11158
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Optimizes content for generative search engines without knowing target queries or engine feedback, by inferring user intents and roles in advance.
+    zh-CN: 预先推断用户意图和角色，在不知道目标查询、也没有引擎反馈的情况下为生成式搜索引擎优化内容。
+    ja: ユーザーの意図と役割を事前に推定することで、対象クエリやエンジンからのフィードバックなしに生成検索エンジン向けにコンテンツを最適化する手法を示した論文です。
+    ko: 사용자 의도와 역할을 미리 추론해 대상 쿼리나 엔진 피드백 없이 생성형 검색 엔진에 맞게 콘텐츠를 최적화하는 논문입니다.
+    es: Optimiza contenido para buscadores generativos sin conocer las consultas objetivo ni disponer de retroalimentación del motor, infiriendo de antemano las intenciones y los roles de los usuarios.
+    de: Optimiert Inhalte für generative Suchmaschinen ohne Kenntnis der Zielanfragen oder Rückmeldungen der Suchmaschine, indem Nutzerintentionen und -rollen vorab abgeleitet werden.
+- id: autogeo
+  name: What Generative Search Engines Like and How to Optimize Web Content Cooperatively
+  url: https://arxiv.org/abs/2510.11438
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Presents AutoGEO, which learns what generative engines prefer in retrieved content and rewrites web pages accordingly to gain more visibility.
+    zh-CN: 介绍 AutoGEO，学习生成式引擎在检索内容中的偏好，并据此改写网页以提升可见度。
+    ja: 生成エンジンが取得コンテンツのどんな特徴を好むかを学習し、それに合わせてウェブページを書き換えて可視性を高める AutoGEO を提案した論文です。
+    ko: 생성형 엔진이 검색된 콘텐츠에서 선호하는 특성을 학습하고 그에 맞춰 웹 페이지를 재작성해 가시성을 높이는 AutoGEO를 제시한 논문입니다.
+    es: Presenta AutoGEO, que aprende qué prefieren los motores generativos en el contenido recuperado y reescribe las páginas web en consecuencia para ganar visibilidad.
+    de: Stellt AutoGEO vor, das lernt, welche abgerufenen Inhalte generative Suchmaschinen bevorzugen, und Webseiten entsprechend umschreibt, um mehr Sichtbarkeit zu erzielen.
+- id: white-hat-seo-llms
+  name: White Hat Search Engine Optimization using Large Language Models
+  url: https://arxiv.org/abs/2502.07315
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Presents white-hat search engine optimization techniques based on generative AI and reports their empirical gains.
+    zh-CN: 介绍基于生成式 AI 的白帽搜索引擎优化（SEO）技术，并报告其实证效果。
+    ja: 生成 AI に基づくホワイトハットの SEO 手法を示し、その実証的な効果を報告した論文です。
+    ko: 생성형 AI 기반의 화이트햇 검색 엔진 최적화 기법을 제시하고 실증적 개선 효과를 보고한 논문입니다.
+    es: Presenta técnicas de optimización para buscadores de sombrero blanco basadas en IA generativa y expone sus mejoras empíricas.
+    de: Stellt White-Hat-Techniken für Suchmaschinenoptimierung auf Basis generativer KI vor und berichtet über ihre empirisch gemessenen Verbesserungen.
+- id: geo-generative-engine-optimization
+  name: 'GEO: Generative Engine Optimization'
+  url: https://arxiv.org/abs/2311.09735
+  category: research/foundational
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2023
+  desc:
+    en: Introduces GEO and a benchmark for measuring content visibility in generative engine responses.
+    zh-CN: 提出生成式引擎优化（GEO）及衡量内容在生成式引擎回答中可见度的基准。
+    ja: 生成エンジン最適化（GEO）の概念と、生成エンジンの回答におけるコンテンツの可視性を測るベンチマークを提案した論文です。
+    ko: 생성형 엔진 최적화(GEO) 개념과 생성형 엔진 답변 속 콘텐츠 가시성을 측정하는 벤치마크를 제안한 논문입니다.
+    es: Presenta GEO y un benchmark para medir la visibilidad del contenido en las respuestas de motores generativos.
+    de: Stellt GEO und einen Benchmark zur Messung der Sichtbarkeit von Inhalten in generativen Antworten vor.
+- id: c-seo-bench
+  name: 'C-SEO Bench: Does Conversational SEO Work?'
+  url: https://arxiv.org/abs/2506.11097
+  category: research/benchmarks-datasets
+  type: benchmark
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Benchmarks conversational SEO methods across tasks, domains and numbers of adopters, finding most are ineffective and classic SEO often works better.
+    zh-CN: 在不同任务、领域和采用者数量下对对话式 SEO 方法进行基准测试，发现多数无效，传统 SEO 往往效果更好。
+    ja: 会話型 SEO の手法をタスク、ドメイン、採用者数の別に評価するベンチマークで、ほとんどの手法は効果がなく、従来の SEO のほうが有効な場合が多いことを示しています。
+    ko: 작업, 도메인, 도입자 수에 따라 대화형 SEO 기법을 벤치마크해 대부분 효과가 없고 기존 SEO가 더 나은 경우가 많음을 보인 논문입니다.
+    es: Evalúa métodos de SEO conversacional en distintas tareas, dominios y números de adoptantes, y concluye que la mayoría son ineficaces y que el SEO clásico suele funcionar mejor.
+    de: Vergleicht Methoden für Conversational SEO über Aufgaben, Domänen und die Zahl der Anwender hinweg und stellt fest, dass die meisten wirkungslos sind und klassisches SEO oft besser funktioniert.
+- id: counter-geo-bench
+  name: 'Counter-GEO-Bench: Evaluating Defenses Against Information-Distorting Generative Engine Optimization'
+  url: https://arxiv.org/abs/2609.02316
+  category: research/benchmarks-datasets
+  type: benchmark
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Benchmarks defenses against GEO-optimized documents that carry targeted misinformation, using human-verified queries under controlled conditions.
+    zh-CN: 在受控条件下，用经人工核验的查询评测防御方法，应对经 GEO 处理、携带定向虚假信息的文档。
+    ja: 標的型の誤情報を含む GEO 最適化文書に対する防御策を、人手で検証したクエリと統制された条件で評価するベンチマークです。
+    ko: 사람이 검증한 쿼리와 통제된 조건에서, 표적 허위 정보를 담은 GEO 최적화 문서에 대한 방어 기법을 벤치마크합니다.
+    es: Evalúa defensas frente a documentos optimizados con GEO que contienen desinformación dirigida, con consultas verificadas por personas en condiciones controladas.
+    de: Bewertet Abwehrmaßnahmen gegen GEO-optimierte Dokumente mit gezielter Desinformation anhand manuell geprüfter Suchanfragen unter kontrollierten Bedingungen.
+- id: live-geo
+  name: Do GEO Gains Survive the Live Web? Evaluating In-the-Wild Visibility Gains of Generative Engine Optimization via LIVE-GEO
+  url: https://arxiv.org/abs/2611.01126
+  category: research/benchmarks-datasets
+  type: benchmark
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Introduces LIVE-GEO to test whether GEO visibility gains hold on the live web, where pages are fetched and ranked by real generative engines.
+    zh-CN: 提出 LIVE-GEO，在页面由真实生成式引擎抓取和排序的线上环境中，检验 GEO 的可见度提升是否依然成立。
+    ja: 実際の生成エンジンがページを取得・順位付けするライブのウェブ上でも、GEO による可視性向上が維持されるかを検証する LIVE-GEO を提案した論文です。
+    ko: 실제 생성형 엔진이 페이지를 가져와 순위를 매기는 라이브 웹에서도 GEO 가시성 향상이 유지되는지 검증하는 LIVE-GEO를 제안한 논문입니다.
+    es: Presenta LIVE-GEO para comprobar si las mejoras de visibilidad del GEO se mantienen en la web real, donde motores generativos reales obtienen y ordenan las páginas.
+    de: Stellt LIVE-GEO vor, um zu prüfen, ob GEO-Sichtbarkeitsgewinne im Live-Web standhalten, wo echte generative Suchmaschinen die Seiten abrufen und in eine Rangfolge bringen.
+- id: e-geo
+  name: 'E-GEO: A Testbed for Generative Engine Optimization in E-Commerce'
+  url: https://arxiv.org/abs/2511.20867
+  category: research/benchmarks-datasets
+  type: benchmark
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Provides 13,746 consumer product queries with retrieved listings for testing GEO rewriting heuristics across several generative engines in e-commerce.
+    zh-CN: 提供 13746 条消费品查询及检索到的商品列表，用于在多个生成式引擎上测试电商场景的 GEO 改写启发式方法。
+    ja: EC 分野で GEO の書き換えヒューリスティクスを複数の生成エンジンで検証するための、取得済み商品リスト付きの消費者向け商品クエリ 1万3746件を提供するテストベッドです。
+    ko: 이커머스에서 여러 생성형 엔진의 GEO 재작성 휴리스틱을 시험하도록 소비자 상품 쿼리 1만 3,746개와 검색된 상품 목록을 제공합니다.
+    es: Ofrece 13 746 consultas de productos de consumo con los listados recuperados para probar heurísticas de reescritura de GEO en varios motores generativos de comercio electrónico.
+    de: Stellt 13.746 Produktsuchanfragen von Verbrauchern samt abgerufenen Angeboten bereit, um GEO-Heuristiken zum Umschreiben mit mehreren generativen Suchmaschinen im E-Commerce zu testen.
+- id: alce
+  name: Enabling Large Language Models to Generate Text with Citations
+  url: https://arxiv.org/abs/2305.14627
+  category: research/benchmarks-datasets
+  type: benchmark
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2023
+  desc:
+    en: Introduces ALCE, a benchmark with automatic metrics for fluency, correctness and citation quality of LLM answers that cite retrieved evidence.
+    zh-CN: 提出 ALCE 基准，以自动指标评估大语言模型引用检索证据作答时的流畅度、正确性和引用质量。
+    ja: 取得した根拠を引用する LLM の回答について、流暢さ、正確さ、引用の質を自動指標で評価するベンチマーク ALCE を提案した論文です。
+    ko: 검색된 근거를 인용하는 LLM 답변의 유창성, 정확성, 인용 품질을 자동 지표로 평가하는 벤치마크 ALCE를 제안한 논문입니다.
+    es: Presenta ALCE, un benchmark con métricas automáticas de fluidez, corrección y calidad de las citas para respuestas de LLM que citan evidencias recuperadas.
+    de: Stellt ALCE vor, einen Benchmark mit automatischen Metriken für Flüssigkeit, Korrektheit und Zitationsqualität von LLM-Antworten, die abgerufene Belege zitieren.
+- id: geo-bench-2026
+  name: 'GEO-Bench: Benchmarking Ranking Manipulation in Generative Engine Optimization'
+  url: https://arxiv.org/abs/2605.29107
+  category: research/benchmarks-datasets
+  type: benchmark
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Evaluates GEO ranking-manipulation attacks under one protocol with unified datasets and metrics, comparing their strength and detectability.
+    zh-CN: 在统一协议、数据集和指标下评估 GEO 排名操纵攻击，比较其攻击强度和可检测性。
+    ja: GEO の順位操作攻撃を、統一したデータセットと指標による単一のプロトコルで評価し、その強さと検出しやすさを比較したベンチマークです。
+    ko: 통일된 데이터셋과 지표를 갖춘 단일 프로토콜로 GEO 순위 조작 공격을 평가하고 공격 강도와 탐지 가능성을 비교한 논문입니다.
+    es: Evalúa los ataques de manipulación del ranking mediante GEO con un mismo protocolo y conjuntos de datos y métricas unificados, y compara su eficacia y su detectabilidad.
+    de: Bewertet GEO-Angriffe zur Ranking-Manipulation nach einem einheitlichen Protokoll mit gemeinsamen Datensätzen und Metriken und vergleicht ihre Stärke und Erkennbarkeit.
+- id: google-gemini-aio-search-comparison-dataset
+  name: 'How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews'
+  url: https://arxiv.org/abs/2604.27790
+  category: research/benchmarks-datasets
+  type: dataset
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Releases a dataset of 11,500 user queries and compares the sources and information returned by Google Search, AI Overviews and Gemini.
+    zh-CN: 发布包含 1.15 万条用户查询的数据集，比较 Google 搜索、Google AI Overviews 和 Gemini 返回的来源与信息。
+    ja: 1万1500件のユーザークエリのデータセットを公開し、Google 検索、AI Overviews、Gemini が返す情報源と情報を比較した論文です。
+    ko: 사용자 쿼리 1만 1,500개의 데이터셋을 공개하고 Google 검색, AI Overviews, Gemini가 제공하는 출처와 정보를 비교한 논문입니다.
+    es: Publica un conjunto de datos de 11 500 consultas de usuarios y compara las fuentes y la información que devuelven la Búsqueda de Google, AI Overviews y Gemini.
+    de: Veröffentlicht einen Datensatz mit 11.500 Nutzeranfragen und vergleicht die Quellen und Informationen, die Google-Suche, AI Overviews und Gemini liefern.
+- id: sageo-arena
+  name: 'SAGEO Arena: A Realistic Environment for Evaluating Search-Augmented Generative Engine Optimization'
+  url: https://arxiv.org/abs/2602.12187
+  category: research/benchmarks-datasets
+  type: benchmark
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Offers an environment for end-to-end evaluation of search-augmented GEO strategies, covering retrieval and ranking as well as generation.
+    zh-CN: 提供端到端评估搜索增强型 GEO 策略的环境，覆盖检索、排序和生成环节。
+    ja: 生成だけでなく検索と順位付けも含めて、検索拡張型の GEO 戦略をエンドツーエンドで評価できる環境を提案した論文です。
+    ko: 생성뿐 아니라 검색과 순위까지 포함해 검색 증강 GEO 전략을 엔드투엔드로 평가하는 환경을 제공합니다.
+    es: Ofrece un entorno para evaluar de extremo a extremo estrategias de GEO aumentadas con búsqueda, que abarca la recuperación y el ranking además de la generación.
+    de: Bietet eine Umgebung zur End-to-End-Bewertung suchgestützter GEO-Strategien, die neben der Generierung auch Retrieval und Ranking abdeckt.
+- id: core-controlling-output-rankings
+  name: Controlling Output Rankings in LLM-Based Search via Generative Engine Optimization
+  url: https://arxiv.org/abs/2602.03608
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Proposes CORE, an optimization method that controls where items appear in LLM-generated product recommendations.
+    zh-CN: 提出 CORE 优化方法，控制商品在大语言模型生成的产品推荐中的出现位置。
+    ja: LLM が生成する商品推薦で、アイテムが表示される位置を制御する最適化手法 CORE を提案した論文です。
+    ko: LLM이 생성하는 상품 추천에서 항목이 나타나는 위치를 제어하는 최적화 기법 CORE를 제안한 논문입니다.
+    es: Propone CORE, un método de optimización que controla en qué posición aparecen los artículos en las recomendaciones de productos generadas por LLM.
+    de: Stellt CORE vor, ein Optimierungsverfahren, das steuert, an welcher Position Produkte in LLM-generierten Produktempfehlungen erscheinen.
+- id: manifest-assisted-retrieval-ai-search
+  name: 'Manifest-Assisted Retrieval in Artificial Intelligence Search: Evidence Gaps and a Security Evaluation'
+  url: https://arxiv.org/abs/2610.38361
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Audits evidence on llms.txt-style manifests for AI search, finding little automatic fetching, and evaluates their security implications.
+    zh-CN: 审查 AI 搜索中 llms.txt 类清单文件的相关证据，发现这类文件很少被自动抓取，并评估其安全影响。
+    ja: AI 検索向けの llms.txt 型マニフェストに関する根拠を監査して自動取得がほとんど行われていないことを示し、そのセキュリティ上の影響も評価した論文です。
+    ko: AI 검색용 llms.txt 방식 매니페스트에 관한 근거를 검토해 자동 수집이 거의 없음을 밝히고 보안상의 영향을 평가한 논문입니다.
+    es: Revisa la evidencia sobre manifiestos de tipo llms.txt para la búsqueda con IA, constata que apenas se obtienen de forma automática y evalúa sus implicaciones de seguridad.
+    de: Prüft die Beweislage zu Manifesten im Stil von llms.txt für die KI-Suche, stellt kaum automatischen Abruf fest und bewertet ihre Sicherheitsfolgen.
+- id: mechanism-design-generative-engines
+  name: 'Mechanism Design for Generative Engines: From Exploitation toward Win-Win Outcomes'
+  url: https://arxiv.org/abs/2608.11390
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Shows GEO attacks can escalate into citation wars that degrade content quality, and studies mechanism design for win-win outcomes.
+    zh-CN: 表明 GEO 攻击可能升级为降低内容质量的引用战，并研究实现双赢的机制设计。
+    ja: GEO 攻撃がコンテンツの質を下げる引用合戦へとエスカレートしうることを示し、双方に利益のある結果に向けたメカニズムデザインを検討した論文です。
+    ko: GEO 공격이 콘텐츠 품질을 떨어뜨리는 인용 전쟁으로 번질 수 있음을 보이고, 상생 결과를 위한 메커니즘 설계를 연구한 논문입니다.
+    es: Muestra que los ataques de GEO pueden desembocar en guerras de citas que degradan la calidad del contenido y estudia el diseño de mecanismos para lograr resultados en que todos ganen.
+    de: Zeigt, dass GEO-Angriffe zu Zitationskriegen eskalieren können, die die Content-Qualität verschlechtern, und untersucht Mechanismusdesign für Win-win-Ergebnisse.
+- id: multimodal-geo
+  name: 'Multimodal Generative Engine Optimization: Rank Manipulation for Vision-Language Model Rankers'
+  url: https://arxiv.org/abs/2601.12263
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Shows that jointly crafted image perturbations and text can manipulate how vision-language models rank products.
+    zh-CN: 表明联合构造的图像扰动和文本可以操纵视觉语言模型对商品的排序。
+    ja: 画像の摂動とテキストを組み合わせて作ることで、視覚言語モデルによる商品の順位付けを操作できることを示した論文です。
+    ko: 이미지 교란과 텍스트를 함께 설계하면 시각 언어 모델의 상품 순위를 조작할 수 있음을 보인 논문입니다.
+    es: Muestra que perturbaciones de imagen y texto diseñadas conjuntamente pueden manipular cómo ordenan productos los modelos de visión y lenguaje.
+    de: Zeigt, dass gemeinsam erstellte Bildperturbationen und Texte manipulieren können, wie Vision-Language-Modelle Produkte in eine Rangfolge bringen.
+- id: geo-creates-underexamined-risks
+  name: 'Position: Generative Engine Optimization Creates Underexamined Risks, Governance Must Target Concentration, Disclosure, and Academic Blind Spots'
+  url: https://arxiv.org/abs/2606.12439
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Argues that GEO risks concentrated influence, undisclosed commercial influence and academic-industry blind spots, and calls for answer-level governance such as disclosure and auditing.
+    zh-CN: 认为 GEO 存在影响力集中、商业影响未披露及学界与业界盲区等风险，呼吁在回答层面实施信息披露和审计等治理。
+    ja: GEO が影響力の集中、開示されない商業的影響、学術界と産業界の盲点というリスクを生むと論じ、開示や監査など回答レベルのガバナンスを求めるポジションペーパーです。
+    ko: GEO가 영향력 집중, 공개되지 않은 상업적 영향, 학계와 업계의 사각지대라는 위험을 낳는다고 주장하고, 공개·감사 등 답변 단위 거버넌스를 요구하는 논문입니다.
+    es: Sostiene que el GEO conlleva riesgos de influencia concentrada, influencia comercial oculta y puntos ciegos entre academia e industria, y pide gobernar las respuestas con transparencia y auditorías.
+    de: Warnt vor konzentriertem Einfluss, verdeckter kommerzieller Einflussnahme und blinden Flecken von Forschung und Industrie durch GEO und fordert Governance auf Antwortebene wie Offenlegung und Audits.
+- id: sci-defense
+  name: 'SCI-Defense: Detecting Persuasion-Structured Manipulation of LLM-Based Ranking in Generative Engines'
+  url: https://arxiv.org/abs/2605.21948
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Defends LLM-based rankings by detecting the persuasive structure sellers embed in content to push their items to the top.
+    zh-CN: 检测商家在内容中嵌入、用于把商品推到前列的说服性结构，以保护基于大语言模型的排序。
+    ja: 販売者が自社商品を上位に押し上げるためにコンテンツに埋め込む説得的な構造を検出し、LLM ベースのランキングを守る手法を示した論文です。
+    ko: 판매자가 자기 상품을 상위에 올리려고 콘텐츠에 심는 설득 구조를 탐지해 LLM 기반 순위를 방어하는 논문입니다.
+    es: Protege los rankings basados en LLM detectando la estructura persuasiva que los vendedores insertan en el contenido para colocar sus artículos en primer lugar.
+    de: Schützt LLM-basierte Rankings, indem es die persuasive Struktur erkennt, die Händler in Inhalte einbetten, um ihre Produkte nach oben zu bringen.
+- id: malicious-geo-defense
+  name: 'When Optimization Becomes Manipulation: Defending Generative Search against Malicious Generative Engine Optimization'
+  url: https://arxiv.org/abs/2609.02964
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Defends generative search against malicious GEO rewrites that stay factually consistent and so evade fact checking and perplexity filters.
+    zh-CN: 防御针对生成式搜索的恶意 GEO 改写，这类改写保持事实一致，因而能绕过事实核查和困惑度过滤。
+    ja: 事実との整合性を保つことでファクトチェックやパープレキシティによるフィルターをすり抜ける悪意ある GEO の書き換えから、生成検索を守る手法を示した論文です。
+    ko: 사실 관계는 유지해 팩트 체크와 퍼플렉서티 필터를 피하는 악의적 GEO 재작성으로부터 생성형 검색을 방어하는 논문입니다.
+    es: Defiende la búsqueda generativa frente a reescrituras maliciosas de GEO que mantienen la coherencia factual y así eluden la verificación de datos y los filtros de perplejidad.
+    de: Schützt generative Suche vor bösartigen GEO-Umschreibungen, die faktisch konsistent bleiben und dadurch Faktenprüfung und Perplexitätsfilter umgehen.
+- id: dynamics-adversarial-attacks-llm-search
+  name: Dynamics of Adversarial Attacks on Large Language Model-Based Search Engines
+  url: https://arxiv.org/abs/2501.00745
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Models ranking-manipulation attacks on LLM search as an infinitely repeated prisoner's dilemma and analyzes when cooperation can be sustained.
+    zh-CN: 将针对大语言模型搜索的排名操纵攻击建模为无限重复囚徒困境，并分析何时能维持合作。
+    ja: LLM 検索に対する順位操作攻撃を無限回繰り返しの囚人のジレンマとしてモデル化し、協調が維持される条件を分析した論文です。
+    ko: LLM 검색의 순위 조작 공격을 무한 반복 죄수의 딜레마로 모델링하고 협력이 유지되는 조건을 분석한 논문입니다.
+    es: Modela los ataques de manipulación del ranking en la búsqueda con LLM como un dilema del prisionero repetido infinitamente y analiza cuándo puede mantenerse la cooperación.
+    de: Modelliert Angriffe zur Ranking-Manipulation auf LLM-basierte Suchmaschinen als unendlich wiederholtes Gefangenendilemma und analysiert, wann Kooperation stabil bleiben kann.
+- id: exposing-citation-vulnerabilities-generative-engines
+  name: Exposing Citation Vulnerabilities in Generative Engines
+  url: https://arxiv.org/abs/2510.06823
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Analyzes which publishers generative engines cite and how hard it is for attackers to inject malicious content into the sources behind answers.
+    zh-CN: 分析生成式引擎引用哪些发布商，以及攻击者向回答背后的来源注入恶意内容的难度。
+    ja: 生成エンジンがどのパブリッシャーを引用しているか、また攻撃者が回答の情報源に悪意あるコンテンツを注入するのがどれほど難しいかを分析した論文です。
+    ko: 생성형 엔진이 어떤 퍼블리셔를 인용하는지, 공격자가 답변의 출처에 악성 콘텐츠를 주입하기가 얼마나 어려운지 분석한 논문입니다.
+    es: Analiza qué medios citan los motores generativos y lo difícil que resulta para un atacante inyectar contenido malicioso en las fuentes de sus respuestas.
+    de: Analysiert, welche Publisher generative Suchmaschinen zitieren und wie schwer es für Angreifer ist, schädliche Inhalte in die Quellen hinter den Antworten einzuschleusen.
+- id: poisonarena
+  name: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation
+  url: https://arxiv.org/abs/2505.12574
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Studies competing poisoning attacks on RAG systems, where several adversaries steer the same query toward different targets, and introduces the PoisonArena benchmark.
+    zh-CN: 研究检索增强生成（RAG）系统中的竞争性投毒攻击，即多个攻击者把同一查询引向不同目标，并提出 PoisonArena 基准。
+    ja: 複数の攻撃者が同じクエリを別々の標的へ誘導する RAG システムへの競合的なポイズニング攻撃を調べ、PoisonArena ベンチマークを提案した論文です。
+    ko: 여러 공격자가 같은 쿼리를 서로 다른 목표로 유도하는 RAG 시스템의 경쟁적 포이즈닝 공격을 연구하고 PoisonArena 벤치마크를 제안하는 논문입니다.
+    es: Estudia ataques de envenenamiento en competencia contra sistemas RAG, en los que varios adversarios dirigen la misma consulta hacia objetivos distintos, y presenta el benchmark PoisonArena.
+    de: Untersucht konkurrierende Poisoning-Angriffe auf RAG-Systeme, bei denen mehrere Angreifer dieselbe Suchanfrage zu unterschiedlichen Zielen lenken, und stellt den Benchmark PoisonArena vor.
+- id: stealthrank
+  name: 'StealthRank: LLM Ranking Manipulation via Stealthy Prompt Optimization'
+  url: https://arxiv.org/abs/2504.05804
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Presents an attack that uses energy-based optimization to craft fluent, hard-to-detect prompts that manipulate LLM-driven rankings.
+    zh-CN: 提出一种攻击方法，利用基于能量的优化构造流畅且难以察觉的提示词，以操纵大语言模型驱动的排序。
+    ja: エネルギーベースの最適化で自然かつ検出されにくいプロンプトを作成し、LLM によるランキングを操作する攻撃を示した論文です。
+    ko: 에너지 기반 최적화로 자연스럽고 탐지하기 어려운 프롬프트를 만들어 LLM 기반 순위를 조작하는 공격을 제시한 논문입니다.
+    es: Presenta un ataque que usa optimización basada en energía para crear prompts fluidos y difíciles de detectar que manipulan los rankings generados por LLM.
+    de: Stellt einen Angriff vor, der mit energiebasierter Optimierung flüssige, schwer erkennbare Prompts erzeugt, um LLM-gestützte Rankings zu manipulieren.
+- id: adversarial-seo-llms
+  name: Adversarial Search Engine Optimization for Large Language Models
+  url: https://arxiv.org/abs/2406.18382
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Introduces preference manipulation attacks that steer LLM selections toward attacker content and shows they create a prisoner's dilemma among sellers.
+    zh-CN: 提出偏好操纵攻击，诱导大语言模型选择攻击者的内容，并指出这类攻击会让商家陷入囚徒困境。
+    ja: LLM の選択を攻撃者のコンテンツへ誘導する選好操作攻撃を提案し、それが販売者間に囚人のジレンマを生むことを示した論文です。
+    ko: LLM의 선택을 공격자 콘텐츠 쪽으로 유도하는 선호 조작 공격을 제시하고, 이 공격이 판매자 사이에 죄수의 딜레마를 만든다는 점을 보인 논문입니다.
+    es: Presenta ataques de manipulación de preferencias que inclinan las elecciones de los LLM hacia el contenido del atacante y muestra que generan un dilema del prisionero entre vendedores.
+    de: Stellt Angriffe zur Präferenzmanipulation vor, die die Auswahl von LLMs auf Inhalte von Angreifern lenken, und zeigt, dass sie unter Händlern ein Gefangenendilemma erzeugen.
+- id: gasliteing-the-retrieval
+  name: 'GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search'
+  url: https://arxiv.org/abs/2412.20953
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Studies SEO-style attacks in which adversarial passages are crafted to be retrieved by dense embedding search, the retrieval layer behind many RAG systems.
+    zh-CN: 研究一类 SEO 式攻击，即构造对抗性段落使其被稠密嵌入检索命中，而这种检索正是许多检索增强生成（RAG）系统的检索层。
+    ja: 多くの RAG システムの検索層である密ベクトル埋め込み検索に取得されるよう敵対的な文章を作る、SEO 型の攻撃を調べた論文です。
+    ko: 많은 RAG 시스템의 검색 계층인 밀집 임베딩 검색에 걸리도록 적대적 문단을 만드는 SEO형 공격을 연구한 논문입니다.
+    es: Estudia ataques de tipo SEO en los que se crean pasajes adversariales para que los recupere la búsqueda por embeddings densos, la capa de recuperación de muchos sistemas RAG.
+    de: Untersucht SEO-artige Angriffe, bei denen manipulierte Textpassagen gezielt für den Abruf durch Dense-Embedding-Suche erstellt werden, die Retrieval-Schicht vieler RAG-Systeme.
+- id: manipulating-llms-product-visibility
+  name: Manipulating Large Language Models to Increase Product Visibility
+  url: https://arxiv.org/abs/2404.07981
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Shows that adding a crafted strategic text sequence to a product page can make an LLM-based search engine recommend that product first.
+    zh-CN: 表明在商品页面中加入精心构造的策略性文本序列，可使基于大语言模型的搜索引擎优先推荐该商品。
+    ja: 細工した戦略的テキスト列を商品ページに加えると、LLM ベースの検索エンジンがその商品を最初に推薦するようになることを示した論文です。
+    ko: 상품 페이지에 전략적으로 설계한 텍스트 시퀀스를 넣으면 LLM 기반 검색 엔진이 그 상품을 가장 먼저 추천하게 만들 수 있음을 보인 논문입니다.
+    es: Muestra que añadir una secuencia de texto estratégica a la página de un producto puede hacer que un buscador basado en LLM lo recomiende en primer lugar.
+    de: Zeigt, dass eine gezielt erstellte strategische Textsequenz auf einer Produktseite eine LLM-basierte Suchmaschine dazu bringen kann, dieses Produkt an erster Stelle zu empfehlen.
+- id: ranking-manipulation-conversational-search
+  name: Ranking Manipulation for Conversational Search Engines
+  url: https://arxiv.org/abs/2406.03589
+  category: research/adversarial
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Shows that prompt injections in web page text can raise a source's position in conversational search results, using real consumer product pages.
+    zh-CN: 以真实消费品页面为例，表明网页文本中的提示词注入可提升某个来源在对话式搜索结果中的位置。
+    ja: 実際の商品ページを用いて、ウェブページのテキストに仕込んだプロンプトインジェクションが会話型検索の結果で情報源の順位を押し上げることを示した論文です。
+    ko: 실제 소비자 상품 페이지를 이용해 웹 페이지 텍스트 속 프롬프트 인젝션이 대화형 검색 결과에서 출처의 순위를 끌어올릴 수 있음을 보인 논문입니다.
+    es: Muestra, con páginas reales de productos de consumo, que las inyecciones de prompts en el texto de una página pueden mejorar la posición de una fuente en los resultados de la búsqueda conversacional.
+    de: Zeigt anhand echter Produktseiten, dass Prompt-Injections im Seitentext die Position einer Quelle in den Ergebnissen konversationeller Suchmaschinen verbessern können.
+- id: ai-search-reduces-publisher-referrals
+  name: 'AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence'
+  url: https://arxiv.org/abs/2608.18352
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Reports a preregistered field experiment (N=1,100) finding that removing AI Overviews and AI Mode raises click-through to publishers.
+    zh-CN: 报告一项预注册的实地实验（N=1100），发现移除 Google AI Overviews 和 AI Mode 后，流向发布商的点击率上升。
+    ja: 1100人を対象とした事前登録のフィールド実験で、AI Overviews と AI Mode を取り除くとパブリッシャーへのクリック率が上がることを示した論文です。
+    ko: AI Overviews와 AI Mode를 없애면 퍼블리셔로 가는 클릭이 늘어난다는 사전 등록 현장 실험(N=1,100) 결과를 보고한 논문입니다.
+    es: Presenta un experimento de campo prerregistrado (N = 1100) que concluye que quitar AI Overviews y AI Mode aumenta los clics hacia los medios.
+    de: Berichtet über ein präregistriertes Feldexperiment (N = 1.100), nach dem das Entfernen von AI Overviews und AI Mode die Klicks auf Publisher-Seiten erhöht.
+- id: citechoice
+  name: 'CITECHOICE: A Causal Audit of How Document Presentation Redistributes Citation Credit in Agentic Search'
+  url: https://arxiv.org/abs/2609.15164
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Runs a causal audit of how document presentation changes which of two equally supporting sources an agentic search engine cites.
+    zh-CN: 通过因果审计，研究文档呈现方式如何影响智能体搜索引擎在两个证据支持程度相同的来源中选择引用。
+    ja: 同程度に根拠となる 2つの情報源のうち、エージェント型検索エンジンがどちらを引用するかが文書の提示方法でどう変わるかを、因果的に監査した論文です。
+    ko: 똑같이 근거가 되는 두 출처 중 에이전트 검색 엔진이 무엇을 인용하는지가 문서 제시 방식에 따라 어떻게 바뀌는지 인과적으로 진단한 논문입니다.
+    es: Realiza una auditoría causal de cómo la presentación de un documento cambia cuál de dos fuentes con el mismo respaldo cita un motor de búsqueda agéntico.
+    de: Untersucht in einem kausalen Audit, wie die Präsentation von Dokumenten beeinflusst, welche von zwei gleichermaßen stützenden Quellen eine agentenbasierte Suchmaschine zitiert.
+- id: dont-measure-once
+  name: 'Don''t Measure Once: Measuring Visibility in AI Search (GEO)'
+  url: https://arxiv.org/abs/2604.07585
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Shows that AI search answers vary across runs, prompts and time, so visibility must be measured repeatedly rather than once.
+    zh-CN: 指出 AI 搜索的回答会随运行次数、提示词和时间变化，因此可见度需要反复测量，而非只测一次。
+    ja: AI 検索の回答は実行ごと、プロンプトごと、時期ごとに変わるため、可視性は一度ではなく繰り返し測定する必要があることを示した論文です。
+    ko: AI 검색 답변이 실행, 프롬프트, 시점에 따라 달라지므로 가시성을 한 번이 아니라 반복해 측정해야 함을 보인 논문입니다.
+    es: Muestra que las respuestas de la búsqueda con IA varían entre ejecuciones, prompts y momentos, por lo que la visibilidad debe medirse repetidamente y no una sola vez.
+    de: Zeigt, dass Antworten der KI-Suche je nach Durchlauf, Prompt und Zeitpunkt variieren und Sichtbarkeit daher wiederholt statt einmalig gemessen werden muss.
+- id: citation-selection-to-absorption
+  name: 'From Citation Selection to Citation Absorption: A Measurement Framework for Generative Engine Optimization Across AI Search Platforms'
+  url: https://arxiv.org/abs/2604.25707
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Separates citation selection from citation absorption and analyzes 602 prompts across ChatGPT, Google AI and Perplexity.
+    zh-CN: 区分引用选择与引用吸收，并分析 ChatGPT、Google AI 和 Perplexity 上的 602 条提示词。
+    ja: 引用の選択と引用の吸収を区別し、ChatGPT、Google AI、Perplexity を対象に 602件のプロンプトを分析した論文です。
+    ko: 인용 선택과 인용 흡수를 구분하고 ChatGPT, Google AI, Perplexity에서 프롬프트 602개를 분석한 논문입니다.
+    es: Distingue entre la selección y la absorción de citas y analiza 602 prompts en ChatGPT, Google AI y Perplexity.
+    de: Unterscheidet zwischen Zitationsauswahl und Zitationsabsorption und analysiert 602 Prompts in ChatGPT, Google AI und Perplexity.
+- id: prompt-to-recommendation-brand-visibility
+  name: 'From Prompt to Recommendation: A Fitted Stage Model of Brand Visibility in AI Search'
+  url: https://arxiv.org/abs/2609.23162
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Analyzes nearly 35,000 prompt observations and finds brand mention rates rise sharply once a brand's own domain appears in live retrieval.
+    zh-CN: 分析近 3.5 万条提示词观测数据，发现品牌自有域名一旦出现在实时检索结果中，品牌被提及率便大幅上升。
+    ja: 約 3万5000件のプロンプト観測を分析し、ブランド自身のドメインがライブ検索の結果に現れると、ブランドの言及率が急上昇することを示した論文です。
+    ko: 프롬프트 관측치 약 3만 5,000건을 분석해 브랜드 자체 도메인이 실시간 검색에 나타나면 브랜드 언급률이 급격히 오른다는 결과를 보인 논문입니다.
+    es: Analiza casi 35 000 observaciones de prompts y concluye que la tasa de menciones de una marca se dispara cuando su propio dominio aparece en la recuperación en tiempo real.
+    de: Analysiert fast 35.000 Prompt-Beobachtungen und stellt fest, dass Markenerwähnungen stark zunehmen, sobald die eigene Domain einer Marke im Live-Retrieval auftaucht.
+- id: geo-at-scale-brand-visibility
+  name: 'Generative Engine Optimization at Scale: Measuring Brand Visibility Across AI Search Engines'
+  url: https://arxiv.org/abs/2606.20065
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Studies how to measure brand visibility across ChatGPT, Claude, Perplexity and Gemini, including which sources the engines rely on when citing brands.
+    zh-CN: 研究如何衡量品牌在 ChatGPT、Claude、Perplexity 和 Gemini 中的可见度，包括这些引擎引用品牌时依赖哪些来源。
+    ja: ChatGPT、Claude、Perplexity、Gemini でブランドの可視性を測定する方法と、各エンジンがブランドを引用する際にどの情報源に頼っているかを調べた論文です。
+    ko: ChatGPT, Claude, Perplexity, Gemini 전반의 브랜드 가시성 측정 방법을 연구하고, 엔진이 브랜드를 인용할 때 의존하는 출처도 분석한 논문입니다.
+    es: Estudia cómo medir la visibilidad de marca en ChatGPT, Claude, Perplexity y Gemini, incluidas las fuentes en las que se apoyan estos motores al citar marcas.
+    de: Untersucht, wie sich Markensichtbarkeit in ChatGPT, Claude, Perplexity und Gemini messen lässt und welche Quellen die Suchmaschinen beim Zitieren von Marken heranziehen.
+- id: geo-visibility-prompt-corpora
+  name: 'Measuring GEO Visibility: Prompt Corpora Define the Answer Market'
+  url: https://arxiv.org/abs/2609.06811
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Argues that GEO visibility scores depend on the prompt corpus and weights, which define an answer market that may not match real demand.
+    zh-CN: 认为 GEO 可见度得分取决于提示词语料及其权重，二者界定的回答市场未必符合真实需求。
+    ja: GEO の可視性スコアはプロンプトコーパスと重みづけに左右され、それらが定める「回答市場」は実際の需要と一致しない場合があると論じた論文です。
+    ko: GEO 가시성 점수가 프롬프트 코퍼스와 가중치에 좌우되며, 이 둘이 실제 수요와 다를 수 있는 답변 시장을 규정한다고 주장하는 논문입니다.
+    es: Sostiene que las puntuaciones de visibilidad en GEO dependen del corpus de prompts y de sus pesos, que definen un mercado de respuestas que puede no coincidir con la demanda real.
+    de: Argumentiert, dass GEO-Sichtbarkeitswerte vom Prompt-Korpus und seiner Gewichtung abhängen, die einen Antwortmarkt definieren, der nicht der realen Nachfrage entsprechen muss.
+- id: measuring-google-ai-overviews
+  name: 'Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact'
+  url: https://arxiv.org/abs/2605.14021
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Tracks 55,393 queries over 40 days to measure when AI Overviews appear, the quality of their sources, claim fidelity and publisher impact.
+    zh-CN: 在 40 天内追踪 55393 条查询，衡量 Google AI Overviews 的出现时机、来源质量、陈述忠实度及对发布商的影响。
+    ja: 5万5393件のクエリを 40日間追跡し、AI Overviews の表示条件、情報源の質、主張の忠実性、パブリッシャーへの影響を測定した論文です。
+    ko: 쿼리 5만 5,393개를 40일간 추적해 AI Overviews의 노출 조건, 출처 품질, 주장의 충실도, 퍼블리셔에 미치는 영향을 측정한 논문입니다.
+    es: Sigue 55 393 consultas durante 40 días para medir cuándo aparecen los AI Overviews, la calidad de sus fuentes, la fidelidad de sus afirmaciones y su efecto en los medios.
+    de: Erfasst 55.393 Suchanfragen über 40 Tage, um zu messen, wann AI Overviews erscheinen, wie gut ihre Quellen sind, wie treu sie Aussagen wiedergeben und wie sie sich auf Publisher auswirken.
+- id: navigating-the-shift-web-search-vs-genai
+  name: 'Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation'
+  url: https://arxiv.org/abs/2601.16858
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Quantifies how Google results and generative AI answers differ in cited domains, domain types, query intent and freshness.
+    zh-CN: 量化 Google 搜索结果与生成式 AI 回答在被引用域名、域名类型、查询意图和时效性上的差异。
+    ja: Google の検索結果と生成 AI の回答が、引用ドメイン、ドメインの種類、クエリの意図、情報の新しさの点でどう異なるかを定量化した論文です。
+    ko: Google 검색 결과와 생성형 AI 답변이 인용 도메인, 도메인 유형, 쿼리 의도, 최신성에서 어떻게 다른지 정량화한 논문입니다.
+    es: Cuantifica en qué se diferencian los resultados de Google y las respuestas de IA generativa en dominios citados, tipos de dominio, intención de búsqueda y actualidad.
+    de: Beziffert, wie sich Google-Ergebnisse und Antworten generativer KI bei zitierten Domains, Domaintypen, Suchintention und Aktualität unterscheiden.
+- id: scoring-with-the-engine
+  name: 'Scoring With the Engine: Retrieval Exposure, Cross-Engine Divergence, and the Limits of Engine-Agnostic GEO Scores'
+  url: https://arxiv.org/abs/2609.22655
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Audits ChatGPT, Copilot, Google and Perplexity, finding very low cross-engine URL overlap that limits engine-agnostic GEO scores.
+    zh-CN: 审计 ChatGPT、Copilot、Google 和 Perplexity，发现不同引擎间 URL 重合度极低，限制了与引擎无关的 GEO 评分的作用。
+    ja: ChatGPT、Copilot、Google、Perplexity を監査し、エンジン間の URL の重なりがごくわずかなため、エンジンに依存しない GEO スコアには限界があることを示した論文です。
+    ko: ChatGPT, Copilot, Google, Perplexity를 진단해 엔진 간 겹치는 URL이 매우 적어 엔진 무관 GEO 점수에 한계가 있음을 밝힌 논문입니다.
+    es: Audita ChatGPT, Copilot, Google y Perplexity y halla una coincidencia muy baja de URL entre motores, lo que limita las puntuaciones de GEO independientes del motor.
+    de: Prüft ChatGPT, Copilot, Google und Perplexity und stellt eine sehr geringe URL-Überschneidung zwischen den Suchmaschinen fest, die die Aussagekraft suchmaschinenunabhängiger GEO-Scores begrenzt.
+- id: synthetic-sources-generative-search-citations
+  name: 'Synthetic Sources?: Auditing Generative Search Engine Citations for Evidence of AI-Generated Sources'
+  url: https://arxiv.org/abs/2605.23684
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Audits four generative search engines on 712 queries and finds about 16 percent of cited sources appear to be AI-generated.
+    zh-CN: 以 712 条查询审计四个生成式搜索引擎，发现约 16% 的被引用来源疑似由 AI 生成。
+    ja: 4つの生成検索エンジンを 712件のクエリで監査し、引用元の約 16% が AI 生成とみられることを示した論文です。
+    ko: 쿼리 712개로 생성형 검색 엔진 4곳을 진단해 인용 출처의 약 16%가 AI 생성 콘텐츠로 보인다는 결과를 제시한 논문입니다.
+    es: Audita cuatro buscadores generativos con 712 consultas y halla que alrededor del 16 % de las fuentes citadas parecen generadas por IA.
+    de: Prüft vier generative Suchmaschinen anhand von 712 Suchanfragen und stellt fest, dass etwa 16 % der zitierten Quellen offenbar KI-generiert sind.
+- id: ai-search-online-content-ecosystem
+  name: 'The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit'
+  url: https://arxiv.org/abs/2605.16428
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Uses Google AI Overviews and Reddit to show that AI search raised engagement in cited communities, with the gains fading after AI Mode launched.
+    zh-CN: 以 Google AI Overviews 和 Reddit 为例，表明 AI 搜索提升了被引用社区的参与度，但这一增益在 AI Mode 推出后逐渐消退。
+    ja: Google の AI Overviews と Reddit をもとに、AI 検索が引用されたコミュニティのエンゲージメントを高め、AI Mode の開始後にその効果が薄れたことを示した論文です。
+    ko: Google AI Overviews와 Reddit 데이터로 AI 검색이 인용된 커뮤니티의 참여를 높였고 그 효과가 AI Mode 출시 후 줄었음을 보인 논문입니다.
+    es: A partir de Google AI Overviews y Reddit, muestra que la búsqueda con IA aumentó la participación en las comunidades citadas y que el efecto se diluyó tras el lanzamiento de AI Mode.
+    de: Zeigt anhand von Google AI Overviews und Reddit, dass KI-Suche das Engagement in zitierten Communities steigerte und dieser Effekt nach dem Start von AI Mode nachließ.
+- id: understanding-chatgpt-citations
+  name: 'Understanding ChatGPT Citations: Evidence from Production Web Search Across Model Generations'
+  url: https://arxiv.org/abs/2610.15382
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Observes how four ChatGPT Web settings rewrite queries, retrieve pages and pick citations, with retrieval frequency predicting citation.
+    zh-CN: 观察四种 ChatGPT 网页搜索配置如何改写查询、检索页面和选择引用，发现检索频率可以预测引用。
+    ja: ChatGPT Web の 4つの設定がクエリをどう書き換え、ページを取得し、引用を選ぶかを観察し、取得頻度が引用を予測することを示した論文です。
+    ko: ChatGPT Web 설정 4가지의 쿼리 재작성, 페이지 검색, 인용 선택을 관찰해 검색 빈도가 인용을 예측한다는 결과를 보인 논문입니다.
+    es: Observa cómo cuatro configuraciones de ChatGPT Web reescriben consultas, recuperan páginas y eligen citas, y muestra que la frecuencia de recuperación predice la cita.
+    de: Beobachtet, wie vier Web-Einstellungen von ChatGPT Suchanfragen umschreiben, Seiten abrufen und Zitationen auswählen, wobei die Abrufhäufigkeit die Zitation vorhersagt.
+- id: chinese-language-generative-search-citations
+  name: What Do Chinese-Language Generative Search Engines Cite and Surface? A Large-Scale Empirical Study
+  url: https://arxiv.org/abs/2607.15771
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Analyzes citation behavior, source attribution and entity exposure across four Chinese-language generative search platforms using 614 queries.
+    zh-CN: 基于 614 条查询，分析四个中文生成式搜索平台的引用行为、来源归属和实体曝光。
+    ja: 614件のクエリを用いて、中国語の生成検索プラットフォーム 4つにおける引用の傾向、出典の示し方、エンティティの露出を分析した論文です。
+    ko: 쿼리 614개로 중국어 생성형 검색 플랫폼 4곳의 인용 행태, 출처 표기, 엔티티 노출을 분석한 논문입니다.
+    es: Analiza el comportamiento de citas, la atribución de fuentes y la exposición de entidades en cuatro plataformas de búsqueda generativa en chino a partir de 614 consultas.
+    de: Analysiert anhand von 614 Suchanfragen Zitationsverhalten, Quellenzuordnung und Sichtbarkeit von Entitäten auf vier chinesischsprachigen generativen Suchplattformen.
+- id: what-drives-ai-citations
+  name: What Drives AI Citations? Content, Retrieval and Model Knowledge in Generative Engine Optimization (GEO)
+  url: https://arxiv.org/abs/2610.15033
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Analyzes 158,099 answers and finds that the pages ChatGPT retrieves for its rewritten sub-queries explain citations far better than page properties do.
+    zh-CN: 分析 158099 条回答，发现 ChatGPT 为改写后的子查询检索到的页面，比页面自身属性更能解释引用情况。
+    ja: 15万8099件の回答を分析し、ChatGPT が書き換えたサブクエリで取得するページの方が、ページの特性よりもはるかによく引用を説明することを示した論文です。
+    ko: 답변 15만 8,099건을 분석해 ChatGPT가 재작성한 하위 쿼리로 검색하는 페이지가 페이지 속성보다 인용을 훨씬 잘 설명함을 보인 논문입니다.
+    es: Analiza 158 099 respuestas y concluye que las páginas que recupera ChatGPT para sus subconsultas reescritas explican las citas mucho mejor que las propiedades de las páginas.
+    de: Analysiert 158.099 Antworten und zeigt, dass die Seiten, die ChatGPT für seine umgeschriebenen Teilanfragen abruft, Zitationen weit besser erklären als Seiteneigenschaften.
+- id: geo16-ai-answer-engine-citation-behavior
+  name: 'AI Answer Engine Citation Behavior: An Empirical Analysis of the GEO16 Framework'
+  url: https://arxiv.org/abs/2509.10762
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Introduces a 16-pillar page audit and finds that metadata, semantic HTML and structured data relate most to citations across three engines.
+    zh-CN: 提出包含 16 个维度的页面审计框架，发现在三个引擎中，元数据、语义化 HTML 和结构化数据与引用的关联最强。
+    ja: 16の柱からなるページ監査を提案し、3つのエンジンでメタデータ、セマンティック HTML、構造化データが引用と最も強く関係することを示した論文です。
+    ko: 16개 항목의 페이지 진단을 제시하고, 세 엔진에서 메타데이터, 시맨틱 HTML, 구조화된 데이터가 인용과 가장 관련이 깊다는 결과를 보인 논문입니다.
+    es: Presenta una auditoría de páginas con 16 pilares y concluye que los metadatos, el HTML semántico y los datos estructurados son lo que más se relaciona con las citas en tres motores.
+    de: Führt ein Seiten-Audit mit 16 Säulen ein und zeigt, dass Metadaten, semantisches HTML und strukturierte Daten bei drei Suchmaschinen am stärksten mit Zitationen zusammenhängen.
+- id: geo-how-to-dominate-ai-search
+  name: 'Generative Engine Optimization: How to Dominate AI Search'
+  url: https://arxiv.org/abs/2509.08919
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Compares AI search engines with Google in controlled experiments across verticals and languages, finding a strong bias toward earned media over brand-owned content.
+    zh-CN: 通过跨行业、跨语言的对照实验比较 AI 搜索引擎与 Google，发现前者更偏向非付费的第三方内容，而非品牌自有内容。
+    ja: 業界や言語をまたぐ統制実験で AI 検索エンジンと Google を比較し、ブランド自身のコンテンツよりアーンドメディアを強く優先する傾向を示した論文です。
+    ko: 여러 업종과 언어에 걸친 통제 실험으로 AI 검색 엔진과 Google을 비교해 브랜드 자체 콘텐츠보다 언드 미디어를 크게 선호한다는 결과를 보인 논문입니다.
+    es: Compara buscadores de IA con Google mediante experimentos controlados en varios sectores e idiomas y halla un fuerte sesgo a favor de los medios ganados frente al contenido propio de las marcas.
+    de: Vergleicht KI-Suchmaschinen in kontrollierten Experimenten über Branchen und Sprachen hinweg mit Google und stellt eine starke Bevorzugung von Earned Media gegenüber markeneigenen Inhalten fest.
+- id: what-evidence-do-lms-find-convincing
+  name: What Evidence Do Language Models Find Convincing?
+  url: https://arxiv.org/abs/2402.11782
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Builds ConflictingQA to show that LLMs rely heavily on a page's relevance to the query while largely ignoring stylistic cues such as scientific references.
+    zh-CN: 构建 ConflictingQA 数据集，表明大语言模型高度依赖页面与查询的相关性，而基本忽略科学参考文献等风格线索。
+    ja: ConflictingQA を構築し、LLM はクエリとページの関連性に大きく依存する一方、科学的な参考文献などの文体上の手がかりはほとんど無視することを示した論文です。
+    ko: ConflictingQA를 구축해 LLM이 페이지와 쿼리의 관련성에 크게 의존하고 과학적 참고 문헌 같은 문체 단서는 대체로 무시함을 보인 논문입니다.
+    es: Crea ConflictingQA para mostrar que los LLM se basan mucho en la pertinencia de una página para la consulta y apenas tienen en cuenta rasgos de estilo como las referencias científicas.
+    de: Entwickelt ConflictingQA und zeigt damit, dass LLMs stark auf die Relevanz einer Seite für die Anfrage achten, stilistische Signale wie wissenschaftliche Quellenangaben aber weitgehend ignorieren.
+- id: evaluating-verifiability-generative-search
+  name: Evaluating Verifiability in Generative Search Engines
+  url: https://arxiv.org/abs/2304.09848
+  category: research/citation-visibility
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2023
+  desc:
+    en: Audits Bing Chat, NeevaAI, Perplexity and YouChat for citation recall and precision, finding many statements lack full citation support.
+    zh-CN: 审计 Bing Chat、NeevaAI、Perplexity 和 YouChat 的引用召回率与精确率，发现许多陈述缺乏完整的引用支撑。
+    ja: Bing Chat、NeevaAI、Perplexity、YouChat の引用の再現率と適合率を監査し、多くの記述が引用で十分に裏付けられていないことを示した論文です。
+    ko: Bing Chat, NeevaAI, Perplexity, YouChat의 인용 재현율과 정밀도를 진단해 많은 문장이 인용으로 충분히 뒷받침되지 않음을 밝힌 논문입니다.
+    es: Audita la exhaustividad y la precisión de las citas de Bing Chat, NeevaAI, Perplexity y YouChat, y concluye que muchas afirmaciones carecen de un respaldo completo.
+    de: Prüft Bing Chat, NeevaAI, Perplexity und YouChat auf Recall und Precision der Zitationen und stellt fest, dass viele Aussagen nicht vollständig durch Quellen belegt sind.
+- id: critical-survey-of-geo
+  name: 'Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026)'
+  url: https://arxiv.org/abs/2607.14035
+  category: research/surveys
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Reviews 45 studies from 2023 to 2026, frames GEO as a multi-stage stochastic pipeline and offers a checklist for grading GEO claims.
+    zh-CN: 综述 2023 至 2026 年的 45 项研究，把 GEO 视为多阶段随机流程，并提供评估 GEO 主张的清单。
+    ja: 2023年から 2026年までの 45件の研究をレビューし、GEO を多段階の確率的パイプラインとして捉え、GEO に関する主張を評価するチェックリストを示したサーベイ論文です。
+    ko: 2023~2026년 연구 45편을 검토해 GEO를 다단계 확률적 파이프라인으로 보고, GEO 관련 주장을 평가하는 체크리스트를 제시한 서베이 논문입니다.
+    es: Revisa 45 estudios de 2023 a 2026, plantea el GEO como un proceso estocástico de varias etapas y ofrece una lista de verificación para valorar las afirmaciones sobre el GEO.
+    de: Wertet 45 Studien von 2023 bis 2026 aus, beschreibt GEO als mehrstufige stochastische Pipeline und bietet eine Checkliste zur Bewertung von GEO-Behauptungen.
+- id: survey-llm-deep-search-agents
+  name: 'A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges'
+  url: https://arxiv.org/abs/2508.05668
+  category: research/surveys
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Systematically categorizes LLM-based search agents by architecture, optimization, application and evaluation and lists open challenges.
+    zh-CN: 按架构、优化、应用和评估对基于大语言模型的搜索智能体进行系统分类，并列出待解决的挑战。
+    ja: LLM ベースの検索エージェントをアーキテクチャ、最適化、応用、評価の観点から体系的に分類し、未解決の課題を挙げたサーベイ論文です。
+    ko: LLM 기반 검색 에이전트를 아키텍처, 최적화, 응용, 평가 기준으로 체계적으로 분류하고 남은 과제를 정리한 서베이 논문입니다.
+    es: Clasifica sistemáticamente los agentes de búsqueda basados en LLM por arquitectura, optimización, aplicación y evaluación, y enumera los retos abiertos.
+    de: Ordnet LLM-basierte Suchagenten systematisch nach Architektur, Optimierung, Anwendung und Evaluation und benennt offene Herausforderungen.
+- id: survey-generative-search-recommendation
+  name: A Survey of Generative Search and Recommendation in the Era of Large Language Models
+  url: https://arxiv.org/abs/2404.16924
+  category: research/surveys
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Surveys generative search and recommendation with large language models from a technical perspective.
+    zh-CN: 从技术视角综述大语言模型时代的生成式搜索与推荐。
+    ja: 大規模言語モデルによる生成検索と生成推薦を、技術的な観点からまとめたサーベイ論文です。
+    ko: 대규모 언어 모델 기반의 생성형 검색과 추천을 기술적 관점에서 정리한 서베이 논문입니다.
+    es: Revisión técnica de la búsqueda y la recomendación generativas con modelos de lenguaje grandes.
+    de: Übersichtsarbeit zu generativer Suche und Empfehlung mit großen Sprachmodellen aus technischer Sicht.
+- id: search-engine-services-meet-llms
+  name: 'When Search Engine Services meet Large Language Models: Visions and Challenges'
+  url: https://arxiv.org/abs/2407.00128
+  category: research/surveys
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Examines how search engines and LLMs can benefit each other, covering search for improving LLMs and LLMs for improving search.
+    zh-CN: 探讨搜索引擎与大语言模型如何互相促进，涵盖用搜索改进大语言模型和用大语言模型改进搜索。
+    ja: 検索エンジンと LLM が互いをどう高め合えるかを、LLM を改善する検索と検索を改善する LLM の両面から検討した論文です。
+    ko: LLM 개선을 위한 검색과 검색 개선을 위한 LLM을 아울러 검색 엔진과 LLM이 서로 도울 수 있는 방식을 살펴본 논문입니다.
+    es: Examina cómo pueden beneficiarse mutuamente los buscadores y los LLM, tanto la búsqueda para mejorar los LLM como los LLM para mejorar la búsqueda.
+    de: Untersucht, wie Suchmaschinen und LLMs voneinander profitieren können, sowohl durch Suche zur Verbesserung von LLMs als auch durch LLMs zur Verbesserung der Suche.
+- id: llms-for-information-retrieval-survey
+  name: 'Large Language Models for Information Retrieval: A Survey'
+  url: https://arxiv.org/abs/2308.07107
+  category: research/surveys
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2023
+  desc:
+    en: Surveys how large language models are used across information retrieval systems, including query rewriting, retrieval, reranking and reading.
+    zh-CN: 综述大语言模型在信息检索系统中的应用，包括查询改写、检索、重排序和阅读。
+    ja: クエリの書き換え、検索、リランキング、読解など、情報検索システム全体で大規模言語モデルがどう使われているかをまとめたサーベイ論文です。
+    ko: 쿼리 재작성, 검색, 재순위화, 읽기 등 정보 검색 시스템 전반에서 대규모 언어 모델이 활용되는 방식을 정리한 서베이 논문입니다.
+    es: Revisión de cómo se usan los modelos de lenguaje grandes en los sistemas de recuperación de información, incluida la reescritura de consultas, la recuperación, el reordenamiento y la lectura.
+    de: Übersichtsarbeit zum Einsatz großer Sprachmodelle in Information-Retrieval-Systemen, darunter Umschreiben von Suchanfragen, Retrieval, Reranking und Lesen.

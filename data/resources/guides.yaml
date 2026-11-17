@@ -1,0 +1,595 @@
+- id: semrush-optimize-ai-overviews
+  name: 'AI Overviews: What Are They & How to Optimize for Them'
+  url: https://www.semrush.com/blog/ai-overviews/
+  category: guides/content
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Explains what Google's AI Overviews are, how they are generated from web sources and how site owners can optimize for and track their visibility.
+    zh-CN: 解释什么是 Google AI Overviews、它如何基于网络来源生成，以及网站所有者如何针对其优化并追踪可见度。
+    ja: Google の AI Overviews とは何か、ウェブ上の情報源からどう生成されるか、サイト所有者が最適化し可視性を追跡する方法を解説したガイドです。
+    ko: Google AI Overviews의 개념과 웹 출처에서 생성되는 방식, 사이트 소유자가 이에 맞춰 최적화하고 가시성을 추적하는 방법을 설명합니다.
+    es: Explica qué son los AI Overviews de Google, cómo se generan a partir de fuentes web y cómo pueden los propietarios de sitios optimizar para ellos y hacer seguimiento de su visibilidad.
+    de: Erklärt, was Googles AI Overviews sind, wie sie aus Webquellen entstehen und wie Website-Betreiber dafür optimieren und ihre Sichtbarkeit darin erfassen können.
+- id: glotier-get-cited-by-chatgpt
+  name: How to get cited by ChatGPT in 2026, from our own measurements
+  url: https://glotier.com/how-to-get-cited-by-chatgpt
+  category: guides/content
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Describes a two-stage method for ChatGPT citation, being retrieved then being quotable, with each step backed by the authors' own measurements such as which cited domains allow AI crawlers.
+    zh-CN: 介绍获得 ChatGPT 引用的两步方法，即先被检索到、再值得引用，每一步都有作者自己的测量数据支撑，例如哪些被引用域名允许 AI 爬虫。
+    ja: ChatGPT に引用されるまでを「取得される」「引用に適する」の 2段階で説明し、引用ドメインの AI クローラー許可状況など、各段階を自社の計測で裏付けた記事です。
+    ko: ChatGPT 인용을 검색되는 단계와 인용할 만한 내용이 되는 단계로 나눠 설명하고, 인용 도메인의 AI 크롤러 허용 여부 등 자체 측정으로 각 단계를 뒷받침합니다.
+    es: Describe un método en dos fases para lograr citas en ChatGPT (ser recuperado y luego citable), cada una respaldada por mediciones propias, como la de qué dominios citados admiten rastreadores de IA.
+    de: Beschreibt einen zweistufigen Weg zu Zitationen in ChatGPT (abgerufen werden, dann zitierfähig sein), gestützt auf eigene Messungen der Autoren, etwa welche zitierten Domains KI-Crawler zulassen.
+- id: startup-fortune-cited-by-chatgpt
+  name: How to Get Your Website Cited by ChatGPT and Other AI Search Engines
+  url: https://startupfortune.com/how-to-get-your-website-cited-by-chatgpt-and-ai-search/
+  category: guides/content
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Reports what 13 buyer-question tests in ChatGPT and the site's server logs showed, including a negative result, and which AI bots to allow.
+    zh-CN: 报告在 ChatGPT 中测试 13 个购物问题及分析网站服务器日志的结果（含一项负面结果），并说明应放行哪些 AI 爬虫。
+    ja: ChatGPT で購買者の質問 13件を試した結果とサイトのサーバーログから分かったことを、否定的な結果も含めて報告し、許可すべき AI ボットを示した記事です。
+    ko: ChatGPT에서 진행한 구매자 질문 테스트 13건과 자사 서버 로그가 보여 준 결과를 부정적 결과까지 포함해 전하고, 허용할 AI 크롤러를 정리합니다.
+    es: Expone lo que mostraron 13 pruebas con preguntas de compradores en ChatGPT y los logs del servidor del sitio, incluido un resultado negativo, y qué bots de IA conviene permitir.
+    de: Berichtet, was 13 Tests mit Käuferfragen in ChatGPT und die Serverlogs der Website zeigten, darunter ein negatives Ergebnis, und welche KI-Bots zugelassen werden sollten.
+- id: semrush-optimize-content-ai-search
+  name: How to Optimize Content for AI Search Engines [2026 Guide]
+  url: https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/
+  category: guides/content
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Walks through seven steps for getting content cited by AI search engines such as ChatGPT and Google, from keyword research to formatting.
+    zh-CN: 讲解让内容被 ChatGPT、Google 等 AI 搜索引擎引用的七个步骤，从关键词研究到内容排版。
+    ja: キーワード調査から書式設定まで、ChatGPT や Google などの AI 検索エンジンにコンテンツを引用されるための 7つのステップを解説したガイドです。
+    ko: 키워드 리서치부터 서식까지, ChatGPT와 Google 같은 AI 검색 엔진에 콘텐츠가 인용되도록 하는 7단계를 안내합니다.
+    es: Recorre siete pasos, desde la investigación de palabras clave hasta el formato, para que buscadores de IA como ChatGPT y Google citen un contenido.
+    de: Beschreibt sieben Schritte, damit KI-Suchmaschinen wie ChatGPT und Google Inhalte zitieren, von der Keyword-Recherche bis zur Formatierung.
+- id: semrush-rank-in-chatgpt-search
+  name: 'How to rank in ChatGPT search: 8 steps to improve visibility'
+  url: https://semrush.com/blog/chatgpt-search
+  category: guides/content
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Gives eight steps for ranking in ChatGPT search by making content easy for AI systems to extract and by building off-site consensus.
+    zh-CN: 给出在 ChatGPT 搜索中获得排名的八个步骤，包括让内容便于 AI 系统提取，以及在站外建立共识。
+    ja: AI システムがコンテンツを抽出しやすくし、サイト外でコンセンサスを築くことで、ChatGPT の検索で上位に表示されるための 8つのステップを示したガイドです。
+    ko: AI 시스템이 추출하기 쉬운 콘텐츠를 만들고 사이트 밖에서 합의를 쌓아 ChatGPT 검색에서 순위를 높이는 8단계를 제시합니다.
+    es: Propone ocho pasos para posicionarse en ChatGPT Search, haciendo que los sistemas de IA puedan extraer el contenido con facilidad y generando consenso fuera del sitio.
+    de: Nennt acht Schritte für bessere Rankings in der ChatGPT-Suche, die Inhalte für KI-Systeme leicht extrahierbar machen und externen Konsens aufbauen.
+- id: ahrefs-llmo-10-ways
+  name: 'LLMO: 10 Ways to Work Your Brand Into AI Answers'
+  url: https://ahrefs.com/blog/llm-optimization
+  category: guides/content
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Lists ten ways to improve a brand's visibility in LLM-generated responses, framed as LLM optimization (LLMO).
+    zh-CN: 列出提升品牌在大语言模型生成回答中可见度的 10 种方法，并将其归为大语言模型优化（LLMO）。
+    ja: LLM が生成する回答でブランドの可視性を高める 10の方法を、LLMO（LLM 最適化）の観点から紹介した記事です。
+    ko: LLM 최적화(LLMO) 관점에서 LLM이 생성한 답변 속 브랜드 가시성을 높이는 10가지 방법을 소개합니다.
+    es: Enumera diez formas de mejorar la visibilidad de una marca en las respuestas generadas por LLM, planteadas como optimización para LLM (LLMO).
+    de: Nennt zehn Wege, die Sichtbarkeit einer Marke in LLM-generierten Antworten zu verbessern, eingeordnet als LLM-Optimierung (LLMO).
+- id: microsoft-content-ai-search-answers
+  name: Optimizing Your Content for Inclusion in AI Search Answers
+  url: https://about.ads.microsoft.com/en/blog/post/october-2025/optimizing-your-content-for-inclusion-in-ai-search-answers
+  category: guides/content
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Microsoft Advertising guidance on what makes content usable in AI search answers, including schema, clear headings, self-contained Q&A blocks and mistakes such as hiding answers in tabs or PDFs.
+    zh-CN: Microsoft Advertising 的指南，说明怎样的内容可用于 AI 搜索回答，包括 Schema、清晰标题、独立问答块，以及把答案藏在标签页或 PDF 中等错误。
+    ja: スキーマ、明確な見出し、完結した Q&A ブロックなど AI 検索の回答に使われやすい条件と、回答をタブや PDF に隠す誤りを解説した Microsoft Advertising のガイドです。
+    ko: 스키마, 명확한 제목, 독립형 Q&A 블록 등 AI 검색 답변용 콘텐츠 요건과 탭·PDF에 답변을 숨기는 실수를 다룬 Microsoft Advertising 가이드입니다.
+    es: Guía de Microsoft Advertising sobre qué hace útil un contenido en la búsqueda con IA (Schema, títulos claros, bloques autónomos de preguntas y respuestas) y errores como ocultarlas en pestañas o PDF.
+    de: Microsoft-Advertising-Leitfaden zu nutzbaren Inhalten für KI-Suchantworten, etwa Schema-Markup, Überschriften und eigenständige Q&A-Blöcke, und zu Fehlern wie in Tabs oder PDFs versteckten Antworten.
+- id: ahrefs-ai-traffic-3000-sites
+  name: 63% of Websites Receive AI Traffic (New Study of 3,000 Sites)
+  url: https://ahrefs.com/blog/ai-traffic-study
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Studies 3,000 websites to estimate how much traffic AI chatbots send, finding 63% of sites receive some and that three chatbots account for 98% of it.
+    zh-CN: 研究 3000 个网站，估算 AI 聊天机器人带来的流量，发现 63% 的网站获得过此类流量，其中 98% 来自三款聊天机器人。
+    ja: 3000サイトを調査して AI チャットボットが送るトラフィック量を推計し、63% のサイトが流入を受け、その 98% を 3つのチャットボットが占めることを示した調査です。
+    ko: 웹사이트 3,000곳을 조사해 AI 챗봇 유입 트래픽을 추정한 연구로, 63%가 AI 트래픽을 받고 그중 98%가 챗봇 3개에서 온다는 결과입니다.
+    es: Estudia 3000 sitios web para estimar cuánto tráfico envían los chatbots de IA y concluye que el 63 % de los sitios recibe algo y que tres chatbots generan el 98 % de ese tráfico.
+    de: Schätzt anhand von 3.000 Websites, wie viel Traffic KI-Chatbots liefern, und ermittelt, dass 63 % der Websites solchen Traffic erhalten und drei Chatbots 98 % davon ausmachen.
+- id: cloudflare-ai-crawlers-purpose-industry
+  name: 'A deeper look at AI crawlers: breaking down traffic by purpose and industry'
+  url: https://blog.cloudflare.com/ai-crawler-traffic-by-purpose-and-industry/
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Extends Cloudflare Radar with industry-focused data and a breakdown of AI bot traffic by crawl purpose.
+    zh-CN: 为 Cloudflare Radar 增加行业维度数据，并按抓取目的细分 AI 爬虫流量。
+    ja: Cloudflare Radar に業界別のデータと、クロール目的別の AI ボットトラフィックの内訳を追加したことを紹介する記事です。
+    ko: 업종 중심 데이터와 크롤링 목적별 AI 크롤러 트래픽 분석을 Cloudflare Radar에 추가한 내용을 소개합니다.
+    es: Amplía Cloudflare Radar con datos por sector y un desglose del tráfico de bots de IA según la finalidad del rastreo.
+    de: Erweitert Cloudflare Radar um branchenbezogene Daten und eine Aufschlüsselung des KI-Bot-Traffics nach Crawl-Zweck.
+- id: goodie-ai-citations-news-publishers
+  name: 'AI Citations & News Publishers: 2026 Study'
+  url: https://higoodie.com/blog/publishers-and-ai-search-study
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Analyzes 31 million AI citations and 105 publishers' robots.txt files, finding that blocking AI crawlers works on some models and does nothing on others.
+    zh-CN: 分析 3100 万条 AI 引用和 105 家发布商的 robots.txt 文件，发现屏蔽 AI 爬虫对部分模型有效，对另一些则毫无作用。
+    ja: 3100万件の AI 引用と 105のパブリッシャーの robots.txt を分析し、AI クローラーのブロックが一部のモデルには効く一方、ほかのモデルには効果がないことを示した調査です。
+    ko: AI 인용 3,100만 건과 퍼블리셔 105곳의 robots.txt를 분석해 AI 크롤러 차단이 일부 모델에는 효과가 있지만 다른 모델에는 효과가 없음을 밝힙니다.
+    es: Analiza 31 millones de citas de IA y los robots.txt de 105 medios, y concluye que bloquear los rastreadores de IA funciona con algunos modelos y no tiene ningún efecto en otros.
+    de: Analysiert 31 Millionen KI-Zitationen und die robots.txt-Dateien von 105 Publishern und stellt fest, dass das Blockieren von KI-Crawlern bei manchen Modellen wirkt und bei anderen nicht.
+- id: brightedge-aio-rank-overlap
+  name: AI Overview Citations Now 54% from Organic Rankings
+  url: https://brightedge.com/resources/weekly-ai-search-insights/rank-overlap-after-16-months-of-aio
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Tracks 16 months of data showing AI Overview citations overlapping with organic rankings growing from 32% to 54%, with industry breakdowns.
+    zh-CN: 基于 16 个月的数据，显示 Google AI Overviews 引用与自然排名的重合率从 32% 升至 54%，并按行业细分。
+    ja: 16か月分のデータを追跡し、AI Overviews の引用とオーガニック順位の重なりが 32% から 54% に拡大したことを、業界別の内訳とあわせて示した調査です。
+    ko: 16개월간의 데이터로 AI Overviews 인용과 자연 검색 순위의 겹침이 32%에서 54%로 늘었음을 보여 주며 업종별 분석도 제공합니다.
+    es: Sigue 16 meses de datos que muestran cómo la coincidencia entre las citas de AI Overviews y el posicionamiento orgánico pasó del 32 % al 54 %, con desglose por sector.
+    de: Wertet Daten aus 16 Monaten aus und zeigt, dass die Überschneidung von AI-Overview-Zitationen mit organischen Rankings von 32 % auf 54 % stieg, aufgeschlüsselt nach Branchen.
+- id: ahrefs-ai-overviews-reduce-clicks
+  name: AI Overviews Reduce Clicks by 34.5%
+  url: https://ahrefs.com/blog/ai-overviews-reduce-clicks
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Presents Ahrefs research finding that AI Overviews reduce clicks by 34.5%, countering Google's claim that they increase clicks.
+    zh-CN: 介绍 Ahrefs 的研究发现，Google AI Overviews 让点击量下降 34.5%，与 Google 声称其能增加点击的说法相悖。
+    ja: AI Overviews によってクリック数が 34.5% 減ることを示した Ahrefs の調査で、クリックが増えるとする Google の主張に反する結果です。
+    ko: AI Overviews가 클릭 수를 34.5% 줄인다는 Ahrefs 연구 결과로, 클릭이 늘어난다는 Google의 주장을 반박합니다.
+    es: Presenta un estudio de Ahrefs según el cual AI Overviews reduce los clics un 34,5 %, lo que contradice la afirmación de Google de que los aumenta.
+    de: Stellt eine Ahrefs-Studie vor, nach der AI Overviews die Klicks um 34,5 % senken, entgegen Googles Aussage, sie würden die Klicks steigern.
+- id: cjr-ai-search-citation-problem
+  name: AI Search Has a Citation Problem
+  url: https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Tests eight AI search tools on news excerpts and finds they cite sources incorrectly in more than 60 percent of queries.
+    zh-CN: 用新闻摘录测试八款 AI 搜索工具，发现它们在超过 60% 的查询中引用来源有误。
+    ja: 8つの AI 検索ツールをニュース記事の抜粋で検証し、60% を超えるクエリで引用元を誤って示したことを報告した記事です。
+    ko: AI 검색 도구 8개를 뉴스 발췌문으로 시험해 쿼리의 60% 이상에서 출처를 잘못 인용한다는 결과를 제시합니다.
+    es: Pone a prueba ocho herramientas de búsqueda con IA mediante fragmentos de noticias y concluye que citan mal las fuentes en más del 60 % de las consultas.
+    de: Testet acht KI-Suchtools mit Auszügen aus Nachrichtenartikeln und stellt fest, dass sie bei mehr als 60 % der Anfragen Quellen falsch zitieren.
+- id: similarweb-ai-search-stats-2026
+  name: AI Search Stats in 2026
+  url: https://aisearch.similarweb.com/blog/gen-ai-stats/
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Collects 2026 Similarweb data on ChatGPT, Gemini and Claude market share, referral traffic, citations and ads inside AI answers.
+    zh-CN: 汇集 Similarweb 2026 年关于 ChatGPT、Gemini 和 Claude 的市场份额、引荐流量、引用以及 AI 回答内广告的数据。
+    ja: ChatGPT、Gemini、Claude の市場シェア、参照トラフィック、引用、AI 回答内の広告について、2026年の Similarweb のデータをまとめた記事です。
+    ko: ChatGPT, Gemini, Claude의 시장 점유율, 유입 트래픽, 인용, AI 답변 속 광고에 관한 2026년 Similarweb 데이터를 모았습니다.
+    es: Recopila datos de Similarweb de 2026 sobre la cuota de mercado de ChatGPT, Gemini y Claude, el tráfico de referencia, las citas y los anuncios dentro de las respuestas de IA.
+    de: Sammelt Similarweb-Daten aus dem Jahr 2026 zu Marktanteilen von ChatGPT, Gemini und Claude, Referral-Traffic, Zitationen und Werbung in KI-Antworten.
+- id: ahrefs-ai-overview-brand-visibility
+  name: An Analysis of AI Overview Brand Visibility Factors (75K Brands Studied)
+  url: https://ahrefs.com/blog/ai-overview-brand-correlation
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Analyzes 75,000 brands to identify which search factors are most likely to influence brand mentions in AI Overviews.
+    zh-CN: 分析 7.5 万个品牌，找出最可能影响 Google AI Overviews 中品牌提及的搜索因素。
+    ja: 7万5000のブランドを分析し、AI Overviews でのブランド言及に影響しやすい検索要因を特定した調査です。
+    ko: 브랜드 7만 5,000개를 분석해 AI Overviews의 브랜드 언급에 가장 큰 영향을 줄 가능성이 높은 검색 요인을 찾습니다.
+    es: Analiza 75 000 marcas para identificar qué factores de búsqueda influyen más en las menciones de marca en AI Overviews.
+    de: Analysiert 75.000 Marken, um zu ermitteln, welche Suchfaktoren Markenerwähnungen in AI Overviews am wahrscheinlichsten beeinflussen.
+- id: pew-ai-summaries-link-clicks
+  name: Do people click on links in Google AI summaries?
+  url: https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Compares Google users' behavior in March 2025 and finds those who saw an AI summary were less likely to click links to other websites.
+    zh-CN: 对比 2025 年 3 月 Google 用户的行为，发现看到 AI 摘要的用户点击其他网站链接的可能性更低。
+    ja: 2025年3月の Google ユーザーの行動を比較し、AI の要約を見た人はほかのサイトへのリンクをクリックする割合が低いことを示した調査です。
+    ko: 2025년 3월 Google 사용자의 행동을 비교해 AI 요약을 본 사용자가 다른 웹사이트 링크를 클릭할 가능성이 더 낮다는 결과를 제시합니다.
+    es: Compara el comportamiento de usuarios de Google en marzo de 2025 y constata que quienes vieron un resumen de IA hicieron clic con menos frecuencia en enlaces a otros sitios web.
+    de: Vergleicht das Verhalten von Google-Nutzern im März 2025 und stellt fest, dass Personen, die eine KI-Zusammenfassung sahen, seltener auf Links zu anderen Websites klickten.
+- id: ahrefs-how-stable-are-ai-citations
+  name: How Stable Are AI Citations? 10 Things We Learned Tracking 37,500 Citations
+  url: https://ahrefs.com/blog/how-stable-are-ai-citations/
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Tracks 37,500 citations across ChatGPT, Gemini, Copilot and Google, finding that half disappear the next day and most come back.
+    zh-CN: 追踪 ChatGPT、Gemini、Copilot 和 Google 上的 3.75 万条引用，发现半数在次日消失，但大多会重新出现。
+    ja: ChatGPT、Gemini、Copilot、Google での 3万7500件の引用を追跡し、半数が翌日に消え、その大半が再び現れることを示した調査です。
+    ko: ChatGPT, Gemini, Copilot, Google에서 인용 3만 7,500건을 추적해 절반이 다음 날 사라지고 대부분 다시 나타난다는 결과를 제시합니다.
+    es: Sigue 37 500 citas en ChatGPT, Gemini, Copilot y Google y concluye que la mitad desaparece al día siguiente y que la mayoría vuelve después.
+    de: Erfasst 37.500 Zitationen in ChatGPT, Gemini, Copilot und Google und stellt fest, dass die Hälfte am nächsten Tag verschwindet und die meisten wieder auftauchen.
+- id: seranking-llms-txt-study
+  name: 'LLMs.txt: Why Brands Rely On It and Why It Doesn''t Work'
+  url: https://seranking.com/blog/llms-txt/
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Examines 300,000 domains to see how widely llms.txt is used and whether it affects how often a domain is cited by LLMs.
+    zh-CN: 考察 30 万个域名，了解 llms.txt 的普及程度，以及它是否影响域名被大语言模型引用的频率。
+    ja: 30万のドメインを調べ、llms.txt がどの程度使われているか、また LLM に引用される頻度に影響するかを検証した調査です。
+    ko: 도메인 30만 개를 조사해 llms.txt의 사용 범위와 이 파일이 LLM의 도메인 인용 빈도에 영향을 주는지 살펴봅니다.
+    es: Examina 300 000 dominios para ver cuánto se usa llms.txt y si influye en la frecuencia con que los LLM citan un dominio.
+    de: Untersucht 300.000 Domains darauf, wie verbreitet llms.txt ist und ob die Datei beeinflusst, wie oft eine Domain von LLMs zitiert wird.
+- id: botify-openai-tripled-crawl
+  name: 'OpenAI Has Tripled Their Crawl of the Web: An Analysis of 7B+ Log Files'
+  url: https://botify.com/blog/openai-tripled-web-crawl
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Analyzes about 7 billion log files from November 2024 to March 2026 to show how OpenAI's three crawlers interact with the web.
+    zh-CN: 分析 2024 年 11 月至 2026 年 3 月约 70 亿个日志文件，揭示 OpenAI 的三款爬虫如何访问网络。
+    ja: 2024年11月から 2026年3月までの約 70億件のログファイルを分析し、OpenAI の 3つのクローラーがウェブとどう関わっているかを示した調査です。
+    ko: 2024년 11월부터 2026년 3월까지의 로그 파일 약 70억 개를 분석해 OpenAI 크롤러 3종이 웹을 어떻게 크롤링하는지 보여 줍니다.
+    es: Analiza unos 7000 millones de archivos de log, de noviembre de 2024 a marzo de 2026, para mostrar cómo interactúan con la web los tres rastreadores de OpenAI.
+    de: Analysiert rund 7 Milliarden Logdateien von November 2024 bis März 2026, um zu zeigen, wie die drei Crawler von OpenAI mit dem Web interagieren.
+- id: similarweb-gen-ai-publishers
+  name: 'Report: The Impact of Generative AI on Publishers'
+  url: https://www.similarweb.com/corp/reports/generative-ai-publishers/
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Reports a 212% surge in ChatGPT news queries and a 26% drop in publisher traffic as generative AI reshapes the news sector.
+    zh-CN: 报告指出，随着生成式 AI 重塑新闻行业，ChatGPT 新闻类查询激增 212%，发布商流量下降 26%。
+    ja: 生成 AI がニュース業界を変えるなかで、ChatGPT のニュース関連クエリが 212% 急増し、パブリッシャーのトラフィックが 26% 減少したことを報告したレポートです。
+    ko: 생성형 AI가 뉴스 업계를 재편하면서 ChatGPT 뉴스 쿼리가 212% 급증하고 퍼블리셔 트래픽이 26% 감소했다고 보고합니다.
+    es: Informa de un aumento del 212 % de las consultas de noticias en ChatGPT y una caída del 26 % del tráfico de los medios mientras la IA generativa transforma el sector informativo.
+    de: Berichtet über einen Anstieg der Nachrichtenanfragen in ChatGPT um 212 % und einen Rückgang des Publisher-Traffics um 26 %, während generative KI die Nachrichtenbranche umgestaltet.
+- id: semrush-ai-overviews-study-2025
+  name: 'Semrush Report: AI Overviews'' Impact on Search in 2025'
+  url: https://semrush.com/blog/semrush-ai-overviews-study
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Analyzes more than 10 million keywords to show how Google's AI Overviews are changing search and what that means for SEO.
+    zh-CN: 分析超过 1000 万个关键词，展示 Google AI Overviews 如何改变搜索以及这对 SEO 意味着什么。
+    ja: 1000万以上のキーワードを分析し、Google の AI Overviews が検索をどう変えつつあり、それが SEO にとって何を意味するかを示した調査です。
+    ko: 키워드 1,000만 개 이상을 분석해 Google AI Overviews가 검색을 어떻게 바꾸고 있으며 SEO에 어떤 의미가 있는지 보여 줍니다.
+    es: Analiza más de 10 millones de palabras clave para mostrar cómo están cambiando la búsqueda los AI Overviews de Google y qué implica para el SEO.
+    de: Analysiert mehr als 10 Millionen Keywords, um zu zeigen, wie Googles AI Overviews die Suche verändern und was das für SEO bedeutet.
+- id: ahrefs-aio-citations-top-10
+  name: 'Update: 38% of AI Overview Citations Pull From The Top 10'
+  url: https://ahrefs.com/blog/ai-overview-citations-top-10
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Finds from 863K SERPs that 38% of AI Overview citations come from top-10 pages, down from 76% a year earlier.
+    zh-CN: 基于 86.3 万个搜索结果页发现，Google AI Overviews 中 38% 的引用来自排名前 10 的页面，低于一年前的 76%。
+    ja: 86万3000件の SERP から、AI Overviews の引用の 38% が上位 10件のページによるもので、1年前の 76% から低下したことを示した調査です。
+    ko: SERP 86만 3,000개를 분석해 AI Overviews 인용의 38%가 상위 10위 페이지에서 나오며, 1년 전 76%보다 줄었다는 결과를 제시합니다.
+    es: Concluye, a partir de 863 000 SERP, que el 38 % de las citas de AI Overviews proceden de páginas del top 10, frente al 76 % de un año antes.
+    de: Ermittelt anhand von 863.000 SERPs, dass 38 % der Zitationen in AI Overviews von Seiten aus den Top 10 stammen, gegenüber 76 % ein Jahr zuvor.
+- id: ahrefs-schema-ai-citations
+  name: We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.
+  url: https://ahrefs.com/blog/schema-ai-citations/
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Tracks 1,885 pages that added JSON-LD and measures the impact on citations in Google AI Overviews, AI Mode and ChatGPT.
+    zh-CN: 追踪 1885 个添加了 JSON-LD 的页面，衡量其对 Google AI Overviews、AI Mode 和 ChatGPT 中引用的影响。
+    ja: JSON-LD を追加した 1885ページを追跡し、Google の AI Overviews、AI Mode、ChatGPT での引用への影響を測定した調査です。
+    ko: JSON-LD를 추가한 페이지 1,885개를 추적해 Google AI Overviews, AI Mode, ChatGPT 인용에 미친 영향을 측정합니다.
+    es: Sigue 1885 páginas que añadieron JSON-LD y mide su efecto en las citas de Google AI Overviews, AI Mode y ChatGPT.
+    de: Beobachtet 1.885 Seiten, die JSON-LD ergänzt haben, und misst die Auswirkung auf Zitationen in Google AI Overviews, AI Mode und ChatGPT.
+- id: ahrefs-why-chatgpt-cites-pages
+  name: Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)
+  url: https://ahrefs.com/blog/why-chatgpt-cites-pages/
+  category: guides/reports
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Studies 1.4 million prompts to show how page titles, URLs and snippets influence which retrieved pages ChatGPT cites.
+    zh-CN: 研究 140 万条提示词，揭示页面标题、URL 和摘要如何影响 ChatGPT 引用检索结果中的哪些页面。
+    ja: 140万件のプロンプトを分析し、ページタイトル、URL、スニペットが、ChatGPT が取得したページのうちどれを引用するかに与える影響を示した調査です。
+    ko: 프롬프트 140만 개를 분석해 페이지 제목, URL, 스니펫이 ChatGPT가 검색한 페이지 중 어느 것을 인용하는지에 미치는 영향을 보여 줍니다.
+    es: Estudia 1,4 millones de prompts para mostrar cómo influyen los títulos, las URL y los fragmentos en qué páginas recuperadas cita ChatGPT.
+    de: Zeigt anhand von 1,4 Millionen Prompts, wie Seitentitel, URLs und Snippets beeinflussen, welche abgerufenen Seiten ChatGPT zitiert.
+- id: semrush-geo-practical-guide
+  name: 'Generative Engine Optimization (GEO): A Practical Guide'
+  url: https://www.semrush.com/blog/generative-engine-optimization/
+  category: guides/strategy
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Gives a practical introduction to how generative engine optimization helps content appear in AI-powered search results.
+    zh-CN: 实用入门指南，介绍 GEO 如何帮助内容出现在 AI 驱动的搜索结果中。
+    ja: 生成エンジン最適化（GEO）によってコンテンツを AI 検索の結果に表示させる方法を、実践的に紹介した入門ガイドです。
+    ko: 생성형 엔진 최적화(GEO)가 AI 기반 검색 결과에 콘텐츠가 노출되도록 돕는 방식을 실무 관점에서 소개합니다.
+    es: Introducción práctica a cómo la optimización para motores generativos ayuda a que el contenido aparezca en los resultados de búsqueda con IA.
+    de: Praxisnahe Einführung dazu, wie Generative Engine Optimization Inhalten zu Sichtbarkeit in KI-gestützten Suchergebnissen verhilft.
+- id: backlinko-geo-guide
+  name: 'Generative Engine Optimization (GEO): How to Win in AI Search'
+  url: https://backlinko.com/generative-engine-optimization-geo
+  category: guides/strategy
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Explains what GEO is, how it differs from SEO and which techniques help content get cited in AI answers, with a downloadable audit checklist.
+    zh-CN: 讲解 GEO 是什么、与 SEO 有何不同，以及哪些技巧有助于内容被 AI 回答引用，附可下载的审计清单。
+    ja: GEO の概要、SEO との違い、AI 回答で引用されやすくする手法を解説したガイドで、ダウンロードできる監査チェックリストも付いています。
+    ko: 생성형 엔진 최적화(GEO)의 개념과 SEO와의 차이, AI 답변에 인용되는 데 도움이 되는 기법을 설명하며 내려받을 수 있는 진단 체크리스트를 제공합니다.
+    es: Explica qué es el GEO, en qué se diferencia del SEO y qué técnicas ayudan a que el contenido se cite en las respuestas de IA, con una lista de verificación de auditoría descargable.
+    de: Erklärt, was GEO ist, wie es sich von SEO unterscheidet und welche Techniken Inhalten zu Zitationen in KI-Antworten verhelfen, mit einer Audit-Checkliste zum Herunterladen.
+- id: ahrefs-geo-growth-strategies-metrics
+  name: 'Generative Engine Optimization: Growth Strategies and Metrics For the AI Era'
+  url: https://ahrefs.com/blog/generative-engine-optimization/
+  category: guides/strategy
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Explains how AI search differs from traditional search, lays out five GEO tactics and covers how to measure GEO success, noting that AI search still relies on traditional search.
+    zh-CN: 解释 AI 搜索与传统搜索的区别，列出五种 GEO 策略并介绍如何衡量 GEO 成效，同时指出 AI 搜索仍依赖传统搜索。
+    ja: AI 検索と従来の検索の違い、5つの GEO 施策、GEO の成果の測り方を解説し、AI 検索が今も従来の検索に依存している点にも触れたガイドです。
+    ko: AI 검색과 기존 검색의 차이, 5가지 GEO 전술, GEO 성과 측정법을 설명하며 AI 검색도 여전히 기존 검색에 의존한다고 짚습니다.
+    es: Explica en qué se diferencia la búsqueda con IA de la tradicional, expone cinco tácticas de GEO y cómo medir su éxito, y señala que la búsqueda con IA sigue apoyándose en la tradicional.
+    de: Erklärt, wie sich KI-Suche von klassischer Suche unterscheidet, stellt fünf GEO-Taktiken vor und zeigt, wie sich GEO-Erfolg messen lässt, wobei KI-Suche weiterhin auf klassischer Suche aufbaut.
+- id: a16z-geo-rewrites-search
+  name: How Generative Engine Optimization (GEO) Rewrites the Rules of Search
+  url: https://a16z.com/geo-over-seo
+  category: guides/strategy
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Argues that search is moving from link-based ranking to language-model answers and frames GEO as the next phase of the roughly $80 billion SEO market.
+    zh-CN: 认为搜索正从基于链接的排名转向大语言模型生成的回答，并将 GEO 视为规模约 800 亿美元的 SEO 市场的下一阶段。
+    ja: 検索がリンクに基づく順位付けから言語モデルによる回答へ移りつつあると論じ、GEO を約 800億ドル規模の SEO 市場の次の段階と位置づけた記事です。
+    ko: 검색이 링크 기반 순위에서 언어 모델 답변으로 옮겨 가고 있다고 주장하며, GEO를 약 800억 달러 규모 SEO 시장의 다음 단계로 규정합니다.
+    es: Sostiene que la búsqueda pasa del ranking basado en enlaces a las respuestas de modelos de lenguaje y presenta el GEO como la siguiente fase de un mercado del SEO de unos 80 000 millones de dólares.
+    de: Argumentiert, dass sich die Suche von linkbasiertem Ranking hin zu Antworten von Sprachmodellen verlagert, und sieht GEO als nächste Phase des rund 80 Milliarden US-Dollar schweren SEO-Markts.
+- id: seen-geo-checklist
+  name: 'SEEN GEO checklist: 41 items across four layers'
+  url: https://geo.deeflect.com/guides/geo-framework-checklist
+  category: guides/strategy
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Presents SEEN, a four-layer GEO framework of Structure, Evidence, Entity and Notability, with a 41-item checklist scored 0 or 1 to reveal the weakest layer.
+    zh-CN: 提出 SEEN 四层 GEO 框架（结构、证据、实体、知名度），附 41 项按 0 或 1 计分的清单，用于找出最薄弱的一层。
+    ja: Structure、Evidence、Entity、Notability の 4層の GEO フレームワーク SEEN と、0/1 で採点して最も弱い層を示す 41項目のチェックリストの紹介です。
+    ko: Structure, Evidence, Entity, Notability의 4계층 GEO 프레임워크 SEEN과 0·1점으로 가장 약한 계층을 찾는 41개 항목 체크리스트를 다룹니다.
+    es: Presenta SEEN, un marco de GEO de cuatro capas (Structure, Evidence, Entity y Notability), con una lista de verificación de 41 ítems que se puntúan con 0 o 1 para detectar la capa más débil.
+    de: Stellt SEEN vor, ein GEO-Framework aus vier Schichten (Structure, Evidence, Entity, Notability) mit 41 Checklistenpunkten, die je mit 0 oder 1 bewertet werden, um die schwächste Schicht zu finden.
+- id: superlines-10-step-geo-guide
+  name: The Complete 10-Step Guide to Generative Engine Optimization (GEO) in 2026
+  url: https://superlines.io/articles/generative-engine-optimization-geo-guide-2025
+  category: guides/strategy
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Walks through a ten-step GEO process, from choosing priority topics and a baseline to reading cited sources, improving content and reporting results.
+    zh-CN: 逐步讲解十步 GEO 流程，从确定优先主题和基线，到解读引用来源、改进内容和汇报结果。
+    ja: 優先トピックとベースラインの設定から、引用元の読み解き、コンテンツの改善、成果の報告まで、10ステップの GEO プロセスを解説したガイドです。
+    ko: 우선순위 주제와 기준선 설정부터 인용 출처 분석, 콘텐츠 개선, 성과 보고까지 10단계 생성형 엔진 최적화(GEO) 프로세스를 안내합니다.
+    es: Recorre un proceso de GEO en diez pasos, desde elegir los temas prioritarios y una línea de base hasta analizar las fuentes citadas, mejorar el contenido e informar de los resultados.
+    de: Beschreibt einen GEO-Prozess in zehn Schritten, von der Wahl prioritärer Themen und einer Ausgangsbasis über die Auswertung zitierter Quellen bis zur Content-Optimierung und Ergebnisberichterstattung.
+- id: ahrefs-answer-engine-optimization-guide
+  name: What is Answer Engine Optimization (AEO)?
+  url: https://ahrefs.com/blog/answer-engine-optimization/
+  category: guides/strategy
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Opens an eight-part AEO guide covering how AEO differs from SEO, how answer engines work, tracking AI visibility, choosing prompts and fixing mistakes in AI answers.
+    zh-CN: 八篇系列答案引擎优化（AEO）指南的开篇，涵盖 AEO 与 SEO 的区别、回答引擎的工作原理、AI 可见度追踪、提示词选择及纠正 AI 回答中的错误。
+    ja: 全 8回の AEO ガイドの初回で、SEO との違い、回答エンジンの仕組み、AI 可視性の追跡、プロンプトの選び方、AI 回答の誤りの修正を扱います。
+    ko: AEO와 SEO의 차이, 답변 엔진의 작동 방식, AI 가시성 추적, 프롬프트 선정, AI 답변 속 오류 수정을 다루는 8부작 AEO 가이드의 첫 글입니다.
+    es: 'Abre una guía de AEO en ocho partes: diferencias con el SEO, funcionamiento de los motores de respuestas, seguimiento de la visibilidad en IA, elección de prompts y corrección de errores de la IA.'
+    de: 'Auftakt eines achtteiligen AEO-Leitfadens: Unterschiede zu SEO, Funktionsweise von Antwortmaschinen, Monitoring der KI-Sichtbarkeit, Prompt-Auswahl und Korrektur von Fehlern in KI-Antworten.'
+- id: sej-structured-data-ai-crawlers
+  name: 'AI Search Optimization: Make Your Structured Data Accessible'
+  url: https://searchenginejournal.com/ai-search-optimization-make-your-structured-data-accessible/537843
+  category: guides/technical
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Reports an investigation finding that JSON-LD injected client-side, for example through Google Tag Manager, is missed by AI crawlers that cannot execute JavaScript.
+    zh-CN: 报道一项调查发现，通过 Google Tag Manager 等方式在客户端注入的 JSON-LD 会被无法执行 JavaScript 的 AI 爬虫遗漏。
+    ja: Google タグマネージャーなどでクライアントサイドに挿入した JSON-LD は、JavaScript を実行できない AI クローラーに読み取られないという調査結果を伝える記事です。
+    ko: Google Tag Manager 등으로 클라이언트 측에서 삽입한 JSON-LD는 JavaScript를 실행하지 못하는 AI 크롤러가 놓친다는 조사 결과를 전합니다.
+    es: Informa de una investigación según la cual los rastreadores de IA que no ejecutan JavaScript no ven el JSON-LD insertado en el cliente, por ejemplo mediante Google Tag Manager.
+    de: Berichtet über eine Untersuchung, nach der clientseitig eingefügtes JSON-LD, etwa über den Google Tag Manager, von KI-Crawlern ohne JavaScript-Ausführung übersehen wird.
+- id: seoclarity-track-ai-traffic-ga4
+  name: How to Track AI Search Traffic to Your Site in GA4
+  url: https://seoclarity.net/blog/track-ai-search-traffic
+  category: guides/technical
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Shows how to track AI-driven referral traffic from tools such as ChatGPT and Gemini in Google Analytics 4.
+    zh-CN: 介绍如何在 Google Analytics 4 中追踪来自 ChatGPT、Gemini 等工具的 AI 引荐流量。
+    ja: ChatGPT や Gemini などからの AI 経由の参照トラフィックを Google Analytics 4 で追跡する方法を示したガイドです。
+    ko: ChatGPT, Gemini 등에서 유입되는 AI 추천 트래픽을 Google Analytics 4에서 추적하는 방법을 설명합니다.
+    es: Muestra cómo hacer seguimiento en Google Analytics 4 del tráfico de referencia procedente de herramientas de IA como ChatGPT y Gemini.
+    de: Zeigt, wie sich Referral-Traffic aus KI-Tools wie ChatGPT und Gemini in Google Analytics 4 erfassen lässt.
+- id: cloudflare-markdown-for-agents
+  name: Introducing Markdown for Agents
+  url: https://blog.cloudflare.com/markdown-for-agents/
+  category: guides/technical
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Introduces serving pages as markdown to AI agents, showing how it cuts token use, with one post falling from 16,180 tokens in HTML to 3,150 in markdown.
+    zh-CN: 介绍以 Markdown 格式向 AI 智能体提供页面，展示其如何减少 token 用量，例如一篇文章从 HTML 的 16180 个 token 降至 Markdown 的 3150 个。
+    ja: AI エージェントにページを Markdown で配信する機能を紹介し、ある記事のトークン数が HTML の 1万6180 から Markdown では 3150 に減った例で削減効果を示しています。
+    ko: AI 에이전트에 페이지를 Markdown으로 제공하는 기능을 소개하며, 한 게시물이 HTML 1만 6,180토큰에서 Markdown 3,150토큰으로 줄어든 예를 보여 줍니다.
+    es: 'Presenta el envío de páginas en Markdown a agentes de IA y muestra cómo reduce el uso de tokens: una entrada pasa de 16 180 tokens en HTML a 3150 en Markdown.'
+    de: Stellt die Auslieferung von Seiten als Markdown an KI-Agenten vor und zeigt die Token-Ersparnis, wobei ein Beitrag von 16.180 Tokens in HTML auf 3.150 in Markdown sinkt.
+- id: vercel-rise-of-the-ai-crawler
+  name: The rise of the AI crawler
+  url: https://vercel.com/blog/the-rise-of-the-ai-crawler
+  category: guides/technical
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Presents MERJ and Vercel data on how ChatGPT, Claude and other AI crawlers handle JavaScript and content types, with recommendations for site owners.
+    zh-CN: 发布 MERJ 与 Vercel 的数据，揭示 ChatGPT、Claude 等 AI 爬虫如何处理 JavaScript 和不同内容类型，并为网站所有者提供建议。
+    ja: ChatGPT、Claude などの AI クローラーによる JavaScript やコンテンツ種別の扱いを MERJ と Vercel のデータで示し、サイト所有者への推奨をまとめた記事です。
+    ko: ChatGPT, Claude 등 AI 크롤러의 JavaScript와 콘텐츠 유형 처리 방식을 MERJ와 Vercel 데이터로 보여 주고 사이트 소유자를 위한 권고를 제시합니다.
+    es: Presenta datos de MERJ y Vercel sobre cómo tratan el JavaScript y los tipos de contenido ChatGPT, Claude y otros rastreadores de IA, con recomendaciones para propietarios de sitios.
+    de: Stellt Daten von MERJ und Vercel dazu vor, wie ChatGPT, Claude und andere KI-Crawler mit JavaScript und Inhaltstypen umgehen, mit Empfehlungen für Website-Betreiber.

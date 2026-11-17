@@ -1,0 +1,119 @@
+- id: amplifying-ai-awesome-geo
+  name: amplifying-ai/awesome-generative-engine-optimization
+  url: https://github.com/amplifying-ai/awesome-generative-engine-optimization
+  category: related-lists
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/amplifying-ai/awesome-generative-engine-optimization
+  regions:
+  - global
+  desc:
+    en: Broad GEO resource list with platform-specific guides, agentic commerce, tools, research, newsletters, videos and events.
+    zh-CN: 覆盖面广的 GEO 资源清单，收录各平台专项指南、智能体电商、工具、研究、通讯、视频和活动。
+    ja: プラットフォーム別ガイド、エージェント型コマース、ツール、研究、ニュースレター、動画、イベントを幅広く集めた GEO リソースリストです。
+    ko: 플랫폼별 가이드, 에이전틱 커머스, 도구, 연구, 뉴스레터, 영상, 행사를 폭넓게 다루는 GEO 자료 목록입니다.
+    es: Lista amplia de recursos de GEO con guías por plataforma, comercio agéntico, herramientas, investigación, boletines, videos y eventos.
+    de: Umfangreiche GEO-Ressourcenliste mit plattformspezifischen Leitfäden, Agentic Commerce, Tools, Forschung, Newslettern, Videos und Events.
+- id: davidhuji-awesome-geo
+  name: DavidHuji/Awesome-GEO
+  url: https://github.com/DavidHuji/Awesome-GEO
+  category: related-lists
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/DavidHuji/Awesome-GEO
+  regions:
+  - global
+  desc:
+    en: Research-focused list of GEO papers, arranged by year.
+    zh-CN: 以研究为主的 GEO 论文清单，按年份整理。
+    ja: GEO の論文を年ごとに整理した、研究中心のリストです。
+    ko: GEO 논문을 연도별로 정리한 연구 중심 목록입니다.
+    es: Lista de artículos de investigación sobre GEO, ordenados por año.
+    de: Forschungsorientierte Liste von Arbeiten zu GEO, nach Jahren geordnet.
+- id: deeflect-awesome-geo
+  name: deeflect/awesome-geo
+  url: https://github.com/deeflect/awesome-geo
+  category: related-lists
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/deeflect/awesome-geo
+  regions:
+  - global
+  desc:
+    en: List of free platforms and open-source repositories for GEO, with scores, search and free tools on a companion website.
+    zh-CN: 收录 GEO 免费平台和开源仓库的清单，配套网站提供评分、搜索和免费工具。
+    ja: GEO 向けの無料プラットフォームとオープンソースのリポジトリを集めたリストで、関連サイトではスコア、検索機能、無料ツールを提供しています。
+    ko: GEO용 무료 플랫폼과 오픈 소스 저장소 목록으로, 별도 웹사이트에서 점수, 검색, 무료 도구를 제공합니다.
+    es: Lista de plataformas gratuitas y repositorios de código abierto para GEO, con puntuaciones, búsqueda y herramientas gratuitas en un sitio web complementario.
+    de: Liste kostenloser Plattformen und Open-Source-Repositories für GEO mit Bewertungen, Suche und kostenlosen Tools auf einer begleitenden Website.
+- id: izak-fisher-geo-tools
+  name: izak-fisher/generative-engine-optimization-tools
+  url: https://github.com/izak-fisher/generative-engine-optimization-tools
+  category: related-lists
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/izak-fisher/generative-engine-optimization-tools
+  regions:
+  - global
+  desc:
+    en: Alphabetical directory of GEO and AI visibility tracking tools with short notes on features and pricing.
+    zh-CN: 按字母排序的 GEO 与 AI 可见度追踪工具目录，附功能与价格简介。
+    ja: GEO と AI 可視性の追跡ツールをアルファベット順に並べ、機能と料金の簡単なメモを添えたディレクトリです。
+    ko: GEO와 AI 가시성 추적 도구를 알파벳순으로 정리하고 기능과 가격을 짧게 설명한 디렉터리입니다.
+    es: Directorio alfabético de herramientas de GEO y de seguimiento de la visibilidad en IA, con breves notas sobre funciones y precios.
+    de: Alphabetisches Verzeichnis von Tools für GEO und das Monitoring der KI-Sichtbarkeit mit kurzen Hinweisen zu Funktionen und Preisen.
+- id: luka2chat-awesome-geo
+  name: luka2chat/awesome-geo
+  url: https://github.com/luka2chat/awesome-geo
+  category: related-lists
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/luka2chat/awesome-geo
+  regions:
+  - global
+  desc:
+    en: General GEO list covering learning resources, tools, AI search engines, strategies, monitoring, case studies, communities and platform news.
+    zh-CN: 综合性 GEO 清单，涵盖学习资源、工具、AI 搜索引擎、策略、监测、案例研究、社区和平台动态。
+    ja: 学習リソース、ツール、AI 検索エンジン、戦略、モニタリング、事例、コミュニティ、プラットフォームのニュースを扱う、GEO の総合的なリストです。
+    ko: 학습 자료, 도구, AI 검색 엔진, 전략, 모니터링, 사례 연구, 커뮤니티, 플랫폼 소식을 다루는 종합 GEO 목록입니다.
+    es: Lista general de GEO con recursos de aprendizaje, herramientas, buscadores de IA, estrategias, seguimiento, estudios de caso, comunidades y novedades de plataformas.
+    de: Allgemeine GEO-Liste mit Lernressourcen, Tools, KI-Suchmaschinen, Strategien, Monitoring, Fallstudien, Communities und Plattform-News.
+- id: marketingtoolslist-awesome-geo
+  name: marketingtoolslist/awesome-geo
+  url: https://github.com/marketingtoolslist/awesome-geo
+  category: related-lists
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/marketingtoolslist/awesome-geo
+  regions:
+  - global
+  desc:
+    en: GEO list (formerly Tusko/awesome-geo) of research, official platform documentation, guides, tools, courses, newsletters and communities.
+    zh-CN: GEO 清单（原 Tusko/awesome-geo），收录研究、平台官方文档、指南、工具、课程、通讯和社区。
+    ja: 研究、プラットフォームの公式ドキュメント、ガイド、ツール、講座、ニュースレター、コミュニティを集めた GEO のリスト（旧 Tusko/awesome-geo）です。
+    ko: 연구, 플랫폼 공식 문서, 가이드, 도구, 강의, 뉴스레터, 커뮤니티를 정리한 GEO 목록으로, 옛 이름은 Tusko/awesome-geo입니다.
+    es: Lista de GEO (antes Tusko/awesome-geo) con investigación, documentación oficial de plataformas, guías, herramientas, cursos, boletines y comunidades.
+    de: GEO-Liste (früher Tusko/awesome-geo) mit Forschung, offizieller Plattformdokumentation, Leitfäden, Tools, Kursen, Newslettern und Communities.
+- id: rankspotai-awesome-geo-tools
+  name: RankSpotAI/awesome-geo-tools
+  url: https://github.com/RankSpotAI/awesome-geo-tools
+  category: related-lists
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/RankSpotAI/awesome-geo-tools
+  regions:
+  - global
+  desc:
+    en: Comparison table of GEO tools by engines covered, refresh rate, price and data export, maintained by a GEO tool vendor that lists itself too.
+    zh-CN: 按覆盖引擎、刷新频率、价格和数据导出对比 GEO 工具的表格，由一家 GEO 工具厂商维护，其自家产品也在其中。
+    ja: 対応エンジン、更新頻度、価格、データエクスポートで GEO ツールを比較した表で、自社製品も掲載している GEO ツールベンダーが管理しています。
+    ko: 지원 엔진, 갱신 주기, 가격, 데이터 내보내기 기준으로 GEO 도구를 비교한 표로, 자사 도구도 목록에 올린 GEO 도구 업체가 관리합니다.
+    es: Tabla comparativa de herramientas de GEO según motores cubiertos, frecuencia de actualización, precio y exportación de datos, mantenida por un proveedor de GEO que también se incluye a sí mismo.
+    de: Vergleichstabelle von GEO-Tools nach abgedeckten Suchmaschinen, Aktualisierungsrate, Preis und Datenexport, gepflegt von einem GEO-Tool-Anbieter, der sich selbst ebenfalls aufführt.

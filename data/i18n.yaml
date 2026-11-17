@@ -1,0 +1,135 @@
+# Fixed README copy. Keys must match validate.REQUIRED_I18N_KEYS.
+# Headings (*_title) must not end in punctuation; en license heading stays "Licensing" (awesome-lint).
+title:
+  en: Awesome GEO
+  zh-CN: Awesome GEO
+  ja: Awesome GEO
+  ko: Awesome GEO
+  es: Awesome GEO
+  de: Awesome GEO
+tagline:
+  en: "A curated list of resources on Generative Engine Optimization (GEO): research, guides, standards, tools and AI search engines from around the world."
+  zh-CN: 生成式引擎优化（GEO）精选资源清单，涵盖研究论文、指南、技术规范、工具以及全球各地的 AI 搜索引擎。
+  ja: 生成エンジン最適化（GEO）の厳選リソース集です。研究論文、ガイド、技術仕様、ツール、世界各地の AI 検索エンジンをまとめています。
+  ko: 생성형 엔진 최적화(GEO) 관련 자료를 엄선한 목록으로, 연구 논문, 가이드, 기술 표준, 도구, 세계 각지의 AI 검색 엔진을 정리했습니다.
+  es: "Una lista curada de recursos sobre optimización para motores generativos (GEO): investigación, guías, estándares, herramientas y buscadores de IA de todo el mundo."
+  de: "Eine kuratierte Liste zu Generative Engine Optimization (GEO): Forschung, Leitfäden, Standards, Tools und KI-Suchmaschinen aus aller Welt."
+what_is_geo_title:
+  en: What is GEO
+  zh-CN: 什么是 GEO
+  ja: GEO とは
+  ko: GEO 소개
+  es: Qué es GEO
+  de: Was ist GEO
+what_is_geo:
+  en: >-
+    Generative Engine Optimization (GEO) is the practice of making content easy for AI answer engines
+    such as ChatGPT, Perplexity and Google AI Overviews to find, understand and cite.
+    Where SEO competes for rankings in a list of links, GEO aims to have content quoted or referenced
+    inside the generated answer itself, so success is measured in citations and visibility rather than clicks.
+    The term was coined in the paper “GEO: Generative Engine Optimization”
+    by Aggarwal et al. (Princeton University and others, KDD 2024).
+  zh-CN: "生成式引擎优化（GEO）是一套让内容更容易被 ChatGPT、Perplexity、Google AI Overviews 等 AI 回答引擎发现、理解和引用的方法。SEO 争夺的是搜索结果列表中的排名，而 GEO 追求的是内容直接出现在 AI 生成的答案中并被引用或提及，因此衡量效果看的是引用和可见度，而不是点击量。这一概念出自普林斯顿大学等机构的 Aggarwal 等人发表于 KDD 2024 的论文《GEO: Generative Engine Optimization》。"
+  ja: "生成エンジン最適化（GEO）とは、ChatGPT、Perplexity、Google の AI Overviews などの AI 回答エンジンがコンテンツを見つけ、理解し、引用しやすくするための取り組みです。SEO が検索結果のリンク一覧での順位を競うのに対し、GEO は AI が生成する回答そのものの中でコンテンツが引用・言及されることを目指すため、成果はクリック数ではなく引用や可視性で測ります。この概念は、プリンストン大学などの Aggarwal らが KDD 2024 で発表した論文「GEO: Generative Engine Optimization」で提唱されました。"
+  ko: >-
+    생성형 엔진 최적화(GEO)는 ChatGPT, Perplexity, Google AI Overviews 같은 AI 답변 엔진이 콘텐츠를 쉽게 찾고 이해하며 인용할 수 있도록 만드는 작업입니다.
+    SEO가 검색 결과 목록에서 순위를 다툰다면 GEO는 AI가 생성한 답변 안에서 콘텐츠가 직접 인용되거나 언급되는 것을 목표로 하며, 따라서 성과도 클릭 수보다 인용과 가시성으로 측정합니다.
+    이 개념은 프린스턴 대학교 등의 Aggarwal 외 연구진이 KDD 2024에서 발표한 논문 “GEO: Generative Engine Optimization”에서 처음 제시되었습니다.
+  es: >-
+    La optimización para motores generativos (GEO, por sus siglas en inglés) consiste en lograr que motores de respuestas con IA
+    como ChatGPT, Perplexity o Google AI Overviews encuentren, entiendan y citen un contenido con facilidad.
+    Mientras que el SEO compite por posiciones en una lista de enlaces, el GEO busca que el contenido aparezca citado o mencionado
+    dentro de la propia respuesta generada, por lo que el éxito se mide en citas y visibilidad más que en clics.
+    El término procede del artículo «GEO: Generative Engine Optimization»
+    de Aggarwal et al. (Universidad de Princeton y otras instituciones, KDD 2024).
+  de: >-
+    Generative Engine Optimization (GEO) umfasst alle Maßnahmen, mit denen Inhalte für KI-Antwortmaschinen wie ChatGPT,
+    Perplexity oder Google AI Overviews leichter auffindbar, verständlich und zitierbar werden.
+    Während es bei SEO um Rankings in einer Trefferliste geht, zielt GEO darauf ab, dass Inhalte direkt in der generierten Antwort
+    zitiert oder erwähnt werden; der Erfolg bemisst sich daher eher an Zitationen und Sichtbarkeit als an Klicks.
+    Der Begriff stammt aus dem Paper »GEO: Generative Engine Optimization«
+    von Aggarwal et al. (Princeton University u. a., KDD 2024).
+toc_title:
+  en: Contents
+  zh-CN: 目录
+  ja: 目次
+  ko: 목차
+  es: Contenido
+  de: Inhalt
+legend_title:
+  en: Legend
+  zh-CN: 图例
+  ja: 凡例
+  ko: 범례
+  es: Leyenda
+  de: Legende
+legend_colon:
+  en: ":"
+  zh-CN: "："
+  ja: "："
+  ko: ":"
+  es: ":"
+  de: ":"
+legend_separator:
+  en: ", "
+  zh-CN: "、"
+  ja: "、"
+  ko: ", "
+  es: ", "
+  de: ", "
+legend_free:
+  en: free
+  zh-CN: 免费
+  ja: 無料
+  ko: 무료
+  es: gratis
+  de: kostenlos
+legend_freemium:
+  en: freemium
+  zh-CN: 免费增值
+  ja: フリーミアム
+  ko: 부분 유료
+  es: freemium
+  de: Freemium
+legend_paid:
+  en: paid
+  zh-CN: 付费
+  ja: 有料
+  ko: 유료
+  es: de pago
+  de: kostenpflichtig
+legend_open_source:
+  en: open source
+  zh-CN: 开源
+  ja: オープンソース
+  ko: 오픈 소스
+  es: código abierto
+  de: Open Source
+contributing_title:
+  en: Contributing
+  zh-CN: 参与贡献
+  ja: コントリビューション
+  ko: 기여하기
+  es: Cómo contribuir
+  de: Mitwirken
+contributing_text:
+  en: Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request; an English description is all you need, and maintainers add the other languages.
+  zh-CN: 欢迎参与贡献。提交 Pull Request 前请先阅读[贡献指南](CONTRIBUTING.md#贡献指南)；只需填写英文描述，其他语言由维护者补齐。
+  ja: コントリビューションを歓迎します。プルリクエストを送る前に[コントリビューションガイド](CONTRIBUTING.md)をお読みください。説明文は英語だけで構いません。ほかの言語はメンテナーが追加します。
+  ko: 기여를 환영합니다. 풀 리퀘스트를 보내기 전에 [기여 가이드](CONTRIBUTING.md)를 읽어 주세요. 설명은 영어로만 작성하면 되며, 다른 언어는 메인테이너가 추가합니다.
+  es: Las contribuciones son bienvenidas. Antes de abrir un pull request, lee la [guía de contribución](CONTRIBUTING.md); basta con escribir la descripción en inglés y los mantenedores añaden el resto de idiomas.
+  de: Beiträge sind willkommen. Bitte lies vor einem Pull Request die [Hinweise zum Mitwirken](CONTRIBUTING.md); eine englische Beschreibung genügt, die übrigen Sprachen ergänzen die Maintainer.
+license_title:
+  en: Licensing
+  zh-CN: 许可证
+  ja: ライセンス
+  ko: 라이선스
+  es: Licencia
+  de: Lizenz
+license_text:
+  en: To the extent possible under law, the contributors have waived all copyright and related rights to this list under [CC0 1.0 Universal](LICENSE).
+  zh-CN: 在法律允许的范围内，贡献者依据 [CC0 1.0 通用](LICENSE)协议放弃对本清单的全部著作权及相关权利。
+  ja: 法律で認められる範囲において、コントリビューターは [CC0 1.0 ユニバーサル](LICENSE) に基づき、このリストに関する著作権および関連する権利をすべて放棄しています。
+  ko: 법이 허용하는 범위에서 기여자들은 [CC0 1.0 범용](LICENSE)에 따라 이 목록에 대한 모든 저작권 및 관련 권리를 포기합니다.
+  es: En la medida en que lo permita la ley, los colaboradores han renunciado a todos los derechos de autor y derechos conexos sobre esta lista conforme a [CC0 1.0 Universal](LICENSE).
+  de: Soweit gesetzlich zulässig, haben die Mitwirkenden mit [CC0 1.0 Universal](LICENSE) auf alle Urheber- und verwandten Schutzrechte an dieser Liste verzichtet.

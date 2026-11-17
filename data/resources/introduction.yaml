@@ -1,0 +1,96 @@
+- id: sel-what-is-geo
+  name: 'Generative Engine Optimization (GEO): What It Is and How to Do It'
+  url: https://searchengineland.com/what-is-generative-engine-optimization-geo-444418
+  category: introduction
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Search Engine Land explainer defining GEO as earning citations and mentions in AI answers and describing how it builds on SEO fundamentals.
+    zh-CN: Search Engine Land 的科普文章，将生成式引擎优化（GEO）定义为在 AI 回答中获得引用和提及，并说明它如何建立在 SEO 基础之上。
+    ja: GEO を AI 回答で引用や言及を獲得する取り組みと定義し、それが SEO の基本の上に成り立つことを解説した Search Engine Land の記事です。
+    ko: 생성형 엔진 최적화(GEO)를 AI 답변에서 인용과 언급을 얻는 일로 정의하고 SEO 기본기 위에 어떻게 쌓이는지 설명하는 Search Engine Land 해설 기사입니다.
+    es: Texto divulgativo de Search Engine Land que define el GEO como la obtención de citas y menciones en las respuestas de IA y explica cómo se apoya en los fundamentos del SEO.
+    de: Einführung von Search Engine Land, die GEO als das Gewinnen von Zitationen und Erwähnungen in KI-Antworten definiert und beschreibt, wie es auf SEO-Grundlagen aufbaut.
+- id: wikipedia-generative-engine-optimization
+  name: Generative engine optimization (Wikipedia)
+  url: https://en.wikipedia.org/wiki/Generative_engine_optimization
+  category: introduction
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Encyclopedia entry defining GEO, tracing the term to the 2023 research paper, listing related names such as AEO and LLMO, and noting criticism.
+    zh-CN: 定义生成式引擎优化（GEO）的百科条目，将该术语追溯至 2023 年的研究论文，列出 AEO、LLMO 等相关名称，并提及相关批评。
+    ja: GEO を定義し、用語の起源を 2023年の研究論文にたどり、AEO や LLMO などの関連する呼び名と批判も紹介した百科事典の項目です。
+    ko: 생성형 엔진 최적화(GEO)를 정의하고 용어의 기원을 2023년 논문에서 찾으며, AEO, LLMO 등 관련 명칭과 비판을 정리한 백과사전 항목입니다.
+    es: Entrada enciclopédica que define el GEO, remonta el término al artículo de investigación de 2023, enumera nombres afines como AEO y LLMO y recoge las críticas.
+    de: Enzyklopädieeintrag, der GEO definiert, den Begriff auf die Forschungsarbeit von 2023 zurückführt, verwandte Bezeichnungen wie AEO und LLMO nennt und auf Kritik eingeht.
+- id: sej-google-ai-search-guide-still-seo
+  name: Google's New AI Search Guide Calls AEO and GEO 'Still SEO'
+  url: https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/
+  category: introduction
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Search Engine Journal report on Google's May 2026 guidance treating AEO and GEO as part of ordinary SEO and debunking llms.txt and chunking.
+    zh-CN: Search Engine Journal 报道 Google 2026 年 5 月的指南将答案引擎优化（AEO）和生成式引擎优化（GEO）归入常规 SEO，并否定 llms.txt 和内容分块。
+    ja: AEO と GEO も SEO の一部とし、llms.txt やチャンク分割を否定した Google の 2026年5月のガイダンスを伝える Search Engine Journal の記事です。
+    ko: AEO와 GEO를 일반 SEO의 일부로 보고 llms.txt와 청킹의 효과를 부정한 2026년 5월 Google 가이드를 다룬 Search Engine Journal 기사입니다.
+    es: Artículo de Search Engine Journal sobre la guía de Google de mayo de 2026 que trata el AEO y el GEO como parte del SEO habitual y desmiente la utilidad de llms.txt y la fragmentación del contenido.
+    de: Bericht von Search Engine Journal über Googles Leitfaden vom Mai 2026, der AEO und GEO als Teil gewöhnlicher SEO behandelt und llms.txt und Chunking als Mythen entlarvt.
+- id: google-optimizing-for-generative-ai-features
+  name: Optimizing your website for generative AI features on Google Search
+  url: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+  category: introduction
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Google's own guidance, stating that optimizing for AI features is still SEO and listing tactics such as llms.txt and chunking as unnecessary.
+    zh-CN: Google 官方指南，指出针对 AI 功能的优化本质上仍是 SEO，并将 llms.txt 和内容分块等做法列为不必要。
+    ja: AI 機能向けの最適化も SEO にほかならないとし、llms.txt やチャンク分割などの施策は不要だと明記した Google 自身のガイダンスです。
+    ko: AI 기능을 위한 최적화도 결국 SEO라고 밝히고 llms.txt나 청킹 같은 전술은 필요하지 않다고 정리한 Google의 공식 가이드입니다.
+    es: Guía de la propia Google que afirma que optimizar para las funciones de IA sigue siendo SEO y considera innecesarias tácticas como llms.txt o la fragmentación del contenido.
+    de: Googles eigener Leitfaden, nach dem die Optimierung für KI-Funktionen weiterhin SEO ist und Taktiken wie llms.txt und Chunking unnötig sind.
+- id: sel-seo-vs-geo
+  name: 'SEO vs. GEO: What''s different? What''s the same?'
+  url: https://searchengineland.com/seo-vs-geo-459474
+  category: introduction
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Search Engine Land comparison of SEO and GEO, covering goals, measurement and the practices the two share.
+    zh-CN: Search Engine Land 对 SEO 与生成式引擎优化（GEO）的比较，涵盖目标、衡量方式以及二者共通的做法。
+    ja: SEO と GEO の目標、測定方法、共通する実践を比較した Search Engine Land の記事です。
+    ko: SEO와 GEO의 목표, 측정 방식, 공통 관행을 비교한 Search Engine Land 기사입니다.
+    es: Comparación de Search Engine Land entre el SEO y el GEO que abarca objetivos, medición y las prácticas que comparten.
+    de: Vergleich von SEO und GEO bei Search Engine Land mit Blick auf Ziele, Messung und gemeinsame Praktiken.
+- id: deeflect-what-is-geo
+  name: What is generative engine optimization (GEO)?
+  url: https://geo.deeflect.com/guides/what-is-generative-engine-optimization
+  category: introduction
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Explainer that traces the term GEO to the KDD 2024 paper by Aggarwal et al., compares industry definitions and summarizes what is known about AI visibility.
+    zh-CN: 科普文章，把生成式引擎优化（GEO）一词溯源至 Aggarwal 等人的 KDD 2024 论文，比较业界定义并总结 AI 可见度的已有认识。
+    ja: GEO という用語の起源を Aggarwal らの KDD 2024 論文にたどり、業界の定義を比較し、AI 可視性について分かっていることをまとめた解説記事です。
+    ko: 생성형 엔진 최적화(GEO)라는 용어의 기원을 Aggarwal 등의 KDD 2024 논문에서 찾고, 업계 정의를 비교하며 AI 가시성에 관해 알려진 내용을 요약한 해설 글입니다.
+    es: Texto divulgativo que remonta el término GEO al artículo de Aggarwal et al. presentado en KDD 2024, compara definiciones del sector y resume lo que se sabe sobre la visibilidad en IA.
+    de: Einführung, die den Begriff GEO auf das KDD-2024-Paper von Aggarwal et al. zurückführt, Branchendefinitionen vergleicht und den Wissensstand zur KI-Sichtbarkeit zusammenfasst.

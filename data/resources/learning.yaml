@@ -1,0 +1,112 @@
+- id: ahrefs-aeo-course
+  name: Ahrefs Answer Engine Optimization (AEO) Course
+  url: https://ahrefs.com/academy/aeo-course
+  category: learning
+  type: course
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Free 12-lesson video course by Sam Oh on how AI search engines choose citations, prompt research, content and YouTube for AI search, technical setup and tracking AI traffic.
+    zh-CN: Sam Oh 主讲的 12 节免费视频课程，讲解 AI 搜索引擎如何选择引用、提示词研究、面向 AI 搜索的内容与 YouTube、技术设置及 AI 流量追踪。
+    ja: Sam Oh による全 12回の無料動画講座で、AI 検索エンジンの引用元の選び方、プロンプト調査、AI 検索向けのコンテンツと YouTube、技術設定、AI トラフィックの追跡を扱います。
+    ko: Sam Oh의 무료 12강 영상 강의로, AI 검색 엔진의 인용 선택 방식, 프롬프트 리서치, AI 검색용 콘텐츠와 YouTube, 기술 설정, AI 트래픽 추적을 다룹니다.
+    es: Curso gratuito de 12 lecciones en video de Sam Oh sobre cómo eligen citas los buscadores de IA, investigación de prompts, contenido y YouTube, configuración técnica y seguimiento del tráfico de IA.
+    de: Kostenloser Videokurs von Sam Oh mit 12 Lektionen zur Quellenauswahl von KI-Suchmaschinen, Prompt-Recherche, Content und YouTube für die KI-Suche, technischem Setup und Erfassung des KI-Traffics.
+- id: coursera-ai-seo-geo
+  name: 'AI SEO: Mastering Generative Engine Optimization (GEO)'
+  url: https://www.coursera.org/learn/seo-mastering-generative-engine-optimization-geo
+  category: learning
+  type: course
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Four-hour Coursera course by SkillUp in two modules, covering entities and topical authority, AI-friendly content formats, GEO metrics and hands-on labs; the certificate is paid.
+    zh-CN: SkillUp 在 Coursera 开设的 4 小时课程，分两个模块，涵盖实体与主题权威、适合 AI 的内容格式、GEO 指标和实操练习，证书需付费。
+    ja: SkillUp による Coursera の 4時間・2モジュールの講座で、エンティティとトピックの権威性、AI に適したコンテンツ形式、GEO の指標、実践演習を扱い、修了証は有料です。
+    ko: SkillUp의 4시간 분량 Coursera 강의로, 2개 모듈에서 엔티티와 주제 권위, AI 친화적 콘텐츠 형식, GEO 지표, 실습을 다루며 수료증은 유료입니다.
+    es: Curso de Coursera de cuatro horas de SkillUp en dos módulos sobre entidades y autoridad temática, formatos de contenido aptos para IA, métricas de GEO y prácticas; el certificado es de pago.
+    de: Vierstündiger Coursera-Kurs von SkillUp in zwei Modulen zu Entitäten und thematischer Autorität, KI-gerechten Content-Formaten, GEO-Metriken und Praxisübungen; das Zertifikat ist kostenpflichtig.
+- id: hubspot-aeo-fundamentals
+  name: HubSpot Academy AEO Fundamentals
+  url: https://academy.hubspot.com/courses/aeo-fundamentals-certification-en
+  category: learning
+  type: course
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Free certification course of seven lessons on being cited by answer engines, question research, on-page and schema work, and measuring AI referrals and share of voice.
+    zh-CN: 含 7 节课的免费认证课程，讲解如何被回答引擎引用、问题研究、页面与 Schema 优化，以及衡量 AI 引荐流量和声量占比。
+    ja: 回答エンジンに引用される方法、質問の調査、ページ内とスキーマの施策、AI 経由の流入とシェア・オブ・ボイスの測定を全 7回で学べる無料の認定講座です。
+    ko: 답변 엔진 인용, 질문 리서치, 온페이지 및 스키마 작업, AI 유입과 보이스 점유율(SOV) 측정을 다루는 7강짜리 무료 인증 과정입니다.
+    es: Curso gratuito con certificado de siete lecciones sobre cómo lograr citas de motores de respuestas, análisis de preguntas, on-page y Schema, y medición del tráfico de referencia de IA y cuota de voz.
+    de: Kostenloser Zertifikatskurs mit sieben Lektionen zur Zitation durch Antwortmaschinen, Fragenrecherche, On-Page- und Schema-Optimierung sowie Messung von KI-Referrals und Share of Voice.
+- id: learning-ai-search
+  name: Learning AI Search
+  url: https://learningaisearch.com/
+  category: learning
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Free learning roadmap curated by Aleyda Solis that orders guides on AI search fundamentals, measurement, ecommerce and tools, with a content optimization checklist.
+    zh-CN: Aleyda Solis 整理的免费学习路线图，按顺序编排 AI 搜索基础、效果衡量、电商和工具等指南，并附内容优化清单。
+    ja: Aleyda Solis が監修した無料の学習ロードマップで、AI 検索の基礎、計測、EC、ツールに関するガイドを順序立てて紹介し、コンテンツ最適化のチェックリストも付いています。
+    ko: Aleyda Solis가 엮은 무료 학습 로드맵으로, AI 검색 기초, 측정, 이커머스, 도구 가이드를 순서대로 정리하고 콘텐츠 최적화 체크리스트를 제공합니다.
+    es: Itinerario gratuito de Aleyda Solis que ordena guías sobre fundamentos de la búsqueda con IA, medición, comercio electrónico y herramientas, con una lista de verificación para optimizar el contenido.
+    de: Kostenlose, von Aleyda Solis kuratierte Lern-Roadmap, die Leitfäden zu Grundlagen der KI-Suche, Messung, E-Commerce und Tools ordnet, mit einer Checkliste zur Content-Optimierung.
+- id: muck-rack-geo-fundamentals
+  name: Muck Rack Fundamentals of Generative Engine Optimization (GEO)
+  url: https://academy.muckrack.com/fundamentals-of-generative-engine-optimization-geo
+  category: learning
+  type: course
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Short certificate course for PR and communications teams on how earned media shapes AI answers, prompt testing and using GEO insights in media targeting.
+    zh-CN: 面向公关与传播团队的短期证书课程，讲解非付费的第三方报道如何影响 AI 回答、如何测试提示词，以及如何用 GEO 分析结果选择目标媒体。
+    ja: アーンドメディアが AI 回答に与える影響、プロンプトのテスト、GEO の知見のメディアターゲティングへの活用を学べる、PR・広報チーム向けの短い認定講座です。
+    ko: PR·커뮤니케이션 팀을 위한 짧은 수료 과정으로, 언드 미디어가 AI 답변에 미치는 영향, 프롬프트 테스트, GEO 인사이트를 활용한 미디어 타기팅을 다룹니다.
+    es: Curso breve con certificado para equipos de relaciones públicas y comunicación sobre cómo influyen los medios ganados en las respuestas de IA, pruebas de prompts y datos de GEO para elegir medios.
+    de: Kurzer Zertifikatskurs für PR- und Kommunikationsteams dazu, wie Earned Media KI-Antworten prägt, zum Testen von Prompts und zur Nutzung von GEO-Erkenntnissen bei der Medienauswahl.
+- id: search-off-the-record
+  name: Search Off the Record
+  url: https://developers.google.com/search/podcasts/search-off-the-record
+  category: learning
+  type: podcast
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Podcast from the Google Search Relations team about how Google Search works behind the scenes, including its AI features and current SEO community topics.
+    zh-CN: Google 搜索关系团队的播客，讲述 Google 搜索幕后的工作原理，包括其 AI 功能和 SEO 社区的热门话题。
+    ja: Google 検索の舞台裏を、AI 機能や SEO コミュニティの最新の話題も含めて語る、Google Search Relations チームのポッドキャストです。
+    ko: Google Search Relations 팀의 팟캐스트로, AI 기능을 포함한 Google 검색의 내부 작동 방식과 최근 SEO 커뮤니티 화제를 다룹니다.
+    es: Pódcast del equipo de Search Relations de Google sobre el funcionamiento interno de la Búsqueda de Google, incluidas sus funciones de IA y temas de actualidad de la comunidad SEO.
+    de: Podcast des Google-Search-Relations-Teams darüber, wie die Google-Suche hinter den Kulissen funktioniert, einschließlich ihrer KI-Funktionen und aktueller Themen der SEO-Community.
+- id: semrush-ai-visibility-essentials
+  name: Semrush Academy AI Visibility Essentials
+  url: https://www.semrush.com/academy/courses/ai-visibility-essentials-with-semrush/
+  category: learning
+  type: course
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Free 20-video course with a certificate on prompt research, share of voice, brand mentions and formatting content for LLMs; several lessons demonstrate Semrush tools.
+    zh-CN: 含 20 个视频的免费证书课程，涵盖提示词研究、声量占比、品牌提及和面向大语言模型的内容格式，部分课程演示 Semrush 工具。
+    ja: プロンプト調査、シェア・オブ・ボイス、ブランド言及、LLM 向けのコンテンツ構成を扱う全 20本の修了証付き無料動画講座で、一部のレッスンでは Semrush のツールを実演しています。
+    ko: 프롬프트 리서치, 보이스 점유율(SOV), 브랜드 언급, LLM용 콘텐츠 구성을 다루는 무료 20편 영상 강의로, 수료증이 있고 일부 강의는 Semrush 도구를 시연합니다.
+    es: Curso gratuito de 20 videos con certificado sobre investigación de prompts, cuota de voz, menciones de marca y formato del contenido para LLM; varias lecciones muestran herramientas de Semrush.
+    de: Kostenloser Kurs mit 20 Videos und Zertifikat zu Prompt-Recherche, Share of Voice, Markenerwähnungen und der Formatierung von Inhalten für LLMs; mehrere Lektionen zeigen Semrush-Tools.

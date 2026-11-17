@@ -1,0 +1,834 @@
+- id: deeflect-ai-crawler-user-agents
+  name: 25 AI crawler user agents and what each does in robots.txt
+  url: https://geo.deeflect.com/guides/ai-crawler-user-agents
+  category: standards/crawlers
+  type: list
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Lists 25 AI crawler user agents from 12 operators in four groups, with how many of 157 platforms block each in robots.txt.
+    zh-CN: 分四组列出 12 家运营方的 25 个 AI 爬虫 User-Agent，并统计 157 个平台中各有多少在 robots.txt 中屏蔽它们。
+    ja: 12の事業者の AI クローラー 25種のユーザーエージェントを 4グループに分けて紹介し、157のプラットフォームのうち robots.txt で各クローラーを拒否する数を示した記事です。
+    ko: 운영사 12곳의 AI 크롤러 사용자 에이전트 25개를 4개 그룹으로 나누고, 플랫폼 157곳 중 각각을 robots.txt로 차단하는 곳의 수를 정리합니다.
+    es: Enumera 25 user agents de rastreadores de IA de 12 operadores en cuatro grupos e indica cuántas de 157 plataformas bloquean cada uno en robots.txt.
+    de: Listet 25 User-Agents von KI-Crawlern von 12 Betreibern in vier Gruppen auf und zeigt, wie viele von 157 Plattformen jeden davon per robots.txt blockieren.
+- id: healsdata-ai-training-opt-out
+  name: AI Training Opt-Out
+  url: https://github.com/healsdata/ai-training-opt-out
+  category: standards/crawlers
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/healsdata/ai-training-opt-out
+  regions:
+  - global
+  desc:
+    en: Collects known robots.txt entries, meta tags and other settings that site owners can use to opt out of AI training.
+    zh-CN: 汇总网站所有者可用来退出 AI 训练的已知 robots.txt 条目、meta 标签及其他设置。
+    ja: サイト所有者が AI の学習をオプトアウトするために使える robots.txt のエントリ、meta タグなどの既知の設定を集めたリポジトリです。
+    ko: 사이트 소유자가 AI 학습을 거부할 때 쓸 수 있는 robots.txt 항목, 메타 태그 등 알려진 설정을 모았습니다.
+    es: Recopila las entradas de robots.txt, metaetiquetas y otros ajustes conocidos con los que los propietarios de sitios pueden excluirse del entrenamiento de IA.
+    de: Sammelt bekannte robots.txt-Einträge, Meta-Tags und weitere Einstellungen, mit denen Website-Betreiber dem KI-Training widersprechen können.
+- id: ai-robots-txt
+  name: ai.robots.txt
+  url: https://github.com/ai-robots-txt/ai.robots.txt
+  category: standards/crawlers
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/ai-robots-txt/ai.robots.txt
+  regions:
+  - global
+  desc:
+    en: Maintains a community list of AI agents and crawlers to block, with generated robots.txt and server configuration files.
+    zh-CN: 维护社区整理的待屏蔽 AI 智能体与爬虫列表，并生成相应的 robots.txt 和服务器配置文件。
+    ja: ブロック対象とする AI エージェントとクローラーのコミュニティリストを管理し、そこから生成した robots.txt やサーバー設定ファイルを提供しています。
+    ko: 차단할 AI 에이전트와 크롤러를 커뮤니티가 함께 관리하는 목록으로, 자동 생성된 robots.txt와 서버 설정 파일을 제공합니다.
+    es: Mantiene una lista comunitaria de agentes y rastreadores de IA que bloquear, con archivos robots.txt y de configuración de servidor generados a partir de ella.
+    de: Pflegt eine Community-Liste zu blockierender KI-Agenten und -Crawler samt generierten robots.txt- und Serverkonfigurationsdateien.
+- id: amazonbot-docs
+  name: Amazon Web Search crawlers
+  url: https://developer.amazon.com/docs/amazonbot/amazonbot.html
+  category: standards/crawlers
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Describes Amazonbot, Amzn-SearchBot and Amzn-User and the independent robots.txt settings that control each of them.
+    zh-CN: 介绍 Amazonbot、Amzn-SearchBot 和 Amzn-User 爬虫，以及分别控制它们的独立 robots.txt 设置。
+    ja: Amazonbot、Amzn-SearchBot、Amzn-User と、それぞれを個別に制御する robots.txt の設定を説明したドキュメントです。
+    ko: Amazonbot, Amzn-SearchBot, Amzn-User와 각 크롤러를 개별적으로 제어하는 robots.txt 설정을 설명합니다.
+    es: Describe Amazonbot, Amzn-SearchBot y Amzn-User, y las reglas independientes de robots.txt que controlan cada uno de ellos.
+    de: Beschreibt Amazonbot, Amzn-SearchBot und Amzn-User sowie die voneinander unabhängigen robots.txt-Einstellungen, mit denen sich jeder einzeln steuern lässt.
+- id: cloudflare-pay-per-crawl
+  name: 'Cloudflare: What is Pay Per Crawl?'
+  url: https://developers.cloudflare.com/ai-crawl-control/features/pay-per-crawl/what-is-pay-per-crawl
+  category: standards/crawlers
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Explains how Pay Per Crawl lets site owners charge AI crawlers for access, answering unpaid requests with HTTP 402; the feature is in closed beta.
+    zh-CN: 解释 Pay Per Crawl 如何让网站所有者向 AI 爬虫收取访问费用，并以 HTTP 402 响应未付费请求，该功能处于封闭测试阶段。
+    ja: サイト所有者が AI クローラーにアクセス料金を課し、未払いのリクエストには HTTP 402 を返せる Pay Per Crawl の仕組みを解説した記事で、機能はクローズドベータです。
+    ko: 사이트 소유자가 AI 크롤러에 접근 비용을 청구하고 미결제 요청에는 HTTP 402로 답하는 Pay Per Crawl을 설명하며, 현재 비공개 베타입니다.
+    es: Explica cómo Pay Per Crawl permite a los propietarios cobrar a los rastreadores de IA por el acceso y responder con HTTP 402 a las solicitudes no pagadas; está en beta cerrada.
+    de: Erklärt, wie Website-Betreiber KI-Crawlern mit Pay Per Crawl den Zugriff in Rechnung stellen und unbezahlte Anfragen mit HTTP 402 beantworten; die Funktion ist in einer geschlossenen Beta.
+- id: google-user-triggered-fetchers
+  name: Google User-Triggered Fetchers
+  url: https://developers.google.com/crawling/docs/crawlers-fetchers/google-user-triggered-fetchers
+  category: standards/crawlers
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Lists the Google fetchers that act on a user request, such as Google Read Aloud, and notes that they generally ignore robots.txt rules.
+    zh-CN: 列出响应用户请求执行抓取的 Google 抓取工具（如 Google Read Aloud），并说明它们通常忽略 robots.txt 规则。
+    ja: Google Read Aloud など、ユーザーのリクエストに応じて動作する Google のフェッチャーを一覧にし、通常は robots.txt のルールを無視することを記載したドキュメントです。
+    ko: Google 소리 내어 읽기처럼 사용자 요청에 따라 작동하는 Google 페처를 나열하고, 이들이 대체로 robots.txt 규칙을 따르지 않는다고 설명합니다.
+    es: Enumera los fetchers de Google que actúan a petición de un usuario, como Google Read Aloud, y señala que por lo general ignoran las reglas de robots.txt.
+    de: Listet die Google-Fetcher auf, die auf Anfrage von Nutzern tätig werden, etwa Google Read Aloud, und weist darauf hin, dass sie robots.txt-Regeln in der Regel ignorieren.
+- id: google-common-crawlers
+  name: Google's common crawlers
+  url: https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers
+  category: standards/crawlers
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Documents the common Google crawlers, including Googlebot, with their user agent strings and robots.txt tokens.
+    zh-CN: 列出 Googlebot 等 Google 常用爬虫及其 User-Agent 字符串和 robots.txt 标识。
+    ja: Googlebot を含む Google の一般的なクローラーについて、ユーザーエージェント文字列と robots.txt のトークンを記載したドキュメントです。
+    ko: Googlebot을 포함한 Google의 일반 크롤러를 사용자 에이전트 문자열, robots.txt 토큰과 함께 설명하는 문서입니다.
+    es: Documenta los rastreadores comunes de Google, incluido Googlebot, con sus cadenas de user agent y tokens de robots.txt.
+    de: Dokumentiert die gängigen Google-Crawler, darunter Googlebot, mit ihren User-Agent-Strings und robots.txt-Tokens.
+- id: ietf-aipref
+  name: IETF AI Preferences (aipref) working group
+  url: https://datatracker.ietf.org/wg/aipref/about
+  category: standards/crawlers
+  type: spec
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Standardizes a common vocabulary and attachment methods, such as robots.txt and HTTP headers, for expressing preferences on how content is collected and used by AI.
+    zh-CN: 制定通用词汇及附加方式（如 robots.txt 和 HTTP 头）的标准，用于表达内容被 AI 收集和使用的偏好。
+    ja: robots.txt や HTTP ヘッダーなど、AI によるコンテンツの収集・利用についての意向を表明するための共通語彙と付与方法を標準化する作業部会です。
+    ko: AI의 콘텐츠 수집·이용에 관한 선호를 표현하는 공통 어휘와, robots.txt나 HTTP 헤더 같은 부착 방식을 표준화합니다.
+    es: Normaliza un vocabulario común y mecanismos de vinculación, como robots.txt y cabeceras HTTP, para expresar preferencias sobre cómo recopila y usa la IA el contenido.
+    de: Standardisiert ein gemeinsames Vokabular und Einbindungswege wie robots.txt und HTTP-Header, um Präferenzen zur Erfassung und Nutzung von Inhalten durch KI auszudrücken.
+- id: ietf-webbotauth
+  name: IETF Web Bot Auth working group
+  url: https://datatracker.ietf.org/wg/webbotauth/about
+  category: standards/crawlers
+  type: spec
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Standardizes methods for cryptographically authenticating automated clients such as AI crawlers and agents, replacing IP allowlists and user-agent strings.
+    zh-CN: 制定以加密方式认证 AI 爬虫、智能体等自动化客户端的标准方法，以取代 IP 白名单和 User-Agent 字符串。
+    ja: IP アドレスの許可リストやユーザーエージェント文字列に代わり、AI クローラーやエージェントなどの自動クライアントを暗号技術で認証する方法を標準化する作業部会です。
+    ko: IP 허용 목록과 사용자 에이전트 문자열을 대신해 AI 크롤러, 에이전트 등 자동화 클라이언트를 암호학적으로 인증하는 방법을 표준화합니다.
+    es: Normaliza métodos para autenticar criptográficamente clientes automatizados, como rastreadores y agentes de IA, en sustitución de las listas de IP permitidas y las cadenas de user agent.
+    de: Standardisiert Verfahren zur kryptografischen Authentifizierung automatisierter Clients wie KI-Crawler und -Agenten als Ersatz für IP-Allowlists und User-Agent-Strings.
+- id: duckassistbot-help
+  name: Is DuckAssistBot related to DuckDuckGo?
+  url: https://duckduckgo.com/duckduckgo-help-pages/results/duckassistbot
+  category: standards/crawlers
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Explains that DuckAssistBot gathers sources for DuckDuckGo's AI-assisted answers, is not used for AI training and can be blocked in robots.txt.
+    zh-CN: 说明 DuckAssistBot 为 DuckDuckGo 的 AI 辅助回答收集来源，不用于 AI 训练，可在 robots.txt 中屏蔽。
+    ja: DuckAssistBot が DuckDuckGo の AI 支援回答のための情報源を集めるクローラーで、AI の学習には使われず、robots.txt でブロックできることを説明したページです。
+    ko: DuckAssistBot이 DuckDuckGo의 AI 보조 답변에 쓸 출처를 수집하며, AI 학습에는 쓰이지 않고 robots.txt로 차단할 수 있다고 설명합니다.
+    es: Explica que DuckAssistBot recopila fuentes para las respuestas asistidas por IA de DuckDuckGo, no se usa para entrenar IA y se puede bloquear en robots.txt.
+    de: Erklärt, dass DuckAssistBot Quellen für die KI-gestützten Antworten von DuckDuckGo sammelt, nicht für KI-Training genutzt wird und per robots.txt blockiert werden kann.
+- id: meta-web-crawlers
+  name: Meta Web Crawlers
+  url: https://developers.facebook.com/documentation/sharing/webmasters/web-crawlers
+  category: standards/crawlers
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Lists the Meta crawlers, including Meta-WebIndexer for Meta AI search and Meta-ExternalAgent for AI model training, and what each is used for.
+    zh-CN: 列出 Meta 的各类爬虫及其用途，包括用于 Meta AI 搜索的 Meta-WebIndexer 和用于 AI 模型训练的 Meta-ExternalAgent。
+    ja: Meta AI の検索向けの Meta-WebIndexer や AI モデル学習向けの Meta-ExternalAgent など、Meta のクローラーと各用途を一覧にしたドキュメントです。
+    ko: Meta AI 검색용 Meta-WebIndexer, AI 모델 학습용 Meta-ExternalAgent 등 Meta 크롤러와 각각의 용도를 정리합니다.
+    es: Enumera los rastreadores de Meta, como Meta-WebIndexer para la búsqueda de Meta AI y Meta-ExternalAgent para el entrenamiento de modelos de IA, y para qué sirve cada uno.
+    de: Listet die Crawler von Meta auf, darunter Meta-WebIndexer für die Meta-AI-Suche und Meta-ExternalAgent für das Training von KI-Modellen, und wofür jeder genutzt wird.
+- id: mistral-crawlers
+  name: Mistral crawlers
+  url: https://docs.mistral.ai/robots
+  category: standards/crawlers
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Describes the MistralAI-User, MistralAI-Index and MistralAI-Training user agents and what each is used for.
+    zh-CN: 介绍 MistralAI-User、MistralAI-Index 和 MistralAI-Training 三个 User-Agent 及其各自用途。
+    ja: MistralAI-User、MistralAI-Index、MistralAI-Training の各ユーザーエージェントとそれぞれの用途を説明したドキュメントです。
+    ko: MistralAI-User, MistralAI-Index, MistralAI-Training 사용자 에이전트와 각각의 용도를 설명합니다.
+    es: Describe los user agents MistralAI-User, MistralAI-Index y MistralAI-Training y para qué sirve cada uno.
+    de: Beschreibt die User-Agents MistralAI-User, MistralAI-Index und MistralAI-Training und wofür jeder genutzt wird.
+- id: rfc-9309-robots-exclusion-protocol
+  name: 'RFC 9309: Robots Exclusion Protocol'
+  url: https://www.rfc-editor.org/rfc/rfc9309
+  category: standards/crawlers
+  type: spec
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2022
+  desc:
+    en: Specifies the syntax and semantics of robots.txt, the Robots Exclusion Protocol that AI crawlers are expected to honor.
+    zh-CN: 规定 robots.txt 的语法和语义，即 AI 爬虫应当遵守的机器人排除协议。
+    ja: AI クローラーも従うことが期待される Robots Exclusion Protocol、すなわち robots.txt の構文と意味を定めた仕様です。
+    ko: AI 크롤러가 준수해야 할 로봇 배제 프로토콜인 robots.txt의 문법과 의미를 규정한 사양입니다.
+    es: Especifica la sintaxis y la semántica de robots.txt, el protocolo de exclusión de robots que se espera que respeten los rastreadores de IA.
+    de: Spezifiziert Syntax und Semantik von robots.txt, dem Robots Exclusion Protocol, das KI-Crawler einhalten sollen.
+- id: google-shared-ai-training-control
+  name: Supporting a shared AI training control for websites
+  url: https://developers.google.com/search/blog/2026/10/ai-training-control
+  category: standards/crawlers
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Announces that Google plans to honor a shared AI training opt-out in robots.txt based on an IETF AIPREF draft, with support targeted for 2027.
+    zh-CN: 宣布 Google 计划遵循基于 IETF AIPREF 草案、在 robots.txt 中声明的通用 AI 训练退出设置，目标是 2027 年提供支持。
+    ja: IETF の AIPREF ドラフトに基づく robots.txt の共通の AI 学習オプトアウトを Google が尊重する予定だと発表した記事で、2027年の対応を目指しています。
+    ko: IETF AIPREF 초안을 바탕으로 robots.txt의 공통 AI 학습 거부 설정을 따를 계획이며 2027년 지원을 목표로 한다는 Google의 발표입니다.
+    es: Anuncia que Google prevé respetar en robots.txt una exclusión común del entrenamiento de IA basada en un borrador de AIPREF del IETF, con soporte previsto para 2027.
+    de: Kündigt an, dass Google einen gemeinsamen Opt-out für KI-Training in robots.txt auf Basis eines IETF-AIPREF-Entwurfs respektieren will, mit geplanter Unterstützung ab 2027.
+- id: apple-about-applebot
+  name: About Applebot
+  url: https://support.apple.com/en-us/119829
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Describes Applebot, which feeds search features in Spotlight, Siri and Safari, and Applebot-Extended, which publishers can disallow to opt out of generative AI training.
+    zh-CN: 介绍为 Spotlight、Siri 和 Safari 搜索功能提供数据的 Applebot，以及发布商可通过禁止抓取来退出生成式 AI 训练的 Applebot-Extended。
+    ja: Spotlight、Siri、Safari の検索機能を支える Applebot と、拒否すると生成 AI の学習から除外される Applebot-Extended を説明したドキュメントです。
+    ko: Spotlight, Siri, Safari 검색에 쓰이는 Applebot과, 차단하면 생성형 AI 학습을 거부할 수 있는 Applebot-Extended를 설명합니다.
+    es: Describe Applebot, que alimenta las funciones de búsqueda de Spotlight, Siri y Safari, y Applebot-Extended, que los editores pueden bloquear para excluirse del entrenamiento de IA generativa.
+    de: Beschreibt Applebot, der Suchfunktionen in Spotlight, Siri und Safari speist, und Applebot-Extended, den Publisher sperren können, um dem Training generativer KI zu widersprechen.
+- id: google-ai-features
+  name: AI Features and Your Website
+  url: https://developers.google.com/search/docs/appearance/ai-features
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Explains how AI Overviews and AI Mode work in Google Search and how site owners can approach inclusion of their content in them.
+    zh-CN: 说明 AI Overviews 和 AI Mode 在 Google 搜索中如何运作，以及网站所有者可以如何争取内容被纳入其中。
+    ja: Google 検索の AI Overviews と AI Mode の仕組みと、サイト所有者が自分のコンテンツをそこに含めるための考え方を説明したドキュメントです。
+    ko: Google 검색의 AI Overviews와 AI Mode가 작동하는 방식과 사이트 소유자가 콘텐츠 포함 여부에 대응하는 방법을 설명합니다.
+    es: Explica cómo funcionan AI Overviews y AI Mode en la Búsqueda de Google y cómo pueden plantearse los propietarios de sitios la inclusión de su contenido en ellos.
+    de: Erklärt, wie AI Overviews und AI Mode in der Google-Suche funktionieren und wie Website-Betreiber die Aufnahme ihrer Inhalte dort angehen können.
+- id: baidu-search-resource-platform
+  name: Baidu Search Resource Platform
+  url: https://ziyuan.baidu.com
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  desc:
+    en: Baidu's webmaster platform with site resource submission, crawl and robots data, search widgets and AI traffic analysis.
+    zh-CN: 百度的站长平台，提供网站资源提交、抓取与 robots 数据、搜索组件及 AI 流量分析。
+    ja: Baidu のウェブマスター向けプラットフォームで、サイトリソースの送信、クロールと robots のデータ、検索ウィジェット、AI トラフィック分析を提供しています。
+    ko: 사이트 리소스 제출, 크롤링 및 robots 데이터, 검색 위젯, AI 트래픽 분석 기능을 갖춘 Baidu의 웹마스터 플랫폼입니다.
+    es: Plataforma para webmasters de Baidu con envío de recursos del sitio, datos de rastreo y robots, widgets de búsqueda y análisis del tráfico de IA.
+    de: Webmaster-Plattform von Baidu mit Einreichung von Website-Ressourcen, Crawl- und robots-Daten, Such-Widgets und Analyse des KI-Traffics.
+- id: common-crawl-ccbot
+  name: Common Crawl - CCBot
+  url: https://commoncrawl.org/ccbot
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Describes CCBot, the crawler behind the Common Crawl open web archive, with its user agent and ways to verify and block it.
+    zh-CN: 介绍 Common Crawl 开放网络档案背后的爬虫 CCBot，包括其 User-Agent 以及验证和屏蔽方法。
+    ja: Common Crawl のオープンなウェブアーカイブを支えるクローラー CCBot について、ユーザーエージェントと検証・ブロックの方法を説明したドキュメントです。
+    ko: Common Crawl 공개 웹 아카이브를 수집하는 크롤러 CCBot의 사용자 에이전트와 검증·차단 방법을 설명합니다.
+    es: Describe CCBot, el rastreador del archivo web abierto Common Crawl, con su user agent y formas de verificarlo y bloquearlo.
+    de: Beschreibt CCBot, den Crawler hinter dem offenen Webarchiv Common Crawl, mit seinem User-Agent und Möglichkeiten, ihn zu verifizieren und zu blockieren.
+- id: anthropic-crawler-help
+  name: Does Anthropic crawl data from the web, and how can site owners block the crawler?
+  url: https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Describes the ClaudeBot, Claude-User and Claude-SearchBot crawlers and how site owners can block each through robots.txt.
+    zh-CN: 介绍 ClaudeBot、Claude-User 和 Claude-SearchBot 三个爬虫，以及网站所有者如何通过 robots.txt 分别屏蔽。
+    ja: ClaudeBot、Claude-User、Claude-SearchBot の各クローラーと、サイト所有者が robots.txt でそれぞれをブロックする方法を説明したドキュメントです。
+    ko: ClaudeBot, Claude-User, Claude-SearchBot 크롤러와 사이트 소유자가 robots.txt로 각각을 차단하는 방법을 설명합니다.
+    es: Describe los rastreadores ClaudeBot, Claude-User y Claude-SearchBot y cómo pueden bloquear cada uno los propietarios de sitios mediante robots.txt.
+    de: Beschreibt die Crawler ClaudeBot, Claude-User und Claude-SearchBot und wie Website-Betreiber jeden davon per robots.txt blockieren können.
+- id: indexnow-documentation
+  name: IndexNow documentation
+  url: https://indexnow.org/documentation
+  category: standards/engine-docs
+  type: spec
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Documents the IndexNow protocol for notifying participating search engines of new, updated or deleted URLs.
+    zh-CN: IndexNow 协议文档，该协议用于通知参与的搜索引擎有新增、更新或删除的网址。
+    ja: 参加する検索エンジンに URL の追加・更新・削除を通知する IndexNow プロトコルのドキュメントです。
+    ko: 참여 검색 엔진에 새로 추가, 수정, 삭제된 URL을 알리는 IndexNow 프로토콜 문서입니다.
+    es: Documenta el protocolo IndexNow, que sirve para avisar a los buscadores participantes de URL nuevas, actualizadas o eliminadas.
+    de: Dokumentiert das IndexNow-Protokoll, mit dem teilnehmende Suchmaschinen über neue, geänderte oder gelöschte URLs benachrichtigt werden.
+- id: bing-ai-performance-announcement
+  name: Introducing AI Performance in Bing Webmaster Tools Public Preview
+  url: https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview
+  category: standards/engine-docs
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Announces a Bing Webmaster Tools report showing when a site is cited in answers across Microsoft Copilot and Bing's AI-generated summaries.
+    zh-CN: 宣布 Bing Webmaster Tools 新增报告，显示网站何时在 Microsoft Copilot 回答和 Bing AI 生成摘要中被引用。
+    ja: Microsoft Copilot や Bing の AI 生成の要約でサイトが引用されたタイミングを示す、Bing Webmaster Tools の新しいレポートを発表した記事です。
+    ko: Microsoft Copilot과 Bing의 AI 생성 요약에서 사이트가 답변에 인용되는 시점을 보여 주는 Bing Webmaster Tools 보고서를 발표한 글입니다.
+    es: Anuncia un informe de Bing Webmaster Tools que muestra cuándo se cita un sitio en las respuestas de Microsoft Copilot y en los resúmenes generados por IA de Bing.
+    de: Kündigt einen Bericht in den Bing Webmaster Tools an, der zeigt, wann eine Website in Antworten von Microsoft Copilot und in KI-generierten Zusammenfassungen von Bing zitiert wird.
+- id: google-gen-ai-performance-reports
+  name: Introducing Search Generative AI performance reports in Search Console
+  url: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+  category: standards/engine-docs
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Announces Search Console reports showing how often pages appear in generative AI features such as AI Overviews and AI Mode, by page, country, device and date.
+    zh-CN: 宣布 Search Console 推出新报告，按页面、国家、设备和日期显示页面在 AI Overviews、AI Mode 等生成式 AI 功能中的出现频率。
+    ja: AI Overviews や AI Mode などの生成 AI 機能にページが表示される頻度を、ページ・国・デバイス・日付別に示す Search Console のレポートを発表した記事です。
+    ko: AI Overviews, AI Mode 등 생성형 AI 기능에 페이지가 노출되는 빈도를 페이지, 국가, 기기, 날짜별로 보여 주는 Search Console 보고서를 발표합니다.
+    es: Anuncia informes de Search Console que muestran con qué frecuencia aparecen las páginas en funciones de IA generativa como AI Overviews y AI Mode, por página, país, dispositivo y fecha.
+    de: Kündigt Berichte in der Search Console an, die zeigen, wie oft Seiten in generativen KI-Funktionen wie AI Overviews und AI Mode erscheinen, nach Seite, Land, Gerät und Datum.
+- id: perplexity-publishers-program
+  name: Introducing the Perplexity Publishers' Program
+  url: https://www.perplexity.ai/hub/blog/introducing-the-perplexity-publishers-program
+  category: standards/engine-docs
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Announces the program through which Perplexity shares revenue with participating publishers and supports them with API access and developer help.
+    zh-CN: 宣布 Perplexity 发布商计划，与参与的发布商分享收入，并提供 API 访问和开发支持。
+    ja: Perplexity が参加パブリッシャーと収益を分配し、API アクセスや開発者支援も提供するプログラムを発表した記事です。
+    ko: Perplexity가 참여 퍼블리셔와 수익을 나누고 API 이용과 개발 지원을 제공하는 프로그램을 발표합니다.
+    es: Anuncia el programa con el que Perplexity comparte ingresos con los medios participantes y les ofrece acceso a la API y ayuda para desarrolladores.
+    de: Kündigt das Programm an, über das Perplexity Einnahmen mit teilnehmenden Publishern teilt und sie mit API-Zugang und Entwicklerhilfe unterstützt.
+- id: openai-crawlers-overview
+  name: Overview of OpenAI Crawlers
+  url: https://developers.openai.com/api/docs/bots
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Describes the OAI-SearchBot, GPTBot, ChatGPT-User and OAI-AdsBot user agents and what each is used for.
+    zh-CN: 介绍 OAI-SearchBot、GPTBot、ChatGPT-User 和 OAI-AdsBot 四个 User-Agent 及其各自用途。
+    ja: OAI-SearchBot、GPTBot、ChatGPT-User、OAI-AdsBot の各ユーザーエージェントとそれぞれの用途を説明したドキュメントです。
+    ko: OAI-SearchBot, GPTBot, ChatGPT-User, OAI-AdsBot 사용자 에이전트와 각각의 용도를 설명합니다.
+    es: Describe los user agents OAI-SearchBot, GPTBot, ChatGPT-User y OAI-AdsBot y para qué sirve cada uno.
+    de: Beschreibt die User-Agents OAI-SearchBot, GPTBot, ChatGPT-User und OAI-AdsBot und wofür jeder genutzt wird.
+- id: perplexity-crawlers
+  name: Perplexity Crawlers
+  url: https://docs.perplexity.ai/docs/resources/perplexity-crawlers
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Describes PerplexityBot, which surfaces sites in Perplexity search results, and Perplexity-User, which fetches pages on a user request and generally ignores robots.txt.
+    zh-CN: 介绍让网站出现在 Perplexity 搜索结果中的 PerplexityBot，以及应用户请求抓取页面、通常忽略 robots.txt 的 Perplexity-User。
+    ja: Perplexity の検索結果にサイトを表示する PerplexityBot と、ユーザーの依頼でページを取得し通常は robots.txt を無視する Perplexity-User の説明です。
+    ko: 검색 결과 노출용 PerplexityBot과, 사용자 요청 시 페이지를 가져오고 대개 robots.txt를 무시하는 Perplexity-User를 설명합니다.
+    es: Describe PerplexityBot, que muestra sitios en los resultados de Perplexity, y Perplexity-User, que obtiene páginas a petición del usuario y por lo general ignora el robots.txt.
+    de: Beschreibt PerplexityBot, der Websites in den Suchergebnissen von Perplexity sichtbar macht, und Perplexity-User, der Seiten auf Nutzeranfrage abruft und robots.txt in der Regel ignoriert.
+- id: openai-publishers-developers-faq
+  name: Publishers and Developers FAQ (OpenAI)
+  url: https://help.openai.com/en/articles/12627856-publishers-and-developers-faq
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Answers publisher and developer questions about appearing in ChatGPT search, the OAI-SearchBot crawler and referral traffic from ChatGPT.
+    zh-CN: 解答发布商和开发者关于在 ChatGPT 搜索中出现、OAI-SearchBot 爬虫以及来自 ChatGPT 的引荐流量等问题。
+    ja: ChatGPT の検索での表示、OAI-SearchBot クローラー、ChatGPT からの参照トラフィックについて、パブリッシャーと開発者の質問に答える FAQ です。
+    ko: ChatGPT 검색 노출, OAI-SearchBot 크롤러, ChatGPT 유입 트래픽에 관한 퍼블리셔와 개발자의 질문에 답합니다.
+    es: Responde preguntas de editores y desarrolladores sobre cómo aparecer en ChatGPT Search, el rastreador OAI-SearchBot y el tráfico de referencia desde ChatGPT.
+    de: Beantwortet Fragen von Publishern und Entwicklern zur Präsenz in der ChatGPT-Suche, zum Crawler OAI-SearchBot und zu Referral-Traffic aus ChatGPT.
+- id: google-search-generative-ai-control
+  name: Search generative AI control
+  url: https://support.google.com/webmasters/answer/16908024
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Explains the Search Console control for including or excluding content from AI Overviews, AI Mode and generative AI in Discover, and notes it does not affect AI training.
+    zh-CN: 介绍 Search Console 中的设置，用于控制内容是否出现在 AI Overviews、AI Mode 以及 Discover 的生成式 AI 功能中，并说明该设置不影响 AI 训练。
+    ja: AI Overviews、AI Mode、Discover の生成 AI への掲載可否を選べる Search Console の設定を説明し、AI の学習には影響しないことにも触れたドキュメントです。
+    ko: AI Overviews, AI Mode, Discover 생성형 AI에 콘텐츠를 포함·제외하는 Search Console 설정을 설명하며 AI 학습과는 무관하다고 밝힙니다.
+    es: Explica el control de Search Console para incluir o excluir contenido de AI Overviews, AI Mode y la IA generativa de Discover, y aclara que no afecta al entrenamiento de IA.
+    de: Erklärt die Search-Console-Einstellung, die Inhalte in AI Overviews, AI Mode und generativer KI in Discover ein- oder ausschließt, und betont, dass sie das KI-Training nicht betrifft.
+- id: google-ai-search-succeed-blog
+  name: Top ways to ensure your content performs well in Google's AI experiences on Search
+  url: https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search
+  category: standards/engine-docs
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Offers Google's recommended practices for making content perform well in its AI experiences on Search.
+    zh-CN: Google 推荐的做法，帮助内容在 Google 搜索的 AI 体验中取得良好表现。
+    ja: Google 検索の AI 機能でコンテンツが成果を上げるための、Google 推奨の方法を紹介した記事です。
+    ko: Google 검색의 AI 기능에서 콘텐츠가 좋은 성과를 내도록 Google이 권장하는 방법을 소개합니다.
+    es: Recoge las prácticas que recomienda Google para que el contenido funcione bien en sus funciones de IA de la Búsqueda.
+    de: Fasst Googles empfohlene Vorgehensweisen zusammen, damit Inhalte in den KI-Funktionen der Google-Suche gut abschneiden.
+- id: bing-training-grounding-preferences
+  name: 'Your content, your choice: clearer preferences for training and grounding'
+  url: https://blogs.bing.com/search/2026/10/your-content-your-choice-clearer-preferences-for-training-and-grounding
+  category: standards/engine-docs
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Announces separate publisher preferences for AI training and AI grounding, set through robots.txt, meta tags or X-Robots-Tag headers and read by Microsoft from February 2027.
+    zh-CN: 宣布发布商可用 robots.txt、meta 标签或 X-Robots-Tag 头分别设置 AI 训练和回答依据（grounding）偏好，Microsoft 自 2027 年 2 月起读取。
+    ja: AI 学習とグラウンディングへの利用可否を個別指定する仕組みの発表で、robots.txt、meta タグ、X-Robots-Tag で設定し、2027年2月から Microsoft が参照します。
+    ko: AI 학습과 그라운딩 설정을 분리해 robots.txt, 메타 태그, X-Robots-Tag로 지정하고 Microsoft가 2027년 2월부터 읽는다고 발표합니다.
+    es: Anuncia preferencias separadas para el entrenamiento y el anclaje (grounding) de IA, que se fijan con robots.txt, metaetiquetas o cabeceras X-Robots-Tag y que Microsoft leerá desde febrero de 2027.
+    de: Kündigt getrennte Publisher-Einstellungen für KI-Training und KI-Grounding an, die per robots.txt, Meta-Tags oder X-Robots-Tag-Header gesetzt und von Microsoft ab Februar 2027 ausgewertet werden.
+- id: answerdotai-llms-txt
+  name: AnswerDotAI/llms-txt
+  url: https://github.com/AnswerDotAI/llms-txt
+  category: standards/llms-txt
+  type: spec
+  pricing: free
+  open_source: true
+  repo: https://github.com/AnswerDotAI/llms-txt
+  regions:
+  - global
+  desc:
+    en: Hosts the source of the llms.txt proposal together with its reference tooling and discussion.
+    zh-CN: 托管 llms.txt 提案的源文件，以及配套的参考工具和讨论。
+    ja: llms.txt 提案のソースを、リファレンス実装のツールや議論とあわせて公開しているリポジトリです。
+    ko: llms.txt 제안의 원본 소스 코드와 참조 도구, 관련 논의를 담은 저장소입니다.
+    es: Aloja el código fuente de la propuesta llms.txt junto con sus herramientas de referencia y el debate sobre ella.
+    de: Enthält den Quelltext des llms.txt-Vorschlags samt Referenz-Tooling und Diskussion.
+- id: sej-google-llms-txt-speculative
+  name: Google Confirms LLMs.txt Has No Current Implementation
+  url: https://www.searchenginejournal.com/google-says-llms-txt-is-purely-speculative-for-now/577576/
+  category: standards/llms-txt
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Reports John Mueller calling llms.txt speculative for now and saying he prefers WebMCP, a Google-backed alternative.
+    zh-CN: 报道 John Mueller 称 llms.txt 目前仍属推测性质，并表示他更青睐 Google 支持的替代方案 WebMCP。
+    ja: John Mueller が llms.txt を現時点では憶測の段階だとし、Google が支援する代替案 WebMCP のほうが好ましいと述べたことを伝える記事です。
+    ko: John Mueller가 llms.txt를 현재로서는 추측에 가깝다고 평가하고 Google이 지원하는 대안 WebMCP를 선호한다고 밝힌 내용을 전합니다.
+    es: Recoge que John Mueller considera llms.txt especulativo por ahora y que prefiere WebMCP, una alternativa respaldada por Google.
+    de: Berichtet, dass John Mueller llms.txt derzeit als spekulativ bezeichnet und WebMCP bevorzugt, eine von Google unterstützte Alternative.
+- id: seroundtable-no-ai-system-uses-llms-txt
+  name: Google Says No AI System Currently Uses LLMs.txt
+  url: https://www.seroundtable.com/google-ai-llms-txt-39607.html
+  category: standards/llms-txt
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Reports John Mueller's statement that no AI system currently uses llms.txt, based on what server logs show.
+    zh-CN: 报道 John Mueller 根据服务器日志表示，目前没有任何 AI 系统使用 llms.txt。
+    ja: サーバーログを見る限り、現在 llms.txt を使っている AI システムはないという John Mueller の発言を伝える記事です。
+    ko: 서버 로그상 현재 llms.txt를 사용하는 AI 시스템이 없다는 John Mueller의 발언을 전합니다.
+    es: Recoge la afirmación de John Mueller de que ningún sistema de IA usa llms.txt en la actualidad, según lo que muestran los logs del servidor.
+    de: Berichtet über die Aussage von John Mueller, dass laut Serverlogs derzeit kein KI-System llms.txt nutzt.
+- id: llms-txt-hub
+  name: llms-txt-hub
+  url: https://llmstxthub.com
+  category: standards/llms-txt
+  type: list
+  pricing: free
+  open_source: true
+  repo: https://github.com/thedaviddias/llms-txt-hub
+  regions:
+  - global
+  desc:
+    en: Directory of websites that implement llms.txt, with example files for APIs, platforms and developer tools.
+    zh-CN: 实现了 llms.txt 的网站目录，附 API、平台和开发者工具的示例文件。
+    ja: llms.txt を導入しているウェブサイトのディレクトリで、API、プラットフォーム、開発者ツールのサンプルファイルを掲載しています。
+    ko: llms.txt를 도입한 웹사이트 디렉터리로, API, 플랫폼, 개발자 도구의 예시 파일을 제공합니다.
+    es: Directorio de sitios web que implementan llms.txt, con archivos de ejemplo de API, plataformas y herramientas para desarrolladores.
+    de: Verzeichnis von Websites, die llms.txt umsetzen, mit Beispieldateien für APIs, Plattformen und Entwicklertools.
+- id: rankability-llms-txt-adoption
+  name: LLMS.txt Adoption Research Report
+  url: https://rankability.com/data/llms-txt-adoption
+  category: standards/llms-txt
+  type: dataset
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Measures llms.txt adoption among the top 1,000 and top 10,000 domains in a September 2026 study, with methodology and downloadable data.
+    zh-CN: 2026 年 9 月的研究，测量排名前 1000 和前 1 万的域名中 llms.txt 的采用率，附研究方法和可下载数据。
+    ja: 2026年9月の調査で、上位 1000ドメインと上位 1万ドメインにおける llms.txt の導入率を測定したレポートで、手法とダウンロード可能なデータも公開しています。
+    ko: 2026년 9월 조사에서 상위 1,000개와 상위 1만 개 도메인의 llms.txt 도입률을 측정하고 방법론과 내려받을 수 있는 데이터를 제공합니다.
+    es: Mide la adopción de llms.txt entre los 1000 y los 10 000 dominios principales en un estudio de septiembre de 2026, con metodología y datos descargables.
+    de: Misst in einer Studie vom September 2026 die Verbreitung von llms.txt unter den Top-1.000- und Top-10.000-Domains, mit Methodik und Daten zum Herunterladen.
+- id: llms-txt-directory-cloud
+  name: llms.txt directory
+  url: https://directory.llmstxt.cloud
+  category: standards/llms-txt
+  type: list
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Lists websites that publish an llms.txt file so developers can browse real examples of the format.
+    zh-CN: 收录发布 llms.txt 文件的网站，供开发者浏览该格式的真实示例。
+    ja: llms.txt ファイルを公開しているウェブサイトの一覧で、開発者がこの形式の実例を閲覧できます。
+    ko: 개발자가 실제 사례를 살펴볼 수 있도록 llms.txt 파일을 게시한 웹사이트를 모은 목록입니다.
+    es: Recoge sitios web que publican un archivo llms.txt para que los desarrolladores puedan consultar ejemplos reales del formato.
+    de: Listet Websites auf, die eine llms.txt-Datei veröffentlichen, sodass Entwickler reale Beispiele des Formats durchsehen können.
+- id: stackfox-llms-txt-directory
+  name: llms.txt Directory (StackFox)
+  url: https://stackfox.co/llms-txt
+  category: standards/llms-txt
+  type: list
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Lists sites that publish llms.txt and shows the AI permissions they declare for training, retrieval and summarization.
+    zh-CN: 收录发布 llms.txt 的网站，并展示其声明的训练、检索和摘要等 AI 权限。
+    ja: llms.txt を公開しているサイトを一覧にし、学習、検索、要約について各サイトが宣言している AI への許可を示すディレクトリです。
+    ko: llms.txt를 게시한 사이트를 나열하고, 각 사이트가 선언한 학습, 검색, 요약에 대한 AI 허용 범위를 보여 줍니다.
+    es: Recoge sitios que publican llms.txt y muestra los permisos de IA que declaran para entrenamiento, recuperación y resumen.
+    de: Listet Websites auf, die llms.txt veröffentlichen, und zeigt die dort erklärten KI-Berechtigungen für Training, Retrieval und Zusammenfassung.
+- id: llmstxt-org-proposal
+  name: The /llms.txt file
+  url: https://llmstxt.org
+  category: standards/llms-txt
+  type: spec
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2024
+  desc:
+    en: Proposes a /llms.txt markdown file at a site root that gives language models a curated overview of the site and links to its most useful content.
+    zh-CN: 提议在网站根目录放置 Markdown 格式的 /llms.txt 文件，为语言模型提供精选的网站概览及最有用内容的链接。
+    ja: サイトのルートに Markdown 形式の /llms.txt ファイルを置き、言語モデルにサイトの厳選した概要と特に有用なコンテンツへのリンクを示すことを提案した仕様です。
+    ko: 사이트 루트에 두는 Markdown 파일 /llms.txt로 언어 모델에 사이트 개요와 가장 유용한 콘텐츠 링크를 제공하자는 제안입니다.
+    es: Propone un archivo Markdown /llms.txt en la raíz del sitio que ofrezca a los modelos de lenguaje una visión general curada del sitio y enlaces a su contenido más útil.
+    de: Schlägt eine Markdown-Datei /llms.txt im Stammverzeichnis einer Website vor, die Sprachmodellen einen kuratierten Überblick über die Website und Links zu ihren nützlichsten Inhalten bietet.
+- id: google-intro-structured-data
+  name: Intro to How Structured Data Markup Works
+  url: https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data
+  category: standards/structured-data
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Explains how Google uses structured data markup to understand content, which formats it supports and where to place the markup.
+    zh-CN: 介绍 Google 如何利用结构化数据标记理解内容、支持哪些格式以及标记应放在何处。
+    ja: Google が構造化データマークアップでコンテンツを理解する仕組み、対応する形式、マークアップの配置場所を説明したドキュメントです。
+    ko: Google이 구조화된 데이터 마크업으로 콘텐츠를 이해하는 방식과 지원 형식, 마크업 위치를 설명합니다.
+    es: Explica cómo usa Google el marcado de datos estructurados para entender el contenido, qué formatos admite y dónde colocar el marcado.
+    de: Erklärt, wie Google strukturierte Daten nutzt, um Inhalte zu verstehen, welche Formate unterstützt werden und wo das Markup platziert werden sollte.
+- id: json-ld-org
+  name: JSON-LD
+  url: https://json-ld.org
+  category: standards/structured-data
+  type: spec
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Hosts the JSON-LD specifications, the JSON-based linked data format in which Schema.org markup is commonly written.
+    zh-CN: 托管 JSON-LD 规范，这是一种基于 JSON 的关联数据格式，Schema.org 标记通常以此编写。
+    ja: Schema.org のマークアップでよく使われる、JSON ベースのリンクトデータ形式 JSON-LD の仕様を公開しているサイトです。
+    ko: Schema.org 마크업 작성에 흔히 쓰이는 JSON 기반 링크드 데이터 형식인 JSON-LD의 사양을 게시합니다.
+    es: Aloja las especificaciones de JSON-LD, el formato de datos enlazados basado en JSON en el que suele escribirse el marcado Schema.org.
+    de: Enthält die Spezifikationen von JSON-LD, dem JSON-basierten Linked-Data-Format, in dem Schema.org-Markup meist geschrieben wird.
+- id: google-rich-results-test
+  name: Rich Results Test
+  url: https://search.google.com/test/rich-results
+  category: standards/structured-data
+  type: tool
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tests a URL or code snippet and reports which Google rich results its structured data can generate.
+    zh-CN: 测试网址或代码片段，报告其结构化数据可生成哪些 Google 富媒体搜索结果。
+    ja: URL やコードスニペットを検証し、その構造化データからどの Google リッチリザルトを生成できるかを報告するツールです。
+    ko: URL이나 코드 스니펫을 테스트해 구조화된 데이터로 생성될 수 있는 Google 리치 결과를 알려 주는 도구입니다.
+    es: Prueba una URL o un fragmento de código e indica qué resultados enriquecidos de Google pueden generar sus datos estructurados.
+    de: Testet eine URL oder ein Code-Snippet und zeigt, welche Rich-Suchergebnisse von Google die enthaltenen strukturierten Daten erzeugen können.
+- id: sej-ahrefs-schema-test
+  name: Schema Markup Didn't Move AI Citations In Ahrefs Test
+  url: https://www.searchenginejournal.com/schema-markup-didnt-move-ai-citations-in-ahrefs-test/574568/
+  category: standards/structured-data
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2026
+  desc:
+    en: Summarizes an Ahrefs report testing whether adding schema markup to pages already cited by AI improved their citation rates.
+    zh-CN: 总结 Ahrefs 的一份报告，测试为已被 AI 引用的页面添加 Schema 标记能否提高其被引用率。
+    ja: AI にすでに引用されているページにスキーママークアップを追加すると引用率が上がるかを検証した、Ahrefs のレポートを要約した記事です。
+    ko: 이미 AI에 인용된 페이지에 스키마 마크업을 추가하면 인용률이 오르는지 시험한 Ahrefs 보고서를 요약합니다.
+    es: Resume un informe de Ahrefs que comprobó si añadir marcado Schema a páginas ya citadas por la IA mejoraba su tasa de citas.
+    de: Fasst einen Ahrefs-Bericht zusammen, der testete, ob Schema-Markup auf bereits von KI zitierten Seiten deren Zitationsraten verbessert.
+- id: schema-markup-validator
+  name: Schema Markup Validator
+  url: https://validator.schema.org
+  category: standards/structured-data
+  type: tool
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Validates structured data of any Schema.org type in JSON-LD, Microdata or RDFa.
+    zh-CN: 校验 JSON-LD、Microdata 或 RDFa 格式中任意 Schema.org 类型的结构化数据。
+    ja: JSON-LD、Microdata、RDFa で書かれたあらゆる Schema.org タイプの構造化データを検証するツールです。
+    ko: JSON-LD, Microdata, RDFa로 작성된 모든 Schema.org 유형의 구조화된 데이터를 검증합니다.
+    es: Valida datos estructurados de cualquier tipo de Schema.org en JSON-LD, Microdata o RDFa.
+    de: Validiert strukturierte Daten beliebiger Schema.org-Typen in JSON-LD, Microdata oder RDFa.
+- id: schema-org
+  name: Schema.org
+  url: https://schema.org
+  category: standards/structured-data
+  type: spec
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Hosts the shared vocabulary of types and properties used to mark up web pages for search engines and other consumers.
+    zh-CN: 托管供搜索引擎等使用方标记网页的通用类型与属性词汇表。
+    ja: 検索エンジンなどのサービスに向けてウェブページをマークアップするための、タイプとプロパティの共通語彙を公開しているサイトです。
+    ko: 검색 엔진 등이 웹 페이지를 해석할 수 있도록 마크업하는 데 쓰는 공통 유형·속성 어휘를 게시합니다.
+    es: Aloja el vocabulario compartido de tipos y propiedades con el que se marcan las páginas web para buscadores y otros consumidores.
+    de: Enthält das gemeinsame Vokabular aus Typen und Eigenschaften, mit dem Webseiten für Suchmaschinen und andere Anwendungen annotiert werden.
+- id: schemaorg-github
+  name: schemaorg/schemaorg
+  url: https://github.com/schemaorg/schemaorg
+  category: standards/structured-data
+  type: spec
+  pricing: free
+  open_source: true
+  repo: https://github.com/schemaorg/schemaorg
+  regions:
+  - global
+  desc:
+    en: Hosts the source of the Schema.org vocabulary and its supporting software.
+    zh-CN: 托管 Schema.org 词汇表及其配套软件的源代码。
+    ja: Schema.org の語彙のソースと関連ソフトウェアを公開しているリポジトリです。
+    ko: Schema.org 어휘의 소스 코드와 이를 지원하는 소프트웨어를 담은 저장소입니다.
+    es: Aloja el código fuente del vocabulario Schema.org y el software que lo acompaña.
+    de: Enthält den Quelltext des Schema.org-Vokabulars und die zugehörige Software.
+- id: google-structured-data-search-gallery
+  name: Structured Data Markup that Google Search Supports
+  url: https://developers.google.com/search/docs/appearance/structured-data/search-gallery
+  category: standards/structured-data
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Catalogs the structured data types that power features in Google Search, with examples and implementation guidance.
+    zh-CN: 汇总支持 Google 搜索各项功能的结构化数据类型，附示例和实施指南。
+    ja: Google 検索の機能を支える構造化データの種類を、例と実装ガイダンスとともにまとめたドキュメントです。
+    ko: Google 검색 기능을 구동하는 구조화된 데이터 유형을 예시, 구현 가이드와 함께 정리한 목록입니다.
+    es: Cataloga los tipos de datos estructurados que activan funciones en la Búsqueda de Google, con ejemplos e indicaciones de implementación.
+    de: Katalogisiert die Typen strukturierter Daten, auf denen Funktionen der Google-Suche beruhen, mit Beispielen und Hinweisen zur Implementierung.
+- id: mintlify-value-of-llms-txt
+  name: 'The value of llms.txt: Hype or real?'
+  url: https://mintlify.com/blog/the-value-of-llms-txt-hype-or-real
+  category: standards/llms-txt
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Makes the case for llms.txt with examples from Vercel, Google and Anthropic and answers critics who say general SEO practice is enough.
+    zh-CN: 以 Vercel、Google 和 Anthropic 为例论证 llms.txt 的价值，并回应认为常规 SEO 做法已足够的批评者。
+    ja: Vercel、Google、Anthropic の例を挙げて llms.txt の価値を主張し、一般的な SEO の実践で十分だとする批判に反論した記事です。
+    ko: Vercel, Google, Anthropic 사례로 llms.txt의 가치를 주장하고, 일반적인 SEO 관행으로 충분하다는 비판에 반론을 제시합니다.
+    es: Defiende el valor de llms.txt con ejemplos de Vercel, Google y Anthropic y responde a quienes sostienen que basta con las prácticas generales de SEO.
+    de: Plädiert mit Beispielen von Vercel, Google und Anthropic für llms.txt und antwortet Kritikern, die allgemeine SEO-Praxis für ausreichend halten.
+- id: ahrefs-what-is-llms-txt
+  name: What Is llms.txt, and Should You Care About It?
+  url: https://ahrefs.com/blog/what-is-llms-txt
+  category: standards/llms-txt
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Explains what the llms.txt file is and examines whether adding it does anything for developers and marketers.
+    zh-CN: 解释 llms.txt 文件是什么，并探讨添加它对开发者和营销人员是否真有作用。
+    ja: llms.txt ファイルとは何かを説明し、導入が開発者やマーケターにとって効果があるのかを検証した記事です。
+    ko: llms.txt 파일이 무엇인지 설명하고, 이 파일을 추가하는 것이 개발자와 마케터에게 실제로 효과가 있는지 검토합니다.
+    es: Explica qué es el archivo llms.txt y analiza si añadirlo aporta algo a desarrolladores y profesionales del marketing.
+    de: Erklärt, was die llms.txt-Datei ist, und prüft, ob sie Entwicklern und Marketern tatsächlich etwas bringt.
+- id: naver-search-advisor
+  name: Naver Search Advisor
+  url: https://searchadvisor.naver.com/guide
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  desc:
+    en: Naver's webmaster guide and tools covering what a site needs for Naver Search to discover and index it; AI Briefing draws on web documents from the same index.
+    zh-CN: Naver 的站长指南与工具，说明网站被 Naver 搜索发现和收录所需的条件，AI Briefing 也取自同一索引中的网页文档。
+    ja: Naver 検索にサイトを発見・インデックスしてもらうための要件を扱う Naver のウェブマスター向けガイドとツールで、AI Briefing も同じインデックスのウェブ文書を利用します。
+    ko: 네이버 검색이 사이트를 발견하고 색인하는 데 필요한 사항을 다루는 네이버의 웹마스터 가이드와 도구로, AI 브리핑도 같은 색인의 웹 문서를 활용합니다.
+    es: Guía y herramientas para webmasters de Naver sobre lo que necesita un sitio para que Naver Search lo descubra e indexe; AI Briefing usa documentos web del mismo índice.
+    de: Webmaster-Leitfaden und Tools von Naver dazu, was eine Website braucht, damit die Naver-Suche sie findet und indexiert; AI Briefing greift auf Webdokumente aus demselben Index zurück.
+- id: yandex-ai-search-help
+  name: Search with Yandex AI
+  url: https://yandex.com/support/search/en/yandex-ai
+  category: standards/engine-docs
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - ru
+  desc:
+    en: Yandex help page explaining how its AI answers split a question into parts, pick and analyze sources, and link to them in the response.
+    zh-CN: Yandex 帮助页面，说明其 AI 回答如何拆分问题、挑选并分析来源，并在回答中附上链接。
+    ja: Yandex の AI 回答が質問を分割し、情報源を選んで分析し、回答内でリンクする仕組みを説明したヘルプページです。
+    ko: Yandex AI 답변이 질문을 여러 부분으로 나누고 출처를 골라 분석한 뒤 답변에 링크하는 방식을 설명하는 도움말입니다.
+    es: Página de ayuda de Yandex que explica cómo sus respuestas de IA dividen una pregunta en partes, eligen y analizan fuentes y las enlazan en la respuesta.
+    de: Hilfeseite von Yandex, die erklärt, wie die KI-Antworten eine Frage in Teile zerlegen, Quellen auswählen und analysieren und in der Antwort auf sie verlinken.
+- id: yandex-webmaster
+  name: Yandex Webmaster
+  url: https://webmaster.yandex.com/
+  category: standards/engine-docs
+  type: tool
+  pricing: free
+  open_source: false
+  regions:
+  - ru
+  desc:
+    en: Yandex's webmaster service for verifying sites, monitoring indexing and diagnosing crawl problems in Yandex Search.
+    zh-CN: Yandex 的站长服务，用于验证网站、监测收录情况并诊断 Yandex 搜索中的抓取问题。
+    ja: Yandex 検索でのサイトの所有確認、インデックス状況のモニタリング、クロールの問題の診断ができる Yandex のウェブマスター向けサービスです。
+    ko: Yandex 검색에서 사이트 소유권 확인, 색인 현황 모니터링, 크롤링 문제 진단을 할 수 있는 Yandex의 웹마스터 서비스입니다.
+    es: Servicio para webmasters de Yandex para verificar sitios, hacer seguimiento de la indexación y diagnosticar problemas de rastreo en Yandex Search.
+    de: Webmaster-Dienst von Yandex zum Verifizieren von Websites, zum Monitoring der Indexierung und zur Diagnose von Crawl-Problemen in der Yandex-Suche.
+- id: yandex-robots
+  name: How to check that a robot belongs to Yandex
+  url: https://yandex.com/support/webmaster/en/robot-workings/check-yandex-robots
+  category: standards/crawlers
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - ru
+  desc:
+    en: Lists about 40 Yandex robot user agents with their purpose and robots.txt behavior, and explains how to verify them with reverse DNS.
+    zh-CN: 列出约 40 个 Yandex 爬虫 User-Agent 及其用途和 robots.txt 行为，并说明如何通过反向 DNS 验证。
+    ja: Yandex のロボット約 40種類のユーザーエージェントを用途と robots.txt での扱いとともに一覧にし、逆引き DNS で確認する方法を説明したドキュメントです。
+    ko: Yandex 로봇 사용자 에이전트 약 40개의 용도와 robots.txt 처리 방식을 정리하고, 역방향 DNS로 확인하는 방법을 설명합니다.
+    es: Enumera unos 40 user agents de robots de Yandex con su finalidad y su comportamiento ante robots.txt, y explica cómo verificarlos mediante DNS inverso.
+    de: Listet rund 40 User-Agents der Yandex-Robots mit Zweck und Verhalten gegenüber robots.txt auf und erklärt, wie sie sich per Reverse-DNS verifizieren lassen.

@@ -1,0 +1,138 @@
+# Category tree. Leaf paths (e.g. research/foundational) are the valid `category` values.
+# Children nest one level only. `intro` is optional; keep it to one sentence.
+# Titles must not end in punctuation and must not contain [ ] * _.
+
+- id: introduction
+  title: {en: Introduction, zh-CN: 入门, ja: 入門, ko: 입문, es: Introducción, de: Einführung}
+
+- id: research
+  title: {en: Research Papers, zh-CN: 研究论文, ja: 研究論文, ko: 연구 논문, es: Artículos de investigación, de: Forschungsarbeiten}
+  children:
+    - id: foundational
+      title: {en: Foundational Papers, zh-CN: 奠基性论文, ja: 基礎となる論文, ko: 기초 논문, es: Trabajos fundacionales, de: Grundlagenarbeiten}
+    - id: benchmarks-datasets
+      title: {en: Benchmarks and Datasets, zh-CN: 基准与数据集, ja: ベンチマークとデータセット, ko: 벤치마크와 데이터셋, es: Benchmarks y conjuntos de datos, de: Benchmarks und Datensätze}
+    - id: adversarial
+      title: {en: Attacks and Manipulation, zh-CN: 攻击与操纵, ja: 攻撃と操作, ko: 공격과 조작, es: Ataques y manipulación, de: Angriffe und Manipulation}
+      intro:
+        en: Adversarial GEO research on how answer engines can be manipulated, for example through prompt injection or ranking attacks, and how to defend against it.
+        zh-CN: 对抗性 GEO 研究，关注 AI 回答引擎如何通过提示词注入、排名操纵等手段被操控，以及相应的防御方法。
+        ja: プロンプトインジェクションやランキング攻撃などによって AI 回答エンジンが操作される仕組みと、その防御策を扱う敵対的 GEO の研究です。
+        ko: 프롬프트 인젝션이나 순위 조작 공격 등으로 AI 답변 엔진이 조작되는 방식과 그 방어 방법을 다루는 적대적 GEO 연구입니다.
+        es: Investigación sobre GEO adversarial, es decir, cómo se puede manipular un motor de respuestas mediante inyección de prompts o ataques al ranking, y cómo defenderse.
+        de: Forschung zu Adversarial GEO, also dazu, wie sich Antwortmaschinen etwa per Prompt-Injection oder Ranking-Angriffen manipulieren lassen und wie man sich dagegen schützt.
+    - id: citation-visibility
+      title: {en: Citation and Visibility Analysis, zh-CN: 引用与可见度分析, ja: 引用と可視性の分析, ko: 인용 및 가시성 분석, es: Análisis de citas y visibilidad, de: Zitations- und Sichtbarkeitsanalysen}
+    - id: surveys
+      title: {en: Surveys, zh-CN: 综述, ja: サーベイ, ko: 서베이 논문, es: Revisiones, de: Übersichtsarbeiten}
+
+- id: guides
+  title: {en: Guides and Articles, zh-CN: 指南与文章, ja: ガイドと記事, ko: 가이드와 아티클, es: Guías y artículos, de: Leitfäden und Artikel}
+  children:
+    - id: strategy
+      title: {en: Strategy, zh-CN: 策略, ja: 戦略, ko: 전략, es: Estrategia, de: Strategie}
+    - id: content
+      title: {en: Content Writing, zh-CN: 内容创作, ja: コンテンツ制作, ko: 콘텐츠 작성, es: Redacción de contenidos, de: Content-Erstellung}
+    - id: technical
+      title: {en: Technical Implementation, zh-CN: 技术实现, ja: 技術的な実装, ko: 기술 구현, es: Implementación técnica, de: Technische Umsetzung}
+    - id: reports
+      title: {en: Industry Reports and Data, zh-CN: 行业报告与数据, ja: 業界レポートとデータ, ko: 업계 보고서와 데이터, es: Informes y datos del sector, de: Branchenberichte und Daten}
+
+- id: standards
+  title: {en: Standards and Specifications, zh-CN: 标准与技术规范, ja: 標準と技術仕様, ko: 표준과 기술 사양, es: Estándares y especificaciones, de: Standards und Spezifikationen}
+  intro:
+    en: Specifications and official documentation that govern how AI crawlers access a site and how answer engines read its content.
+    zh-CN: 规定 AI 爬虫如何访问网站、AI 回答引擎如何读取内容的技术规范与官方文档。
+    ja: AI クローラーによるサイトへのアクセスや、AI 回答エンジンによるコンテンツの読み取りを左右する仕様と公式ドキュメントです。
+    ko: AI 크롤러가 사이트에 접근하는 방식과 AI 답변 엔진이 콘텐츠를 읽는 방식을 규정하는 사양과 공식 문서입니다.
+    es: Especificaciones y documentación oficial que determinan cómo acceden los rastreadores de IA a un sitio y cómo leen su contenido los motores de respuestas.
+    de: Spezifikationen und offizielle Dokumentation dazu, wie KI-Crawler auf eine Website zugreifen und wie Antwortmaschinen ihre Inhalte auslesen.
+  children:
+    - id: llms-txt
+      title: {en: llms.txt, zh-CN: llms.txt, ja: llms.txt, ko: llms.txt, es: llms.txt, de: llms.txt}
+    - id: crawlers
+      title: {en: AI Crawlers and robots.txt, zh-CN: AI 爬虫与 robots.txt, ja: AI クローラーと robots.txt, ko: AI 크롤러와 robots.txt, es: Rastreadores de IA y robots.txt, de: KI-Crawler und robots.txt}
+    - id: structured-data
+      title: {en: Structured Data, zh-CN: 结构化数据, ja: 構造化データ, ko: 구조화된 데이터, es: Datos estructurados, de: Strukturierte Daten}
+    - id: engine-docs
+      title: {en: Official Engine Documentation, zh-CN: 引擎官方文档, ja: 各エンジンの公式ドキュメント, ko: 엔진별 공식 문서, es: Documentación oficial de los motores, de: Offizielle Dokumentation der Anbieter}
+
+- id: tools
+  title: {en: Tools, zh-CN: 工具, ja: ツール, ko: 도구, es: Herramientas, de: Tools}
+  children:
+    - id: monitoring
+      title: {en: AI Visibility Monitoring, zh-CN: AI 可见度监测, ja: AI 可視性モニタリング, ko: AI 가시성 모니터링, es: Seguimiento de la visibilidad en IA, de: KI-Sichtbarkeits-Monitoring}
+    - id: content-audit
+      title: {en: Content Audit and Optimization, zh-CN: 内容审计与优化, ja: コンテンツ監査と最適化, ko: 콘텐츠 진단과 최적화, es: Auditoría y optimización de contenidos, de: Content-Audit und -Optimierung}
+    - id: open-source
+      title: {en: Open Source Tools and Libraries, zh-CN: 开源工具与库, ja: オープンソースのツールとライブラリ, ko: 오픈 소스 도구와 라이브러리, es: Herramientas y bibliotecas de código abierto, de: Open-Source-Tools und -Bibliotheken}
+    - id: llms-txt-generators
+      title: {en: llms.txt Generators, zh-CN: llms.txt 生成器, ja: llms.txt ジェネレーター, ko: llms.txt 생성기, es: Generadores de llms.txt, de: llms.txt-Generatoren}
+    - id: log-analysis
+      title: {en: Crawler Log Analysis, zh-CN: 爬虫日志分析, ja: クローラーのログ解析, ko: 크롤러 로그 분석, es: Análisis de logs de rastreadores, de: Crawler-Log-Analyse}
+
+- id: engines
+  title: {en: AI Search Engines and Assistants, zh-CN: AI 搜索引擎与助手, ja: AI 検索エンジンとアシスタント, ko: AI 검색 엔진과 어시스턴트, es: Buscadores y asistentes de IA, de: KI-Suchmaschinen und -Assistenten}
+  intro:
+    en: AI answer engines grouped by region, with their official sites, webmaster documentation and known crawler user agents where available.
+    zh-CN: 按地区整理的 AI 回答引擎，尽量附上官方网站、站长文档和已知的爬虫 User-Agent。
+    ja: 地域別にまとめた AI 回答エンジンで、可能な限り公式サイト、ウェブマスター向けドキュメント、既知のクローラーのユーザーエージェントを併記しています。
+    ko: 지역별로 정리한 AI 답변 엔진으로, 가능한 경우 공식 사이트와 웹마스터 문서, 알려진 크롤러 사용자 에이전트를 함께 소개합니다.
+    es: Motores de respuestas con IA agrupados por región, con su sitio oficial, documentación para webmasters y los user agents conocidos de sus rastreadores cuando existen.
+    de: KI-Antwortmaschinen nach Region, soweit verfügbar mit offizieller Website, Webmaster-Dokumentation und bekannten Crawler-User-Agents.
+  children:
+    - id: global
+      title: {en: Global, zh-CN: 全球, ja: グローバル, ko: 글로벌, es: Global, de: International}
+    - id: china
+      title: {en: China, zh-CN: 中国, ja: 中国, ko: 중국, es: China, de: China}
+    - id: japan
+      title: {en: Japan, zh-CN: 日本, ja: 日本, ko: 일본, es: Japón, de: Japan}
+    - id: korea
+      title: {en: South Korea, zh-CN: 韩国, ja: 韓国, ko: 한국, es: Corea del Sur, de: Südkorea}
+    - id: europe
+      title: {en: Europe, zh-CN: 欧洲, ja: ヨーロッパ, ko: 유럽, es: Europa, de: Europa}
+    - id: latam
+      title: {en: Latin America, zh-CN: 拉丁美洲, ja: 中南米, ko: 중남미, es: Latinoamérica, de: Lateinamerika}
+    - id: other
+      title: {en: Other Regions, zh-CN: 其他地区, ja: その他の地域, ko: 기타 지역, es: Otras regiones, de: Weitere Regionen}
+
+- id: regional
+  title: {en: Regional GEO Resources, zh-CN: 各语种 GEO 资源, ja: 言語別の GEO リソース, ko: 언어별 GEO 자료, es: Recursos de GEO en otros idiomas, de: GEO-Ressourcen in weiteren Sprachen}
+  intro:
+    en: Articles, communities and local tools published in languages other than English; agencies and service providers are not listed.
+    zh-CN: 以英语以外的语言发布的文章、社区和本地工具，不收录代理商和服务商。
+    ja: 英語以外の言語で公開されている記事、コミュニティ、ローカルツールで、代理店やサービス事業者は掲載していません。
+    ko: 영어 이외의 언어로 발행된 아티클, 커뮤니티, 현지 도구를 모았으며, 대행사와 서비스 업체는 싣지 않습니다.
+    es: Artículos, comunidades y herramientas locales publicados en idiomas distintos del inglés; no se incluyen agencias ni proveedores de servicios.
+    de: Artikel, Communities und lokale Tools in anderen Sprachen als Englisch; Agenturen und Dienstleister werden nicht aufgenommen.
+  children:
+    - id: chinese
+      title: {en: Chinese, zh-CN: 中文, ja: 中国語, ko: 중국어, es: En chino, de: Chinesisch}
+    - id: japanese
+      title: {en: Japanese, zh-CN: 日语, ja: 日本語, ko: 일본어, es: En japonés, de: Japanisch}
+    - id: korean
+      title: {en: Korean, zh-CN: 韩语, ja: 韓国語, ko: 한국어, es: En coreano, de: Koreanisch}
+    - id: spanish
+      title: {en: Spanish, zh-CN: 西班牙语, ja: スペイン語, ko: 스페인어, es: En español, de: Spanisch}
+    - id: german
+      title: {en: German, zh-CN: 德语, ja: ドイツ語, ko: 독일어, es: En alemán, de: Deutsch}
+
+- id: case-studies
+  title: {en: Case Studies, zh-CN: 案例研究, ja: 事例, ko: 사례 연구, es: Estudios de caso, de: Fallstudien}
+
+- id: learning
+  title: {en: "Courses, Videos and Podcasts", zh-CN: 课程、视频与播客, ja: 講座・動画・ポッドキャスト, ko: "강의, 영상, 팟캐스트", es: "Cursos, videos y podcasts", de: "Kurse, Videos und Podcasts"}
+
+- id: community
+  title: {en: Newsletters and Communities, zh-CN: 通讯与社区, ja: ニュースレターとコミュニティ, ko: 뉴스레터와 커뮤니티, es: Boletines y comunidades, de: Newsletter und Communities}
+
+- id: related-lists
+  # en title must not be exactly "Related Lists": awesome-lint excludes that heading from the ToC check.
+  title: {en: Other Curated Lists, zh-CN: 其他精选清单, ja: ほかの厳選リスト, ko: 다른 큐레이션 목록, es: Otras listas curadas, de: Weitere kuratierte Listen}
+  intro:
+    en: Lists covering GEO and AI search that overlap with this one, credited here with thanks.
+    zh-CN: 与本清单主题相近的 GEO 和 AI 搜索资源清单，在此一并致谢。
+    ja: GEO や AI 検索を扱う、本リストと関連の深いリストを感謝を込めて紹介します。
+    ko: 이 목록과 주제가 겹치는 GEO 및 AI 검색 관련 목록을 감사의 뜻을 담아 소개합니다.
+    es: Listas sobre GEO y búsqueda con IA que abarcan temas afines a esta, mencionadas aquí con agradecimiento.
+    de: Listen zu GEO und KI-Suche mit ähnlichem Themenzuschnitt, die wir hier dankend verlinken.

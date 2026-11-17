@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: pytest
+      - name: Validate data (lenient, pull requests)
+        if: github.event_name == 'pull_request'
+        run: python scripts/validate.py
+      - name: Validate data (strict, main)
+        if: github.event_name == 'push'
+        run: python scripts/validate.py --strict
+      - name: Check READMEs are in sync with data
+        if: github.event_name == 'push'
+        run: python scripts/build.py && git diff --exit-code -- 'README*.md'
+
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npx -y awesome-lint@2.3.0 README.md

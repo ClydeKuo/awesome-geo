@@ -1,0 +1,40 @@
+name: Link check
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --accept 200,206,403,429 --max-retries 3 --timeout 30 README.md
+          output: lychee/out.md
+          fail: false
+      - name: Find existing report issue
+        id: existing
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          number=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --label broken-link \
+            --search 'in:title "Broken links report"' --json number --jq '.[0].number // empty')
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+      - name: Create or update issue
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          issue-number: ${{ steps.existing.outputs.number }}
+          title: Broken links report
+          content-filepath: lychee/out.md
+          labels: broken-link

@@ -1,0 +1,906 @@
+- id: clearscope
+  name: Clearscope
+  url: https://www.clearscope.io
+  category: tools/content-audit
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Recommends content improvements for Google and AI answers and tracks queries in ChatGPT and Gemini to show when a brand is mentioned.
+    zh-CN: 提供适用于 Google 和 AI 回答的内容改进建议，并追踪 ChatGPT 和 Gemini 中的查询，显示品牌被提及的情况。
+    ja: Google や AI 回答向けにコンテンツの改善点を提案し、ChatGPT と Gemini でクエリを追跡してブランドが言及されたかを示すツールです。
+    ko: Google과 AI 답변에 맞춘 콘텐츠 개선안을 제시하고 ChatGPT와 Gemini의 쿼리를 추적해 브랜드가 언급되는 시점을 보여 줍니다.
+    es: Recomienda mejoras de contenido para Google y las respuestas de IA y sigue consultas en ChatGPT y Gemini para mostrar cuándo se menciona una marca.
+    de: Empfiehlt Content-Verbesserungen für Google und KI-Antworten und erfasst Suchanfragen in ChatGPT und Gemini, um zu zeigen, wann eine Marke erwähnt wird.
+- id: frase
+  name: Frase
+  url: https://www.frase.io
+  category: tools/content-audit
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Scores content for SEO and GEO and monitors brand visibility in AI engines such as ChatGPT and Google AI, with more engines on higher plans.
+    zh-CN: 从 SEO 和 GEO 角度为内容打分，并监测品牌在 ChatGPT、Google AI 等 AI 引擎中的可见度，高级套餐支持更多引擎。
+    ja: SEO と GEO の観点からコンテンツを採点し、ChatGPT や Google AI などの AI エンジンでのブランドの可視性をモニタリングするツールで、上位プランでは対象エンジンが増えます。
+    ko: SEO와 GEO 관점에서 콘텐츠를 평가하고 ChatGPT, Google AI 등 AI 엔진의 브랜드 가시성을 모니터링하며, 상위 요금제에서 더 많은 엔진을 지원합니다.
+    es: Puntúa el contenido para SEO y GEO y hace seguimiento de la visibilidad de marca en motores de IA como ChatGPT y Google AI; los planes superiores incluyen más motores.
+    de: Bewertet Inhalte für SEO und GEO und überwacht die Markensichtbarkeit in KI-Suchmaschinen wie ChatGPT und Google AI, in höheren Tarifen mit weiteren Suchmaschinen.
+- id: geoready
+  name: GeoReady
+  url: https://geoready.dev
+  category: tools/content-audit
+  type: tool
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Audits whether ChatGPT, Perplexity, Claude and Gemini can reach, read and cite a site, scoring it out of 100 across nine categories with ranked fixes.
+    zh-CN: 审计 ChatGPT、Perplexity、Claude 和 Gemini 能否访问、读取并引用网站，按九个类别给出百分制评分，并按优先级列出修复项。
+    ja: ChatGPT、Perplexity、Claude、Gemini がサイトにアクセスし、読み取り、引用できるかを監査し、9カテゴリ・100点満点で採点して優先順位付きの修正案を示すツールです。
+    ko: ChatGPT, Perplexity, Claude, Gemini가 사이트에 접근해 읽고 인용할 수 있는지 9개 범주, 100점 만점으로 진단하고 수정 우선순위를 제시합니다.
+    es: Audita si ChatGPT, Perplexity, Claude y Gemini pueden acceder a un sitio, leerlo y citarlo, y lo puntúa sobre 100 en nueve categorías con correcciones priorizadas.
+    de: Prüft, ob ChatGPT, Perplexity, Claude und Gemini eine Website erreichen, lesen und zitieren können, und bewertet sie mit bis zu 100 Punkten in neun Kategorien samt priorisierten Korrekturen.
+- id: neuronwriter
+  name: NEURONwriter
+  url: https://neuronwriter.com
+  category: tools/content-audit
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Suggests terms and structure from top-ranking pages to optimize content for Google and AI answers, and monitors brand share of voice across AI models.
+    zh-CN: 根据排名靠前的页面建议用词和结构，针对 Google 和 AI 回答优化内容，并监测品牌在各 AI 模型中的声量占比。
+    ja: 上位ページをもとに用語と構成を提案して Google と AI 回答向けにコンテンツを最適化し、AI モデル全体でのブランドのシェア・オブ・ボイスもモニタリングするツールです。
+    ko: 상위 페이지를 바탕으로 용어와 구조를 제안해 Google과 AI 답변에 맞게 콘텐츠를 최적화하고, AI 모델 전반의 브랜드 보이스 점유율(SOV)을 모니터링합니다.
+    es: Sugiere términos y estructura a partir de las páginas mejor posicionadas para optimizar el contenido para Google y las respuestas de IA, y sigue la cuota de voz de la marca en modelos de IA.
+    de: Schlägt anhand der Seiten mit den besten Rankings Begriffe und Struktur vor, um Inhalte für Google und KI-Antworten zu optimieren, und überwacht den Share of Voice einer Marke in KI-Modellen.
+- id: surfer-ai-search
+  name: Surfer
+  url: https://surfer.ai
+  category: tools/content-audit
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Combines a content editor that scores drafts against competitors with an AI Tracker for brand mentions in ChatGPT, Perplexity, Gemini, AI Overviews and AI Mode.
+    zh-CN: 集成内容编辑器与 AI Tracker，前者对照竞品为草稿打分，后者追踪 ChatGPT、Perplexity、Gemini、Google AI Overviews 和 AI Mode 中的品牌提及。
+    ja: 競合比較で下書きを採点するエディターと、ChatGPT、Perplexity、Gemini、AI Overviews、AI Mode でのブランド言及を追う AI Tracker を備えたツールです。
+    ko: 경쟁사 대비 초안 채점 에디터와 ChatGPT, Perplexity, Gemini, AI Overviews, AI Mode 브랜드 언급 추적용 AI Tracker를 갖췄습니다.
+    es: Combina un editor de contenido que puntúa los borradores frente a la competencia con AI Tracker, que sigue las menciones de marca en ChatGPT, Perplexity, Gemini, AI Overviews y AI Mode.
+    de: Kombiniert einen Content-Editor, der Entwürfe im Vergleich zu Wettbewerbern bewertet, mit einem AI Tracker für Markenerwähnungen in ChatGPT, Perplexity, Gemini, AI Overviews und AI Mode.
+- id: agentmarkup
+  name: agentmarkup
+  url: https://github.com/agentmarkup/agentmarkup
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/agentmarkup/agentmarkup
+  regions:
+  - global
+  desc:
+    en: Generates llms.txt, JSON-LD, Markdown mirrors and AI crawler controls at build time for Vite, Astro, Next.js and Nuxt sites, and validates them.
+    zh-CN: 在构建时为 Vite、Astro、Next.js 和 Nuxt 网站生成 llms.txt、JSON-LD、Markdown 镜像和 AI 爬虫控制规则，并进行校验。
+    ja: Vite、Astro、Next.js、Nuxt のサイト向けに、llms.txt、JSON-LD、Markdown ミラー、AI クローラー制御をビルド時に生成し、検証するツールです。
+    ko: Vite, Astro, Next.js, Nuxt 사이트의 빌드 시점에 llms.txt, JSON-LD, Markdown 미러, AI 크롤러 제어 설정을 생성하고 검증합니다.
+    es: Genera en tiempo de compilación llms.txt, JSON-LD, copias en Markdown y controles para rastreadores de IA en sitios con Vite, Astro, Next.js y Nuxt, y los valida.
+    de: Erzeugt beim Build llms.txt, JSON-LD, Markdown-Kopien und Regeln für KI-Crawler für Websites mit Vite, Astro, Next.js und Nuxt und validiert sie.
+- id: apify-llmstxt-actor
+  name: Apify llms.txt Generator Actor
+  url: https://github.com/apify/actor-llmstxt-generator
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/apify/actor-llmstxt-generator
+  regions:
+  - global
+  desc:
+    en: Apify Actor that crawls a website and extracts its content to create an llms.txt file.
+    zh-CN: 抓取网站并提取内容以生成 llms.txt 文件的 Apify Actor。
+    ja: ウェブサイトをクロールしてコンテンツを抽出し、llms.txt ファイルを作成する Apify の Actor です。
+    ko: 웹사이트를 크롤링하고 콘텐츠를 추출해 llms.txt 파일을 만드는 Apify Actor입니다.
+    es: Actor de Apify que rastrea un sitio web y extrae su contenido para crear un archivo llms.txt.
+    de: Apify-Actor, der eine Website crawlt und ihre Inhalte extrahiert, um eine llms.txt-Datei zu erstellen.
+- id: llmstxt-generator-org
+  name: LLMs.txt Generator
+  url: https://llmstxtgenerator.co
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Crawls a site to draft an llms.txt file, with page discovery, added business context and daily updates of the public file.
+    zh-CN: 抓取网站以起草 llms.txt 文件，支持页面发现、补充业务背景信息，并每日更新公开文件。
+    ja: サイトをクロールして llms.txt ファイルの下書きを作成するツールで、ページの検出、事業情報の追加、公開ファイルの毎日の更新に対応しています。
+    ko: 사이트를 크롤링해 llms.txt 초안을 만드는 도구로, 페이지 탐색, 비즈니스 맥락 추가, 공개 파일의 일일 업데이트 기능을 제공합니다.
+    es: Rastrea un sitio para generar un borrador de archivo llms.txt, con descubrimiento de páginas, contexto de negocio añadido y actualización diaria del archivo público.
+    de: Crawlt eine Website, um eine llms.txt-Datei zu entwerfen, mit Seitenerkennung, ergänztem Unternehmenskontext und täglicher Aktualisierung der öffentlichen Datei.
+- id: dotenvx-llmstxt
+  name: llmstxt (dotenvx)
+  url: https://github.com/dotenvx/llmstxt
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/dotenvx/llmstxt
+  regions:
+  - global
+  desc:
+    en: Command-line tool that converts a sitemap.xml into an llms.txt file.
+    zh-CN: 将 sitemap.xml 转换为 llms.txt 文件的命令行工具。
+    ja: sitemap.xml を llms.txt ファイルに変換するコマンドラインツールです。
+    ko: sitemap.xml을 llms.txt 파일로 변환하는 명령줄 도구입니다.
+    es: Herramienta de línea de comandos que convierte un sitemap.xml en un archivo llms.txt.
+    de: Kommandozeilen-Tool, das eine sitemap.xml in eine llms.txt-Datei umwandelt.
+- id: mkdocs-llmstxt
+  name: mkdocs-llmstxt
+  url: https://github.com/pawamoy/mkdocs-llmstxt
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/pawamoy/mkdocs-llmstxt
+  regions:
+  - global
+  desc:
+    en: MkDocs plugin that generates an /llms.txt file for a documentation site.
+    zh-CN: 为文档网站生成 /llms.txt 文件的 MkDocs 插件。
+    ja: ドキュメントサイト用の /llms.txt ファイルを生成する MkDocs プラグインです。
+    ko: 문서 사이트용 /llms.txt 파일을 생성하는 MkDocs 플러그인입니다.
+    es: Plugin de MkDocs que genera un archivo /llms.txt para un sitio de documentación.
+    de: MkDocs-Plugin, das eine /llms.txt-Datei für eine Dokumentationswebsite erzeugt.
+- id: nuxt-llms
+  name: Nuxt LLMs
+  url: https://github.com/nuxt-content/nuxt-llms
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/nuxt-content/nuxt-llms
+  regions:
+  - global
+  desc:
+    en: Nuxt module that automatically generates /llms.txt markdown documentation for an application.
+    zh-CN: 为应用自动生成 Markdown 格式 /llms.txt 文档的 Nuxt 模块。
+    ja: アプリケーションの /llms.txt 形式の Markdown ドキュメントを自動生成する Nuxt モジュールです。
+    ko: 애플리케이션의 /llms.txt Markdown 문서를 자동 생성하는 Nuxt 모듈입니다.
+    es: Módulo de Nuxt que genera automáticamente la documentación /llms.txt en Markdown de una aplicación.
+    de: Nuxt-Modul, das automatisch eine /llms.txt-Dokumentation in Markdown für eine Anwendung erzeugt.
+- id: sphinx-llms-txt
+  name: sphinx-llms-txt
+  url: https://github.com/jdillard/sphinx-llms-txt
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/jdillard/sphinx-llms-txt
+  regions:
+  - global
+  desc:
+    en: Sphinx extension that generates an llms.txt file.
+    zh-CN: 生成 llms.txt 文件的 Sphinx 扩展。
+    ja: llms.txt ファイルを生成する Sphinx 拡張機能です。
+    ko: llms.txt 파일을 생성하는 Sphinx 확장입니다.
+    es: Extensión de Sphinx que genera un archivo llms.txt.
+    de: Sphinx-Erweiterung, die eine llms.txt-Datei erzeugt.
+- id: vitepress-plugin-llms
+  name: vitepress-plugin-llms
+  url: https://github.com/okineadev/vitepress-plugin-llms
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/okineadev/vitepress-plugin-llms
+  regions:
+  - global
+  desc:
+    en: VitePress plugin that generates LLM-friendly documentation files.
+    zh-CN: 生成适合大语言模型阅读的文档文件的 VitePress 插件。
+    ja: LLM が扱いやすいドキュメントファイルを生成する VitePress プラグインです。
+    ko: LLM이 읽기 좋은 문서 파일을 생성하는 VitePress 플러그인입니다.
+    es: Plugin de VitePress que genera archivos de documentación adaptados a los LLM.
+    de: VitePress-Plugin, das LLM-freundliche Dokumentationsdateien erzeugt.
+- id: wordlift-llms-txt-generator
+  name: WordLift llms.txt Generator
+  url: https://wordlift.io/generate-llms-txt
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Builds an llms.txt draft from a public homepage by checking up to 30 pages found through the sitemap and internal links, without signup.
+    zh-CN: 无需注册，从公开首页出发，检查通过网站地图（sitemap）和内部链接找到的最多 30 个页面，生成 llms.txt 草稿。
+    ja: 公開されたホームページから、サイトマップと内部リンクで見つかる最大 30ページを確認して llms.txt の下書きを作成するツールで、登録は不要です。
+    ko: 가입 없이 공개 홈페이지에서 사이트맵과 내부 링크로 찾은 최대 30개 페이지를 확인해 llms.txt 초안을 만듭니다.
+    es: Genera un borrador de llms.txt a partir de una página de inicio pública revisando hasta 30 páginas encontradas en el sitemap y los enlaces internos, sin registro.
+    de: Erstellt ohne Registrierung einen llms.txt-Entwurf aus einer öffentlichen Startseite, indem bis zu 30 über Sitemap und interne Links gefundene Seiten geprüft werden.
+- id: yoast-llms-txt
+  name: Yoast llms.txt feature
+  url: https://yoast.com/features/llms-txt/
+  category: tools/llms-txt-generators
+  type: tool
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Generates and refreshes an llms.txt file automatically inside the free Yoast SEO plugin, with automatic or manual choice of key content.
+    zh-CN: 在免费的 Yoast SEO 插件中自动生成并更新 llms.txt 文件，可自动或手动选择重点内容。
+    ja: 無料の Yoast SEO プラグイン内で llms.txt ファイルを自動生成・更新する機能で、主要コンテンツは自動でも手動でも選べます。
+    ko: 무료 Yoast SEO 플러그인에서 llms.txt 파일을 자동으로 생성·갱신하며, 핵심 콘텐츠를 자동 또는 수동으로 고를 수 있습니다.
+    es: Genera y actualiza automáticamente un archivo llms.txt dentro del plugin gratuito Yoast SEO, con selección automática o manual del contenido clave.
+    de: Erzeugt und aktualisiert im kostenlosen Plugin Yoast SEO automatisch eine llms.txt-Datei, wobei die wichtigsten Inhalte automatisch oder manuell ausgewählt werden.
+- id: ai-crawler-bots
+  name: ai-crawler-bots
+  url: https://github.com/TryGeoSuite/ai-crawler-bots
+  category: tools/log-analysis
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/TryGeoSuite/ai-crawler-bots
+  regions:
+  - global
+  desc:
+    en: Curated list of AI crawler user agents with a Node CLI and GitHub Action that audit robots.txt, test reachability and read access logs.
+    zh-CN: AI 爬虫 User-Agent 精选列表，附带 Node 命令行工具和 GitHub Action，可审计 robots.txt、测试可访问性并读取访问日志。
+    ja: AI クローラーのユーザーエージェントを集めたリストで、robots.txt の監査、到達性のテスト、アクセスログの読み取りを行う Node CLI と GitHub Action も備えています。
+    ko: AI 크롤러 사용자 에이전트 목록으로, robots.txt 진단, 접근 가능 여부 테스트, 액세스 로그 분석을 하는 Node CLI와 GitHub Action을 함께 제공합니다.
+    es: Lista curada de user agents de rastreadores de IA con una CLI de Node y una GitHub Action que auditan el robots.txt, prueban la accesibilidad y leen los logs de acceso.
+    de: Kuratierte Liste von User-Agents der KI-Crawler mit einer Node-CLI und einer GitHub Action, die robots.txt prüfen, die Erreichbarkeit testen und Access-Logs auswerten.
+- id: cloudflare-ai-crawl-control
+  name: Cloudflare AI Crawl Control
+  url: https://developers.cloudflare.com/ai-crawl-control/
+  category: tools/log-analysis
+  type: tool
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Shows which AI services crawl a site, lets owners allow or block each crawler and reports which ones obey robots.txt; available on all Cloudflare plans.
+    zh-CN: 显示哪些 AI 服务在抓取网站，允许网站所有者逐个放行或屏蔽爬虫，并报告哪些爬虫遵守 robots.txt，所有 Cloudflare 套餐均可使用。
+    ja: どの AI サービスがサイトをクロールしているかを表示し、クローラーごとの許可・ブロックや robots.txt の遵守状況の報告ができるツールで、Cloudflare の全プランで利用できます。
+    ko: 사이트를 크롤링하는 AI 서비스를 보여 주고 크롤러별 허용·차단과 robots.txt 준수 여부 보고를 제공하며, 모든 Cloudflare 요금제에서 쓸 수 있습니다.
+    es: Muestra qué servicios de IA rastrean un sitio, permite autorizar o bloquear cada rastreador e indica cuáles respetan el robots.txt; disponible en todos los planes de Cloudflare.
+    de: Zeigt, welche KI-Dienste eine Website crawlen, ermöglicht das Zulassen oder Blockieren jedes einzelnen Crawlers und meldet, welche Crawler robots.txt einhalten; in allen Cloudflare-Tarifen verfügbar.
+- id: cloudflare-ai-crawler-tracker
+  name: cloudflare-ai-crawler-tracker
+  url: https://github.com/Cairrot-Inc/cloudflare-ai-crawler-tracker
+  category: tools/log-analysis
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/Cairrot-Inc/cloudflare-ai-crawler-tracker
+  regions:
+  - global
+  desc:
+    en: Cloudflare Worker that detects and tracks AI crawler and LLM bot traffic at the edge.
+    zh-CN: 在边缘检测并追踪 AI 爬虫与大语言模型爬虫流量的 Cloudflare Worker。
+    ja: エッジで AI クローラーや LLM ボットのトラフィックを検出・追跡する Cloudflare Worker です。
+    ko: AI 크롤러와 LLM 크롤러 트래픽을 엣지에서 감지하고 추적하는 Cloudflare Worker입니다.
+    es: Cloudflare Worker que detecta y hace seguimiento del tráfico de rastreadores de IA y bots de LLM en el edge.
+    de: Cloudflare Worker, der Traffic von KI-Crawlern und LLM-Bots am Edge erkennt und erfasst.
+- id: known-agents
+  name: Known Agents
+  url: https://knownagents.com
+  category: tools/log-analysis
+  type: tool
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Offers a directory of AI agents and bots, a robots.txt checker and agent analytics, with a free plan limited to 100,000 events per month.
+    zh-CN: 提供 AI 智能体与爬虫目录、robots.txt 检查工具和智能体分析，免费方案每月限 10 万个事件。
+    ja: AI エージェントとボットのディレクトリ、robots.txt チェッカー、エージェント分析を提供するサービスで、無料プランは月 10万イベントまでです。
+    ko: AI 에이전트·봇 디렉터리, robots.txt 검사기, 에이전트 분석을 제공하며, 무료 요금제는 월 10만 이벤트로 제한됩니다.
+    es: Ofrece un directorio de agentes y bots de IA, un comprobador de robots.txt y analítica de agentes, con un plan gratuito limitado a 100 000 eventos al mes.
+    de: Bietet ein Verzeichnis von KI-Agenten und Bots, einen robots.txt-Checker und Agent-Analytics, mit einem kostenlosen Plan für bis zu 100.000 Ereignisse pro Monat.
+- id: ahrefs-ai-visibility-checker
+  name: Ahrefs AI Visibility Checker
+  url: https://ahrefs.com/ai-visibility-checker
+  category: tools/monitoring
+  type: tool
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Checks without signup how ChatGPT, Gemini, Perplexity, Copilot and AI Overviews mention and cite a brand.
+    zh-CN: 免注册查看 ChatGPT、Gemini、Perplexity、Copilot 和 Google AI Overviews 如何提及和引用某个品牌。
+    ja: ChatGPT、Gemini、Perplexity、Copilot、AI Overviews がブランドをどう言及・引用しているかを、登録不要で確認できるツールです。
+    ko: 가입 없이 ChatGPT, Gemini, Perplexity, Copilot, AI Overviews가 브랜드를 어떻게 언급·인용하는지 확인하는 도구입니다.
+    es: Comprueba sin registro cómo mencionan y citan una marca ChatGPT, Gemini, Perplexity, Copilot y AI Overviews.
+    de: Prüft ohne Registrierung, wie ChatGPT, Gemini, Perplexity, Copilot und AI Overviews eine Marke erwähnen und als Quelle zitieren.
+- id: ahrefs-brand-radar
+  name: Ahrefs Brand Radar
+  url: https://ahrefs.com/brand-radar
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Reports how often a brand appears in answers from Google AI Overviews, AI Mode, ChatGPT, Perplexity, Gemini and Copilot, using a prompt database or custom prompts.
+    zh-CN: 借助提示词数据库或自定义提示词，统计品牌在 Google AI Overviews、AI Mode、ChatGPT、Perplexity、Gemini 和 Copilot 回答中出现的频率。
+    ja: Google AI Overviews、AI Mode、ChatGPT、Perplexity、Gemini、Copilot でのブランド登場頻度を、プロンプトデータベースか独自プロンプトで計測します。
+    ko: 프롬프트 DB나 자체 프롬프트로 AI Overviews, AI Mode, ChatGPT, Perplexity, Gemini, Copilot 답변의 브랜드 노출 빈도를 보고합니다.
+    es: Informa de con qué frecuencia aparece una marca en las respuestas de Google AI Overviews, AI Mode, ChatGPT, Perplexity, Gemini y Copilot, con una base de datos de prompts o prompts propios.
+    de: Zeigt, wie oft eine Marke in Antworten von Google AI Overviews, AI Mode, ChatGPT, Perplexity, Gemini und Copilot vorkommt, auf Basis einer Prompt-Datenbank oder eigener Prompts.
+- id: athenahq
+  name: AthenaHQ
+  url: https://athenahq.ai
+  category: tools/monitoring
+  type: tool
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks brand visibility across AI models such as ChatGPT, Perplexity, Gemini, AI Overviews and Copilot and suggests content changes, with a free plan that includes starter credit.
+    zh-CN: 追踪品牌在 ChatGPT、Perplexity、Gemini、Google AI Overviews、Copilot 等 AI 模型中的可见度并给出内容修改建议，免费方案含初始额度。
+    ja: ChatGPT、Perplexity、Gemini、AI Overviews、Copilot などでブランドの可視性を追跡し、改善案を示すツールで、初期クレジット付きの無料プランがあります。
+    ko: ChatGPT, Perplexity, Gemini, AI Overviews, Copilot 등의 브랜드 가시성 추적, 콘텐츠 수정안, 시작 크레딧이 든 무료 요금제를 제공합니다.
+    es: Sigue la visibilidad de marca en modelos de IA como ChatGPT, Perplexity, Gemini, AI Overviews y Copilot y sugiere cambios de contenido; tiene un plan gratuito con créditos iniciales.
+    de: Erfasst die Markensichtbarkeit in KI-Modellen wie ChatGPT, Perplexity, Gemini, AI Overviews und Copilot und schlägt Content-Änderungen vor; der kostenlose Plan enthält ein Startguthaben.
+- id: geoptie
+  name: Geoptie
+  url: https://geoptie.com
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Shows how ChatGPT, Gemini, Claude, Perplexity and Google AI answer buyer prompts and which sources they cite.
+    zh-CN: 展示 ChatGPT、Gemini、Claude、Perplexity 和 Google AI 对购物咨询的回答及其引用来源。
+    ja: ChatGPT、Gemini、Claude、Perplexity、Google AI が購買者のプロンプトにどう答え、どの情報源を引用するかを確認できるツールです。
+    ko: ChatGPT, Gemini, Claude, Perplexity, Google AI가 구매자 프롬프트에 어떻게 답하고 어떤 출처를 인용하는지 보여 줍니다.
+    es: Muestra cómo responden ChatGPT, Gemini, Claude, Perplexity y Google AI a los prompts de compradores y qué fuentes citan.
+    de: Zeigt, wie ChatGPT, Gemini, Claude, Perplexity und Google AI auf Prompts von Kaufinteressenten antworten und welche Quellen sie zitieren.
+- id: goodie
+  name: Goodie
+  url: https://higoodie.com
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks brand visibility across AI engines such as ChatGPT, AI Overviews, Perplexity and Copilot and recommends optimizations, with more engines on higher plans.
+    zh-CN: 追踪品牌在 ChatGPT、Google AI Overviews、Perplexity、Copilot 等 AI 引擎中的可见度并给出优化建议，高级套餐支持更多引擎。
+    ja: ChatGPT、AI Overviews、Perplexity、Copilot などの AI エンジンでブランドの可視性を追跡し、最適化策を提案するツールで、上位プランでは対象エンジンが増えます。
+    ko: ChatGPT, AI Overviews, Perplexity, Copilot 등의 브랜드 가시성을 추적해 최적화 방안을 제안하며, 상위 요금제는 더 많은 엔진을 지원합니다.
+    es: Hace seguimiento de la visibilidad de marca en motores de IA como ChatGPT, AI Overviews, Perplexity y Copilot y recomienda optimizaciones; los planes superiores incluyen más motores.
+    de: Erfasst die Markensichtbarkeit in KI-Suchmaschinen wie ChatGPT, AI Overviews, Perplexity und Copilot und empfiehlt Optimierungen, in höheren Tarifen mit weiteren Suchmaschinen.
+- id: hubspot-ai-search-grader
+  name: HubSpot AI Search Grader
+  url: https://www.hubspot.com/aeo-grader
+  category: tools/monitoring
+  type: tool
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Scores how ChatGPT, Perplexity and Gemini describe a brand in a free one-time check, with paid weekly monitoring offered as HubSpot AEO.
+    zh-CN: 一次性免费检测 ChatGPT、Perplexity 和 Gemini 如何描述品牌并打分，付费的每周监测由 HubSpot AEO 提供。
+    ja: ChatGPT、Perplexity、Gemini がブランドをどう説明しているかを 1回限りの無料チェックで採点するツールで、毎週のモニタリングは有料の HubSpot AEO で提供されています。
+    ko: ChatGPT, Perplexity, Gemini가 브랜드를 어떻게 설명하는지 1회 무료로 평가하며, 유료 주간 모니터링은 HubSpot AEO로 제공됩니다.
+    es: Puntúa en una comprobación gratuita y puntual cómo describen una marca ChatGPT, Perplexity y Gemini; el seguimiento semanal de pago se ofrece como HubSpot AEO.
+    de: Bewertet in einer kostenlosen einmaligen Prüfung, wie ChatGPT, Perplexity und Gemini eine Marke beschreiben; wöchentliches Monitoring wird als kostenpflichtiges HubSpot AEO angeboten.
+- id: knowatoa
+  name: Knowatoa
+  url: https://www.knowatoa.com
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks brand visibility in ChatGPT, Google AI Overviews, AI Mode and other AI search services, with prompt tracking and reporting integrations.
+    zh-CN: 追踪品牌在 ChatGPT、Google AI Overviews、AI Mode 等 AI 搜索服务中的可见度，支持提示词追踪和报告集成。
+    ja: ChatGPT、Google AI Overviews、AI Mode などの AI 検索サービスでブランドの可視性を追跡するツールで、プロンプト追跡とレポート連携の機能を備えています。
+    ko: ChatGPT, Google AI Overviews, AI Mode 등 AI 검색 서비스의 브랜드 가시성을 추적하며 프롬프트 추적과 보고서 연동 기능을 제공합니다.
+    es: Hace seguimiento de la visibilidad de marca en ChatGPT, Google AI Overviews, AI Mode y otros servicios de búsqueda con IA, con seguimiento de prompts e integraciones de informes.
+    de: Erfasst die Markensichtbarkeit in ChatGPT, Google AI Overviews, AI Mode und weiteren KI-Suchdiensten, mit Prompt-Monitoring und Integrationen für das Reporting.
+- id: otterly-ai
+  name: Otterly.AI
+  url: https://otterly.ai
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Monitors brand mentions and website citations in ChatGPT, Google AI Overviews, AI Mode, Gemini, Perplexity and Copilot, with competitor comparison and prompt research.
+    zh-CN: 监测品牌在 ChatGPT、Google AI Overviews、AI Mode、Gemini、Perplexity 和 Copilot 中的提及及网站引用情况，支持竞品对比和提示词研究。
+    ja: ChatGPT、Google AI Overviews、AI Mode、Gemini、Perplexity、Copilot のブランド言及・引用をモニタリングし、競合比較やプロンプト調査も可能です。
+    ko: ChatGPT, AI Overviews, AI Mode, Gemini, Perplexity, Copilot의 브랜드 언급·인용 추적, 경쟁사 비교, 프롬프트 리서치를 제공합니다.
+    es: Hace seguimiento de menciones de marca y citas del sitio web en ChatGPT, Google AI Overviews, AI Mode, Gemini, Perplexity y Copilot, con comparación con la competencia e investigación de prompts.
+    de: Überwacht Markenerwähnungen und Zitationen von Websites in ChatGPT, Google AI Overviews, AI Mode, Gemini, Perplexity und Copilot, mit Wettbewerbsvergleich und Prompt-Recherche.
+- id: peec-ai
+  name: Peec AI
+  url: https://peec.ai
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks brand visibility, position and sentiment in AI search platforms such as ChatGPT, Perplexity, AI Overviews, AI Mode and Gemini, with prompt-level reports.
+    zh-CN: 追踪品牌在 ChatGPT、Perplexity、Google AI Overviews、AI Mode、Gemini 等 AI 搜索平台中的可见度、排位和情感倾向，提供提示词级报告。
+    ja: ChatGPT、Perplexity、AI Overviews、AI Mode、Gemini などでブランドの可視性、順位、センチメントを追跡し、プロンプト単位でレポートするツールです。
+    ko: ChatGPT, Perplexity, AI Overviews, AI Mode, Gemini 등에서 브랜드 가시성, 위치, 감성을 추적하고 프롬프트별 보고서를 제공합니다.
+    es: Hace seguimiento de la visibilidad, la posición y el sentimiento de una marca en plataformas de búsqueda con IA como ChatGPT, Perplexity, AI Overviews, AI Mode y Gemini, con informes por prompt.
+    de: Erfasst Sichtbarkeit, Position und Stimmung einer Marke in KI-Suchplattformen wie ChatGPT, Perplexity, AI Overviews, AI Mode und Gemini, mit Berichten auf Prompt-Ebene.
+- id: profound
+  name: Profound
+  url: https://www.tryprofound.com
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks brand visibility in answer engines such as ChatGPT, Perplexity, Google AI Mode, Gemini and Claude through daily prompt runs and citation analysis.
+    zh-CN: 通过每日运行提示词和引用分析，追踪品牌在 ChatGPT、Perplexity、Google AI Mode、Gemini、Claude 等回答引擎中的可见度。
+    ja: ChatGPT、Perplexity、Google AI Mode、Gemini、Claude などの回答エンジンでのブランドの可視性を、毎日のプロンプト実行と引用分析で追跡するツールです。
+    ko: 매일 실행하는 프롬프트와 인용 분석으로 ChatGPT, Perplexity, Google AI Mode, Gemini, Claude 등 답변 엔진의 브랜드 가시성을 추적합니다.
+    es: Hace seguimiento de la visibilidad de marca en motores de respuestas como ChatGPT, Perplexity, Google AI Mode, Gemini y Claude mediante ejecuciones diarias de prompts y análisis de citas.
+    de: Erfasst die Markensichtbarkeit in Antwortmaschinen wie ChatGPT, Perplexity, Google AI Mode, Gemini und Claude über tägliche Prompt-Durchläufe und Zitationsanalysen.
+- id: promptwatch
+  name: Promptwatch
+  url: https://promptwatch.com
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks brand visibility across AI models including ChatGPT, Google AI Overviews, Perplexity, Claude and Gemini by running prompts, with AI crawler analytics on higher plans.
+    zh-CN: 通过运行提示词，追踪品牌在 ChatGPT、Google AI Overviews、Perplexity、Claude、Gemini 等 AI 模型中的可见度，高级套餐提供 AI 爬虫分析。
+    ja: ChatGPT、Google AI Overviews、Perplexity、Claude、Gemini などでプロンプトを実行してブランド可視性を追跡し、上位プランは AI クローラー分析付きです。
+    ko: ChatGPT, AI Overviews, Perplexity, Claude, Gemini 등에서 프롬프트로 브랜드 가시성을 추적하며 상위 요금제는 AI 크롤러 분석을 제공합니다.
+    es: Sigue la visibilidad de marca en modelos de IA como ChatGPT, Google AI Overviews, Perplexity, Claude y Gemini ejecutando prompts; los planes superiores añaden analítica de rastreadores de IA.
+    de: Erfasst die Markensichtbarkeit in KI-Modellen wie ChatGPT, Google AI Overviews, Perplexity, Claude und Gemini durch das Ausführen von Prompts, in höheren Tarifen mit Analysen zu KI-Crawlern.
+- id: rankscale
+  name: Rankscale
+  url: https://rankscale.ai
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks brand mentions and citations across more than 17 AI search engines on credit-based plans, with brand dashboards and an API on higher tiers.
+    zh-CN: 采用按点数计费的套餐，追踪品牌在 17 个以上 AI 搜索引擎中的提及和引用，高级套餐提供品牌仪表板和 API。
+    ja: 17以上の AI 検索エンジンでブランドの言及と引用を追跡するクレジット制のツールで、上位プランではブランドダッシュボードと API を利用できます。
+    ko: 크레딧 기반 요금제로 17개 이상의 AI 검색 엔진에서 브랜드 언급과 인용을 추적하며, 상위 요금제에서 브랜드 대시보드와 API를 제공합니다.
+    es: Hace seguimiento de menciones de marca y citas en más de 17 buscadores de IA con planes basados en créditos; los niveles superiores incluyen paneles por marca y una API.
+    de: Erfasst Markenerwähnungen und Zitationen in mehr als 17 KI-Suchmaschinen in Credit-basierten Tarifen, mit Marken-Dashboards und einer API in höheren Tarifen.
+- id: scrunch
+  name: Scrunch
+  url: https://scrunch.com
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Monitors prompts, citations, competitor rankings and AI bot crawl activity across major AI platforms, and can serve an AI-optimized version of a site.
+    zh-CN: 在主流 AI 平台上监测提示词、引用、竞品排名和 AI 爬虫抓取活动，并可向 AI 提供经优化的网站版本。
+    ja: 主要な AI プラットフォームでプロンプト、引用、競合の順位、AI ボットのクロール状況をモニタリングし、サイトの AI 向け最適化版も配信できるツールです。
+    ko: 주요 AI 플랫폼에서 프롬프트, 인용, 경쟁사 순위, AI 크롤러 활동을 모니터링하며, 사이트의 AI 최적화 버전을 제공할 수도 있습니다.
+    es: Hace seguimiento de prompts, citas, posiciones de la competencia y actividad de rastreo de bots de IA en las principales plataformas de IA, y puede servir una versión del sitio optimizada para IA.
+    de: Überwacht Prompts, Zitationen, Wettbewerber-Rankings und Crawl-Aktivität von KI-Bots auf großen KI-Plattformen und kann eine für KI optimierte Version einer Website ausliefern.
+- id: searchable
+  name: Searchable
+  url: https://www.searchable.com
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks brand mentions, competitor comparisons and cited sources in ChatGPT, Google AI Overviews and Perplexity, with Claude, Gemini and other AI engines as paid add-ons.
+    zh-CN: 追踪品牌在 ChatGPT、Google AI Overviews 和 Perplexity 中的提及、竞品对比和引用来源，Claude、Gemini 等 AI 引擎为付费附加项。
+    ja: ChatGPT、Google AI Overviews、Perplexity でブランド言及・競合比較・引用元を追跡するツールで、Claude や Gemini などは有料アドオンです。
+    ko: ChatGPT, Google AI Overviews, Perplexity의 브랜드 언급, 경쟁사 비교, 인용 출처를 추적하며 Claude, Gemini 등은 유료 추가 기능입니다.
+    es: Hace seguimiento de menciones de marca, comparaciones con la competencia y fuentes citadas en ChatGPT, Google AI Overviews y Perplexity, con Claude, Gemini y otros motores como complementos de pago.
+    de: Erfasst Markenerwähnungen, Wettbewerbsvergleiche und zitierte Quellen in ChatGPT, Google AI Overviews und Perplexity; Claude, Gemini und weitere KI-Suchmaschinen sind kostenpflichtig zubuchbar.
+- id: semrush-ai-visibility-toolkit
+  name: Semrush AI Visibility Toolkit
+  url: https://www.semrush.com/features/ai-visibility/
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks brand mentions and visibility in ChatGPT, Google AI Mode and other AI platforms through prompt tracking and competitor monitoring, included in Semrush's SEO plus AI Search plans.
+    zh-CN: 通过提示词追踪和竞品监测，衡量品牌在 ChatGPT、Google AI Mode 等 AI 平台中的提及和可见度，包含在 Semrush 的 SEO 与 AI 搜索套餐中。
+    ja: ChatGPT や Google AI Mode などでのブランド言及と可視性をプロンプト追跡と競合モニタリングで追うツールで、Semrush の SEO・AI Search プランに含まれます。
+    ko: 프롬프트 추적과 경쟁사 모니터링으로 ChatGPT, Google AI Mode 등의 브랜드 언급과 가시성을 추적하며, Semrush SEO+AI Search 요금제에 포함됩니다.
+    es: Sigue las menciones y la visibilidad de una marca en ChatGPT, Google AI Mode y otras plataformas de IA mediante prompts y análisis de la competencia; incluido en los planes SEO + AI Search de Semrush.
+    de: Erfasst Markenerwähnungen und Sichtbarkeit in ChatGPT, Google AI Mode und weiteren KI-Plattformen per Prompt- und Wettbewerbs-Monitoring, enthalten in den Semrush-Tarifen SEO plus AI Search.
+- id: trakkr
+  name: Trakkr
+  url: https://trakkr.ai
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks how a brand appears across eight AI models through prompt tracking, with multi-brand plans and client portals on the higher tier.
+    zh-CN: 通过提示词追踪品牌在八个 AI 模型中的呈现情况，高级套餐提供多品牌方案和客户门户。
+    ja: プロンプト追跡によって 8つの AI モデルでのブランドの見え方を追跡するツールで、上位プランでは複数ブランドの管理とクライアントポータルを利用できます。
+    ko: 프롬프트 추적으로 AI 모델 8개에서 브랜드가 어떻게 노출되는지 추적하며, 상위 요금제에서 다중 브랜드와 고객 포털을 제공합니다.
+    es: Hace seguimiento de cómo aparece una marca en ocho modelos de IA a partir de prompts; el nivel superior incluye planes multimarca y portales para clientes.
+    de: Erfasst per Prompt-Monitoring, wie eine Marke in acht KI-Modellen erscheint, im höheren Tarif mit Plänen für mehrere Marken und Kundenportalen.
+- id: waikay
+  name: Waikay
+  url: https://waikay.io
+  category: tools/monitoring
+  type: tool
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Analyzes how ChatGPT, Google, Claude and Perplexity describe a brand, flagging hallucinations and knowledge gaps and suggesting action plans.
+    zh-CN: 分析 ChatGPT、Google、Claude 和 Perplexity 如何描述品牌，标记幻觉和知识空白并给出行动建议。
+    ja: ChatGPT、Google、Claude、Perplexity がブランドをどう説明しているかを分析し、ハルシネーションや知識の欠落を指摘して対応策を提案するツールです。
+    ko: ChatGPT, Google, Claude, Perplexity가 브랜드를 어떻게 설명하는지 분석해 환각과 지식 공백을 짚고 실행 계획을 제안합니다.
+    es: Analiza cómo describen una marca ChatGPT, Google, Claude y Perplexity, señala alucinaciones y lagunas de conocimiento y sugiere planes de acción.
+    de: Analysiert, wie ChatGPT, Google, Claude und Perplexity eine Marke beschreiben, weist auf Halluzinationen und Wissenslücken hin und schlägt Maßnahmenpläne vor.
+- id: writesonic-ai-visibility
+  name: Writesonic
+  url: https://writesonic.com
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Monitors brand visibility in AI answers, covering ChatGPT, Gemini and Google AI Overviews on lower plans, alongside article writing and site-audit fixes.
+    zh-CN: 监测品牌在 AI 回答中的可见度，基础套餐覆盖 ChatGPT、Gemini 和 Google AI Overviews，并提供文章写作和网站审计修复功能。
+    ja: AI 回答でのブランドの可視性をモニタリングするツールで、下位プランでは ChatGPT、Gemini、Google AI Overviews に対応し、記事作成やサイト監査の修正機能も備えています。
+    ko: AI 답변 속 브랜드 가시성을 추적하고 하위 요금제는 ChatGPT, Gemini, Google AI Overviews를 지원하며 아티클 작성과 사이트 진단·수정도 제공합니다.
+    es: Sigue la visibilidad de marca en respuestas de IA, con ChatGPT, Gemini y Google AI Overviews en los planes básicos, además de redacción de artículos y correcciones de auditoría del sitio.
+    de: Überwacht die Markensichtbarkeit in KI-Antworten, in niedrigeren Tarifen für ChatGPT, Gemini und Google AI Overviews, ergänzt um Artikelerstellung und Korrekturen aus Website-Audits.
+- id: ziptie
+  name: ZipTie
+  url: https://ziptie.ai
+  category: tools/monitoring
+  type: tool
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Tracks chosen prompts across seven engines, including ChatGPT, Google AI Overviews, AI Mode, Gemini, Perplexity and Copilot, with usage-based pricing per check.
+    zh-CN: 追踪选定提示词在 ChatGPT、Google AI Overviews、AI Mode、Gemini、Perplexity、Copilot 等七个引擎中的表现，按检查次数计费。
+    ja: ChatGPT、Google AI Overviews、AI Mode、Gemini、Perplexity、Copilot など 7エンジンで指定プロンプトを追跡し、チェックごとの従量課金です。
+    ko: ChatGPT, AI Overviews, AI Mode, Gemini, Perplexity, Copilot 등 7개 엔진에서 선택한 프롬프트를 추적하며 확인 건당 과금합니다.
+    es: Hace seguimiento de prompts elegidos en siete motores, entre ellos ChatGPT, Google AI Overviews, AI Mode, Gemini, Perplexity y Copilot, con precios por uso según cada comprobación.
+    de: Erfasst ausgewählte Prompts in sieben Suchmaschinen, darunter ChatGPT, Google AI Overviews, AI Mode, Gemini, Perplexity und Copilot, mit nutzungsbasierter Abrechnung pro Prüfung.
+- id: canonry
+  name: Canonry
+  url: https://github.com/Canonry/canonry
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/Canonry/canonry
+  regions:
+  - global
+  desc:
+    en: Agent-first operating platform for AEO and GEO work, distributed as an npm package.
+    zh-CN: 面向智能体的答案引擎优化（AEO）与 GEO 运营平台，以 npm 包形式发布。
+    ja: AEO と GEO の業務向けのエージェントファーストな運用プラットフォームで、npm パッケージとして配布されています。
+    ko: AEO와 GEO 업무를 위한 에이전트 우선 운영 플랫폼으로, npm 패키지로 배포됩니다.
+    es: Plataforma operativa orientada a agentes para trabajo de AEO y GEO, distribuida como paquete npm.
+    de: Auf Agenten ausgerichtete Plattform für die Arbeit an AEO und GEO, die als npm-Paket ausgeliefert wird.
+- id: elmo
+  name: Elmo
+  url: https://github.com/elmohq/elmo
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/elmohq/elmo
+  regions:
+  - global
+  desc:
+    en: Self-hostable platform that tracks how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok and Google AI Overviews mention and cite a brand.
+    zh-CN: 可自托管的平台，追踪 ChatGPT、Claude、Perplexity、Gemini、Copilot、Grok 和 Google AI Overviews 如何提及和引用品牌。
+    ja: ChatGPT、Claude、Perplexity、Gemini、Copilot、Grok、Google AI Overviews でのブランドの言及・引用を追跡する、セルフホスト型のツールです。
+    ko: ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, AI Overviews의 브랜드 언급·인용을 추적하는 셀프 호스팅 플랫폼입니다.
+    es: Plataforma autoalojable que hace seguimiento de cómo mencionan y citan una marca ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok y Google AI Overviews.
+    de: Selbst hostbare Plattform, die erfasst, wie ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok und Google AI Overviews eine Marke erwähnen und als Quelle zitieren.
+- id: gego
+  name: gego
+  url: https://github.com/AI2HU/gego
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/AI2HU/gego
+  regions:
+  - global
+  desc:
+    en: Schedules prompts across several LLM providers, captures their web-search citations and tracks brand mentions through a dashboard and CLI.
+    zh-CN: 在多个大语言模型服务商上定时运行提示词，抓取其联网搜索引用，并通过仪表板和命令行工具追踪品牌提及。
+    ja: 複数の LLM プロバイダーでプロンプトを定期実行し、ウェブ検索の引用を取得して、ダッシュボードと CLI でブランド言及を追跡するツールです。
+    ko: 여러 LLM 제공업체에 프롬프트를 예약 실행해 웹 검색 인용을 수집하고, 대시보드와 CLI로 브랜드 언급을 추적합니다.
+    es: Programa prompts en varios proveedores de LLM, recoge las citas de sus búsquedas web y hace seguimiento de las menciones de marca mediante un panel y una CLI.
+    de: Führt Prompts nach Zeitplan über mehrere LLM-Anbieter aus, erfasst deren Zitationen aus der Websuche und überwacht Markenerwähnungen über ein Dashboard und eine CLI.
+- id: geo-optimizer-skill
+  name: GEO Optimizer
+  url: https://github.com/Auriti-Labs/geo-optimizer-skill
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/Auriti-Labs/geo-optimizer-skill
+  regions:
+  - global
+  desc:
+    en: Scores a site from 0 to 100 on whether AI engines can crawl, understand and cite it, through a CLI, Python library and MCP server.
+    zh-CN: 以 0 到 100 分评估网站能否被 AI 引擎抓取、理解和引用，提供命令行工具、Python 库和 MCP 服务器。
+    ja: AI エンジンがサイトをクロール・理解・引用できるかを 0〜100 で採点するツールで、CLI、Python ライブラリ、MCP サーバーとして利用できます。
+    ko: AI 엔진이 사이트를 크롤링하고 이해하고 인용할 수 있는지를 0~100점으로 평가하며, CLI, Python 라이브러리, MCP 서버로 제공됩니다.
+    es: Puntúa de 0 a 100 si los motores de IA pueden rastrear, entender y citar un sitio, mediante una CLI, una biblioteca de Python y un servidor MCP.
+    de: Bewertet eine Website auf einer Skala von 0 bis 100 danach, ob KI-Suchmaschinen sie crawlen, verstehen und zitieren können, per CLI, Python-Bibliothek und MCP-Server.
+- id: geo-aeo-tracker
+  name: geo-aeo-tracker
+  url: https://github.com/danishashko/geo-aeo-tracker
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/danishashko/geo-aeo-tracker
+  regions:
+  - global
+  desc:
+    en: Tracks how ChatGPT, Perplexity, Gemini and Google AI Mode mention and cite a brand, as a self-hosted dashboard with an MCP server and CLI.
+    zh-CN: 追踪 ChatGPT、Perplexity、Gemini 和 Google AI Mode 如何提及和引用品牌，形式为自托管仪表板，附 MCP 服务器和命令行工具。
+    ja: ChatGPT、Perplexity、Gemini、Google AI Mode でのブランドの言及・引用を追跡するセルフホスト型ダッシュボードで、MCP サーバーと CLI も備えています。
+    ko: ChatGPT, Perplexity, Gemini, Google AI Mode가 브랜드를 언급·인용하는 방식을 추적하는 셀프 호스팅 대시보드로, MCP 서버와 CLI를 제공합니다.
+    es: Hace seguimiento de cómo mencionan y citan una marca ChatGPT, Perplexity, Gemini y Google AI Mode, como panel autoalojado con servidor MCP y CLI.
+    de: Erfasst, wie ChatGPT, Perplexity, Gemini und Google AI Mode eine Marke erwähnen und als Quelle zitieren, als selbst gehostetes Dashboard mit MCP-Server und CLI.
+- id: geo-check
+  name: geo-check
+  url: https://github.com/vasco-branco06/geo-check
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/vasco-branco06/geo-check
+  regions:
+  - global
+  desc:
+    en: Checks whether a website is reachable and readable by AI crawlers and scores it, as a PyPI package and GitHub Action.
+    zh-CN: 检查网站能否被 AI 爬虫访问和读取并给出评分，提供 PyPI 包和 GitHub Action。
+    ja: ウェブサイトに AI クローラーがアクセスして読み取れるかを確認し、スコア化するツールで、PyPI パッケージと GitHub Action として提供されています。
+    ko: 웹사이트에 AI 크롤러가 접근해 읽을 수 있는지 확인하고 점수를 매기는 도구로, PyPI 패키지와 GitHub Action으로 제공됩니다.
+    es: Comprueba si los rastreadores de IA pueden acceder a un sitio web y leerlo, y le asigna una puntuación; se distribuye como paquete de PyPI y GitHub Action.
+    de: Prüft, ob eine Website für KI-Crawler erreichbar und lesbar ist, und vergibt eine Bewertung, als PyPI-Paket und GitHub Action.
+- id: geo-optimizer-go
+  name: geo-optimizer (Go)
+  url: https://github.com/geo-team-red/geo-optimizer
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/geo-team-red/geo-optimizer
+  regions:
+  - global
+  desc:
+    en: Provides a pluggable Go framework for GEO with built-in strategies and support for registering custom ones.
+    zh-CN: 提供可插拔的 Go 语言 GEO 框架，内置多种策略并支持注册自定义策略。
+    ja: 組み込みの戦略を備え、独自の戦略も登録できる、プラグイン式の Go 製 GEO フレームワークです。
+    ko: 전략이 내장되어 있고 사용자 정의 전략도 등록할 수 있는 플러그인 방식의 Go용 GEO 프레임워크입니다.
+    es: Framework modular de GEO en Go con estrategias integradas y la posibilidad de registrar otras personalizadas.
+    de: Stellt ein erweiterbares Go-Framework für GEO mit integrierten Strategien bereit, in dem sich eigene Strategien registrieren lassen.
+- id: geoptimize
+  name: geoptimize
+  url: https://github.com/cucuwang/geoptimize
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/cucuwang/geoptimize
+  regions:
+  - global
+  desc:
+    en: Deterministic content linter that runs in CI or pre-commit to flag structure and sourcing issues in documentation and static sites, published as an npm package.
+    zh-CN: 确定性的内容检查工具（linter），可在 CI 或 pre-commit 中运行，标记文档和静态网站中的结构与来源问题，以 npm 包发布。
+    ja: CI やプリコミットで実行し、ドキュメントや静的サイトの構造・出典の問題を検出する決定論的なコンテンツリンターで、npm パッケージとして公開されています。
+    ko: CI나 pre-commit에서 실행해 문서와 정적 사이트의 구조 및 출처 표기 문제를 찾아내는 결정론적 콘텐츠 린터로, npm 패키지로 배포됩니다.
+    es: Linter de contenido determinista que se ejecuta en CI o pre-commit para señalar problemas de estructura y de fuentes en documentación y sitios estáticos; se publica como paquete npm.
+    de: Deterministischer Content-Linter für CI oder Pre-Commit, der Probleme bei Struktur und Quellenangaben in Dokumentationen und statischen Websites meldet, veröffentlicht als npm-Paket.
+- id: getcito
+  name: GetCito
+  url: https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool
+  regions:
+  - global
+  desc:
+    en: Open-source platform for tracking and improving a brand's presence in AI answers.
+    zh-CN: 用于追踪并提升品牌在 AI 回答中出现情况的开源平台。
+    ja: AI 回答におけるブランドの存在感を追跡・改善するためのオープンソースのプラットフォームです。
+    ko: AI 답변 속 브랜드 노출을 추적하고 개선하는 오픈 소스 플랫폼입니다.
+    es: Plataforma de código abierto para hacer seguimiento de la presencia de una marca en las respuestas de IA y mejorarla.
+    de: Open-Source-Plattform, um die Präsenz einer Marke in KI-Antworten zu erfassen und zu verbessern.
+- id: limelit-open
+  name: Limelit Open
+  url: https://github.com/limelit-co/open
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/limelit-co/open
+  regions:
+  - global
+  desc:
+    en: Self-hosted visibility tracker, a single Go binary with SQLite and an MCP server, that records how major AI engines mention and cite a brand.
+    zh-CN: 可自托管的可见度追踪工具，以内含 SQLite 和 MCP 服务器的单个 Go 二进制文件形式提供，记录主流 AI 引擎如何提及和引用品牌。
+    ja: 主要な AI エンジンがブランドをどう言及・引用しているかを記録するセルフホスト型の可視性トラッカーで、SQLite と MCP サーバーを備えた単一の Go バイナリです。
+    ko: SQLite와 MCP 서버를 갖춘 단일 Go 바이너리 형태의 셀프 호스팅 가시성 추적 도구로, 주요 AI 엔진의 브랜드 언급·인용을 기록합니다.
+    es: Herramienta autoalojada de seguimiento de la visibilidad, un único binario de Go con SQLite y servidor MCP, que registra cómo mencionan y citan una marca los principales motores de IA.
+    de: Selbst gehostetes Monitoring-Tool als einzelnes Go-Binary mit SQLite und MCP-Server, das festhält, wie große KI-Suchmaschinen eine Marke erwähnen und zitieren.
+- id: nginx-markdown-for-agents
+  name: NGINX Markdown for Agents
+  url: https://github.com/cnkang/nginx-markdown-for-agents
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/cnkang/nginx-markdown-for-agents
+  regions:
+  - global
+  desc:
+    en: NGINX module that serves Markdown versions of pages to AI agents through HTTP content negotiation.
+    zh-CN: 通过 HTTP 内容协商向 AI 智能体提供 Markdown 版页面的 NGINX 模块。
+    ja: HTTP のコンテンツネゴシエーションを通じて、AI エージェントにページの Markdown 版を配信する NGINX モジュールです。
+    ko: HTTP 콘텐츠 협상으로 AI 에이전트에 페이지의 Markdown 버전을 제공하는 NGINX 모듈입니다.
+    es: Módulo de NGINX que sirve versiones en Markdown de las páginas a los agentes de IA mediante negociación de contenido HTTP.
+    de: NGINX-Modul, das KI-Agenten per HTTP-Content-Negotiation Markdown-Versionen von Seiten ausliefert.
+- id: oneglanse
+  name: OneGlanse
+  url: https://github.com/oneglanse/oneglanse
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/oneglanse/oneglanse
+  regions:
+  - global
+  desc:
+    en: Self-hostable tracker that monitors how ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews mention and cite a brand through their product interfaces.
+    zh-CN: 可自托管的追踪工具，通过产品界面监测 ChatGPT、Perplexity、Gemini、Claude 和 Google AI Overviews 如何提及和引用品牌。
+    ja: ChatGPT、Perplexity、Gemini、Claude、Google AI Overviews が製品画面でブランドをどう言及・引用するかをモニタリングするセルフホスト型トラッカーです。
+    ko: ChatGPT, Perplexity, Gemini, Claude, Google AI Overviews의 제품 화면에서 브랜드 언급·인용을 모니터링하는 셀프 호스팅 도구입니다.
+    es: Herramienta autoalojable que hace seguimiento de cómo mencionan y citan una marca ChatGPT, Perplexity, Gemini, Claude y Google AI Overviews mediante sus interfaces de producto.
+    de: Selbst hostbares Tool, das über die Produktoberflächen überwacht, wie ChatGPT, Perplexity, Gemini, Claude und Google AI Overviews eine Marke erwähnen und als Quelle zitieren.
+- id: opengso
+  name: OpenGSO
+  url: https://github.com/sherwinvishesh/OpenGSO
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/sherwinvishesh/OpenGSO
+  regions:
+  - global
+  desc:
+    en: Scores a site from 0 to 100 for agent readability and generates Markdown copies of pages plus robots.txt, llms.txt and sitemap.xml.
+    zh-CN: 按智能体可读性为网站打 0 至 100 分，并生成页面的 Markdown 副本以及 robots.txt、llms.txt 和 sitemap.xml。
+    ja: エージェントにとっての読みやすさでサイトを 0〜100 で採点し、ページの Markdown 版と robots.txt、llms.txt、sitemap.xml を生成するツールです。
+    ko: 에이전트가 읽기 쉬운 정도로 사이트를 0~100점으로 평가하고, 페이지의 Markdown 사본과 robots.txt, llms.txt, sitemap.xml을 생성합니다.
+    es: Puntúa de 0 a 100 la legibilidad de un sitio para agentes y genera copias en Markdown de las páginas, además de robots.txt, llms.txt y sitemap.xml.
+    de: Bewertet eine Website auf einer Skala von 0 bis 100 nach ihrer Lesbarkeit für Agenten und erzeugt Markdown-Kopien der Seiten sowie robots.txt, llms.txt und sitemap.xml.
+- id: react-schemaorg
+  name: react-schemaorg
+  url: https://github.com/google/react-schemaorg
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/google/react-schemaorg
+  regions:
+  - global
+  desc:
+    en: Type-checked Schema.org JSON-LD for React.
+    zh-CN: 用于 React 的带类型检查的 Schema.org JSON-LD 库。
+    ja: React 向けに、型チェック付きで Schema.org の JSON-LD を記述できるライブラリです。
+    ko: React에서 타입 검사가 되는 Schema.org JSON-LD를 작성할 수 있게 합니다.
+    es: JSON-LD de Schema.org con comprobación de tipos para React.
+    de: Typgeprüftes Schema.org-JSON-LD für React.
+- id: schema-dts
+  name: schema-dts
+  url: https://github.com/google/schema-dts
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/google/schema-dts
+  regions:
+  - global
+  desc:
+    en: TypeScript types for writing Schema.org JSON-LD.
+    zh-CN: 用于编写 Schema.org JSON-LD 的 TypeScript 类型定义。
+    ja: Schema.org の JSON-LD を記述するための TypeScript の型定義です。
+    ko: Schema.org JSON-LD 작성을 위한 TypeScript 타입입니다.
+    es: Tipos de TypeScript para escribir JSON-LD de Schema.org.
+    de: TypeScript-Typen zum Schreiben von Schema.org-JSON-LD.
+- id: seo-graph
+  name: seo-graph
+  url: https://github.com/jdevalk/seo-graph
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/jdevalk/seo-graph
+  regions:
+  - global
+  desc:
+    en: Builds a Schema.org JSON-LD graph for JavaScript sites, with an Astro integration.
+    zh-CN: 为 JavaScript 网站构建 Schema.org JSON-LD 图谱，并提供 Astro 集成。
+    ja: JavaScript サイト向けに Schema.org の JSON-LD グラフを構築するライブラリで、Astro との統合も備えています。
+    ko: JavaScript 사이트용 Schema.org JSON-LD 그래프를 만드는 라이브러리로, Astro 통합을 제공합니다.
+    es: Construye un grafo JSON-LD de Schema.org para sitios en JavaScript, con integración para Astro.
+    de: Erzeugt einen Schema.org-JSON-LD-Graphen für JavaScript-Websites, mit einer Astro-Integration.
+- id: spatie-schema-org
+  name: spatie/schema-org
+  url: https://github.com/spatie/schema-org
+  category: tools/open-source
+  type: tool
+  pricing: free
+  open_source: true
+  repo: https://github.com/spatie/schema-org
+  regions:
+  - global
+  desc:
+    en: PHP fluent builder for Schema.org types that outputs JSON-LD.
+    zh-CN: 以链式调用构建 Schema.org 类型并输出 JSON-LD 的 PHP 库。
+    ja: Schema.org のタイプをメソッドチェーンで組み立て、JSON-LD を出力する PHP のビルダーです。
+    ko: Schema.org 유형을 플루언트 방식으로 만들어 JSON-LD로 출력하는 PHP 빌더입니다.
+    es: Constructor fluido en PHP para tipos de Schema.org que genera JSON-LD.
+    de: Fluent Builder in PHP für Schema.org-Typen, der JSON-LD ausgibt.

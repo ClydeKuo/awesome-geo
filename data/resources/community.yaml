@@ -1,0 +1,113 @@
+- id: ai-search-leaders
+  name: AI Search Leaders
+  url: https://newsletter.searchleaders.ai/
+  category: community
+  type: newsletter
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Substack newsletter by Tom Critchlow, formerly The SEO MBA, on strategy and leadership for search teams adapting to AI search.
+    zh-CN: Tom Critchlow 在 Substack 上的通讯（原名 The SEO MBA），关注搜索团队适应 AI 搜索过程中的策略与领导力。
+    ja: Tom Critchlow による Substack のニュースレター（旧称 The SEO MBA）で、AI 検索に適応する検索チーム向けの戦略とリーダーシップを扱います。
+    ko: Tom Critchlow의 Substack 뉴스레터(옛 The SEO MBA)로, AI 검색에 대응하는 검색 팀의 전략과 리더십을 다룹니다.
+    es: Boletín en Substack de Tom Critchlow, antes llamado The SEO MBA, sobre estrategia y liderazgo para equipos de búsqueda que se adaptan a la búsqueda con IA.
+    de: Substack-Newsletter von Tom Critchlow, früher The SEO MBA, über Strategie und Führung für Suchteams, die sich auf die KI-Suche einstellen.
+- id: brightonseo
+  name: brightonSEO
+  url: https://brightonseo.com/
+  category: community
+  type: community
+  pricing: paid
+  open_source: false
+  regions:
+  - uk
+  - us
+  desc:
+    en: Large search marketing conference series held in Brighton and San Diego, with talks and training on SEO, content and AI search, plus a free ticket ballot for the UK event.
+    zh-CN: 在布莱顿和圣迭戈举办的大型搜索营销系列会议，提供 SEO、内容和 AI 搜索方面的演讲与培训，英国场设有免费门票抽签。
+    ja: ブライトンとサンディエゴで開かれる大規模な検索マーケティングのカンファレンスシリーズで、SEO・コンテンツ・AI 検索の講演とトレーニングがあり、英国開催分は無料チケットの抽選もあります。
+    ko: 브라이턴과 샌디에이고에서 열리는 대규모 검색 마케팅 콘퍼런스 시리즈로, SEO, 콘텐츠, AI 검색 강연과 교육이 있으며 영국 행사는 무료 티켓 추첨도 합니다.
+    es: Serie de grandes conferencias de marketing de búsqueda en Brighton y San Diego, con charlas y cursos sobre SEO, contenido y búsqueda con IA, y un sorteo gratuito de entradas para el evento británico.
+    de: Große Konferenzreihe zum Suchmaschinenmarketing in Brighton und San Diego mit Vorträgen und Trainings zu SEO, Content und KI-Suche sowie einer Ticketverlosung für die britische Veranstaltung.
+- id: geo-conference
+  name: GEO Conference
+  url: https://geo-conference.com/
+  category: community
+  type: community
+  pricing: paid
+  open_source: false
+  regions:
+  - us
+  desc:
+    en: In-person, single-day conference series on generative engine optimization held in US cities, limited to 150 seats per event and sponsored mainly by GEO and SEO tool vendors.
+    zh-CN: 在美国多个城市举办的 GEO 线下单日系列会议，每场限 150 个席位，主要由 GEO 和 SEO 工具厂商赞助。
+    ja: 米国の各都市で開かれる生成エンジン最適化の 1日限りの対面カンファレンスシリーズで、各回の定員は 150席、主に GEO・SEO ツールベンダーが協賛しています。
+    ko: 미국 여러 도시에서 열리는 생성형 엔진 최적화(GEO) 대면 1일 콘퍼런스 시리즈로, 행사마다 150석으로 제한하며 주로 GEO·SEO 도구 업체가 후원합니다.
+    es: Serie de conferencias presenciales de un día sobre optimización para motores generativos en ciudades de EE. UU., de 150 plazas como máximo y patrocinadas sobre todo por proveedores de GEO y SEO.
+    de: Reihe eintägiger Präsenzkonferenzen zu Generative Engine Optimization in US-Städten mit höchstens 150 Plätzen pro Veranstaltung, gesponsert vor allem von Anbietern von GEO- und SEO-Tools.
+- id: growth-memo
+  name: Growth Memo
+  url: https://www.growth-memo.com/
+  category: community
+  type: newsletter
+  pricing: freemium
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Kevin Indig's newsletter on organic growth, with regular data studies on AI search behavior, citations and traffic; some issues are for paid subscribers.
+    zh-CN: Kevin Indig 关于自然增长的通讯，定期发布 AI 搜索行为、引用和流量的数据研究，部分内容仅限付费订阅者。
+    ja: Kevin Indig によるオーガニック成長のニュースレターで、AI 検索の行動、引用、トラフィックに関するデータ調査を定期的に掲載し、一部は有料購読者向けです。
+    ko: 오가닉 성장에 관한 Kevin Indig의 뉴스레터로, AI 검색 행태, 인용, 트래픽에 관한 데이터 연구를 정기적으로 싣고 일부 호는 유료 구독자용입니다.
+    es: Boletín de Kevin Indig sobre crecimiento orgánico, con estudios de datos periódicos sobre el comportamiento de la búsqueda con IA, las citas y el tráfico; algunos números son de pago.
+    de: Newsletter von Kevin Indig zu organischem Wachstum mit regelmäßigen Datenstudien zu Nutzerverhalten in der KI-Suche, Zitationen und Traffic; einige Ausgaben sind zahlenden Abonnenten vorbehalten.
+- id: mozcon
+  name: MozCon
+  url: https://moz.com/mozcon
+  category: community
+  type: community
+  pricing: paid
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Moz's marketing conference on SEO, AI search and GEO, run in 2026 as an in-person roadshow with events in London and New York.
+    zh-CN: Moz 举办的营销大会，聚焦 SEO、AI 搜索和 GEO，2026 年以线下巡回形式在伦敦和纽约举行。
+    ja: SEO、AI 検索、GEO を扱う Moz のマーケティングカンファレンスで、2026年はロンドンとニューヨークを巡る対面のロードショー形式で開催されています。
+    ko: SEO, AI 검색, GEO를 다루는 Moz의 마케팅 콘퍼런스로, 2026년에는 런던과 뉴욕에서 오프라인 순회 행사로 열렸습니다.
+    es: Conferencia de marketing de Moz sobre SEO, búsqueda con IA y GEO, celebrada en 2026 como gira presencial con eventos en Londres y Nueva York.
+    de: Marketingkonferenz von Moz zu SEO, KI-Suche und GEO, 2026 als Roadshow mit Präsenzveranstaltungen in London und New York.
+- id: search-engine-roundtable
+  name: Search Engine Roundtable
+  url: https://www.seroundtable.com/
+  category: community
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Daily news site by Barry Schwartz that tracks search community discussions and changes to Google and Bing, including their AI search features.
+    zh-CN: Barry Schwartz 的每日新闻网站，追踪搜索社区讨论以及 Google 和 Bing 的变化，包括其 AI 搜索功能。
+    ja: Barry Schwartz による日刊のニュースサイトで、検索コミュニティでの議論や、AI 検索機能を含む Google と Bing の変更を追っています。
+    ko: Barry Schwartz가 운영하는 일간 뉴스 사이트로, 검색 커뮤니티의 논의와 AI 검색 기능을 포함한 Google, Bing의 변화를 다룹니다.
+    es: Sitio de noticias diario de Barry Schwartz que sigue los debates de la comunidad de búsqueda y los cambios en Google y Bing, incluidas sus funciones de búsqueda con IA.
+    de: Tägliche News-Website von Barry Schwartz, die Diskussionen in der Search-Community und Änderungen bei Google und Bing verfolgt, einschließlich ihrer KI-Suchfunktionen.
+- id: seofomo
+  name: SEOFOMO
+  url: https://seofomo.co/
+  category: community
+  type: newsletter
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  desc:
+    en: Weekly newsletter by Aleyda Solis collecting SEO and AI search news, guides, tools, events and jobs.
+    zh-CN: Aleyda Solis 的每周通讯，汇集 SEO 与 AI 搜索的新闻、指南、工具、活动和招聘信息。
+    ja: Aleyda Solis による週刊ニュースレターで、SEO と AI 検索のニュース、ガイド、ツール、イベント、求人をまとめています。
+    ko: SEO와 AI 검색 소식, 가이드, 도구, 행사, 채용 정보를 모은 Aleyda Solis의 주간 뉴스레터입니다.
+    es: Boletín semanal de Aleyda Solis que recopila noticias, guías, herramientas, eventos y empleos de SEO y búsqueda con IA.
+    de: Wöchentlicher Newsletter von Aleyda Solis mit News, Leitfäden, Tools, Events und Jobs zu SEO und KI-Suche.

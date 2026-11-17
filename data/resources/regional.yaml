@@ -1,0 +1,511 @@
+- id: caa-geo-service-requirements
+  name: T/CAAAD 046—2026 生成式引擎优化服务要求
+  url: https://digitalad.china-caa.org/TechLab/pdf/TCAAAD%20046-2026.pdf
+  category: regional/chinese
+  type: spec
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  year: 2026
+  desc:
+    en: China Advertising Association group standard that sets requirements for GEO service providers, trusted content sources, prohibited techniques and results reporting.
+    zh-CN: 中国广告协会团体标准，对 GEO 服务商、可信内容来源、禁用手段和效果报告提出要求。
+    ja: GEO サービス事業者、信頼できる情報源、禁止される手法、成果報告についての要件を定めた中国広告協会の団体標準です。
+    ko: GEO 서비스 제공자, 신뢰할 수 있는 콘텐츠 출처, 금지 기법, 성과 보고에 관한 요건을 정한 중국광고협회의 단체 표준입니다.
+    es: Norma de grupo de la Asociación de Publicidad de China que fija requisitos para proveedores de servicios de GEO, fuentes de contenido fiables, técnicas prohibidas e informes de resultados.
+    de: Verbandsstandard der China Advertising Association, der Anforderungen an GEO-Dienstleister, vertrauenswürdige Inhaltsquellen, unzulässige Techniken und die Berichterstattung über Ergebnisse festlegt.
+- id: 36kr-geo-ai-marketing
+  name: 为什么说GEO正在摧毁AI营销？
+  url: https://www.36kr.com/p/3701404201677189
+  category: regional/chinese
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  year: 2026
+  desc:
+    en: Feature on the 2026 GEO boom in China, explaining how GEO targets the retrieval step of AI answers and how mass content seeding pushed a fake product into AI recommendations.
+    zh-CN: 报道 2026 年中国的 GEO 热潮，解释 GEO 如何瞄准 AI 回答的检索环节，以及批量投放内容如何把一款虚假产品推入 AI 推荐结果。
+    ja: 2026年に中国で起きた GEO ブームを取り上げ、GEO が AI 回答の情報検索段階を狙う仕組みと、コンテンツの大量投下で架空の製品が AI の推薦に入り込んだ経緯を解説した特集記事です。
+    ko: 2026년 중국의 GEO 열풍을 다룬 기획 기사로, GEO가 AI 답변의 검색 단계를 겨냥하는 방식과 대량의 콘텐츠 시딩으로 가짜 제품이 AI 추천에 오른 사례를 설명합니다.
+    es: 'Reportaje sobre el auge del GEO en China en 2026: cómo actúa sobre la fase de recuperación de las respuestas de IA y cómo la siembra masiva de contenido coló un producto falso en sus recomendaciones.'
+    de: Beitrag über den GEO-Boom 2026 in China, der erklärt, wie GEO beim Abruf der Quellen für KI-Antworten ansetzt und wie massenhaft gestreute Inhalte ein gefälschtes Produkt in KI-Empfehlungen brachten.
+- id: huxiu-google-ai-poisoning
+  name: 谷歌对“AI投毒”重拳出击
+  url: https://www.huxiu.com/article/4861290.html
+  category: regional/chinese
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  year: 2026
+  desc:
+    en: Analysis of Google's 2026 spam policy update against manipulating AI answers, separating GEO from paid content seeding and discussing the grey areas between them.
+    zh-CN: 分析 Google 2026 年针对操纵 AI 回答的垃圾内容政策更新，区分 GEO 与付费内容投放，并讨论二者之间的灰色地带。
+    ja: AI の回答操作を対象とした Google の 2026年のスパムポリシー更新を分析し、GEO と有料のコンテンツ投下を区別したうえで、両者のグレーゾーンを論じた記事です。
+    ko: AI 답변 조작을 겨냥한 Google의 2026년 스팸 정책 개정을 분석해 GEO와 유료 콘텐츠 시딩을 구분하고 그 사이의 회색 지대를 짚습니다.
+    es: Análisis de la actualización de 2026 de la política de spam de Google contra la manipulación de respuestas de IA, que distingue el GEO de la siembra pagada de contenido y aborda las zonas grises.
+    de: Analyse von Googles Spam-Richtlinien-Update 2026 gegen die Manipulation von KI-Antworten, die GEO von bezahlter Content-Platzierung abgrenzt und die Grauzonen dazwischen erörtert.
+- id: voc-trusted-geo
+  name: 对AI投毒说不！可信GEO的破局之道
+  url: https://hunan.voc.com.cn/news/202610/33940183.html
+  category: regional/chinese
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  year: 2026
+  desc:
+    en: Long-form analysis of AI data poisoning through black-hat GEO, covering regulation and platform countermeasures and including the Hunan Daily's own trusted-GEO service.
+    zh-CN: 长文分析黑帽 GEO 造成的 AI 数据投毒，涵盖监管和平台应对措施，并介绍湖南日报自家的可信 GEO 服务。
+    ja: ブラックハット GEO による AI データポイズニングを規制とプラットフォームの対策から論じた長文の分析記事で、湖南日報自身の信頼できる GEO サービスも取り上げています。
+    ko: 블랙햇 GEO를 이용한 AI 데이터 포이즈닝을 규제와 플랫폼 대응까지 다룬 장문 분석으로, Hunan Daily 자체의 신뢰 GEO 서비스도 소개합니다.
+    es: Análisis extenso del envenenamiento de datos de IA con GEO de sombrero negro, que trata la regulación y contramedidas de las plataformas e incluye el servicio de GEO fiable del propio Hunan Daily.
+    de: Ausführliche Analyse zur Vergiftung von KI-Daten durch Black-Hat-GEO mit Blick auf Regulierung und Gegenmaßnahmen der Plattformen, einschließlich des eigenen Trusted-GEO-Dienstes der Hunan Daily.
+- id: xinhua-aiia-trusted-geo
+  name: AIIA可信GEO专题研讨会在京成功召开
+  url: https://www.xinhuanet.com/digital/20260518/5b81c242155a44da9a69d69f90410c57/c.html
+  category: regional/chinese
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  year: 2026
+  desc:
+    en: Xinhua report on the May 2026 AIIA seminar on trustworthy GEO, covering CAICT's GEO service evaluations, a report on GEO risks and industry self-regulation.
+    zh-CN: 新华网报道 2026 年 5 月 AIIA 可信 GEO 研讨会，涉及中国信通院的 GEO 服务评估、GEO 风险报告和行业自律。
+    ja: 信頼できる GEO を扱った 2026年5月の AIIA セミナーに関する新華社の記事で、CAICT の GEO サービス評価、GEO のリスク報告、業界の自主規制を取り上げています。
+    ko: 2026년 5월 열린 AIIA 신뢰 GEO 세미나를 다룬 신화통신 보도로, CAICT의 GEO 서비스 평가, GEO 위험 보고서, 업계 자율 규제를 소개합니다.
+    es: 'Crónica de Xinhua sobre el seminario de la AIIA de mayo de 2026 sobre GEO fiable: evaluaciones de servicios de GEO de la CAICT, un informe sobre riesgos del GEO y autorregulación del sector.'
+    de: Xinhua-Bericht über das AIIA-Seminar zu vertrauenswürdigem GEO im Mai 2026 mit Bewertungen von GEO-Diensten durch die CAICT, einem Bericht über GEO-Risiken und der Selbstregulierung der Branche.
+- id: geo-risks-information-ecosystem
+  name: 生成式引擎优化实践中的风险与信息生态重塑
+  url: https://airaxiv.com/papers/pdf/2509.0006/
+  category: regional/chinese
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - cn
+  year: 2025
+  desc:
+    en: Chinese-language preprint on the ethical risks of GEO, such as intellectual property, algorithmic bias, explainability and misinformation, with five proposed responses.
+    zh-CN: 中文预印本，探讨 GEO 的知识产权、算法偏见、可解释性和虚假信息等伦理风险，并提出五项应对措施。
+    ja: 知的財産、アルゴリズムのバイアス、説明可能性、誤情報など GEO の倫理的リスクを論じ、5つの対応策を提案した中国語のプレプリントです。
+    ko: 지식재산권, 알고리즘 편향, 설명 가능성, 허위 정보 등 GEO의 윤리적 위험을 다루고 5가지 대응 방안을 제안한 중국어 프리프린트입니다.
+    es: Preprint en chino sobre los riesgos éticos del GEO, como la propiedad intelectual, el sesgo algorítmico, la explicabilidad y la desinformación, con cinco medidas propuestas.
+    de: Chinesischsprachiger Preprint zu ethischen Risiken von GEO wie geistigem Eigentum, algorithmischer Verzerrung, Erklärbarkeit und Desinformation, mit fünf vorgeschlagenen Gegenmaßnahmen.
+- id: ahrefs-ja-ai-overviews-ctr-japan
+  name: AI 概要で検索 1 位の CTR が半年で -62.7 % に激減
+  url: https://ahrefs.com/ja/blog/ai-overviews-reduce-clicks-june-2026/
+  category: regional/japanese
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - jp
+  year: 2026
+  desc:
+    en: Ahrefs study of Japanese informational keywords estimating that AI Overviews cut the first result's click-through rate by 62.7% by June 2026.
+    zh-CN: Ahrefs 针对日语信息类关键词的研究，估算到 2026 年 6 月 Google AI Overviews 使首位结果的点击率下降 62.7%。
+    ja: 日本語の情報系キーワードを対象にした Ahrefs の調査で、2026年6月までに AI Overviews が検索 1位のクリック率を 62.7% 押し下げたと推計しています。
+    ko: 일본어 정보성 키워드를 대상으로 한 Ahrefs 연구로, AI Overviews 때문에 2026년 6월까지 1위 결과의 클릭률이 62.7% 줄었다고 추정합니다.
+    es: Estudio de Ahrefs sobre palabras clave informativas en japonés que estima que AI Overviews redujo un 62,7 % el CTR del primer resultado hasta junio de 2026.
+    de: Ahrefs-Studie zu informationsorientierten japanischen Keywords, die schätzt, dass AI Overviews die Klickrate des ersten Treffers bis Juni 2026 um 62,7 % gesenkt haben.
+- id: google-japan-ai-mode-launch
+  name: Google 検索における「AI モード」を日本語で提供開始
+  url: https://blog.google/intl/ja-jp/products/explore-get-answers/ai-mode-search/
+  category: regional/japanese
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - jp
+  year: 2025
+  desc:
+    en: Google Japan announcement of AI Mode in Japanese, describing how its query fan-out technique splits a question into subtopics and runs a search for each.
+    zh-CN: Google 日本宣布推出日语版 AI Mode，介绍其查询扇出（query fan-out）技术如何把问题拆分为子主题并分别搜索。
+    ja: 日本語版 AI Mode の提供開始を告げる Google Japan の発表で、質問をサブトピックに分けてそれぞれを検索するクエリファンアウト技術を説明しています。
+    ko: 일본어 AI Mode 출시를 알리는 Google 재팬의 발표로, 질문을 하위 주제로 나눠 각각 검색하는 쿼리 팬아웃 기법을 설명합니다.
+    es: Anuncio de Google Japón del lanzamiento de AI Mode en japonés, que describe cómo su técnica de query fan-out divide una pregunta en subtemas y lanza una búsqueda para cada uno.
+    de: Ankündigung von Google Japan zu AI Mode auf Japanisch, die beschreibt, wie das Fan-out-Verfahren eine Frage in Unterthemen zerlegt und für jedes eine eigene Suche ausführt.
+- id: nikkei-xtech-llmo
+  name: 生成AIに自社情報を引用されやすくする「LLMO」、SEOとの違いと対策
+  url: https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000298/
+  category: regional/japanese
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - jp
+  year: 2026
+  desc:
+    en: Nikkei xTECH explainer on LLMO, the term widely used in Japan for GEO, and how it differs from SEO; free registration is needed to read it in full.
+    zh-CN: 日经 xTECH 讲解大语言模型优化（LLMO）的文章，LLMO 是日本对 GEO 的常用叫法，文中说明其与 SEO 的区别，需免费注册阅读全文。
+    ja: 日本で GEO を指す言葉として広く使われる LLMO と、SEO との違いを解説した日経クロステックの記事で、全文を読むには無料登録が必要です。
+    ko: 일본에서 GEO를 가리키는 말로 널리 쓰이는 LLMO와 SEO의 차이를 설명하는 Nikkei xTECH 해설 기사로, 전문을 읽으려면 무료 회원 가입이 필요합니다.
+    es: Texto divulgativo de Nikkei xTECH sobre el LLMO, término muy usado en Japón para el GEO, y en qué se diferencia del SEO; para leerlo completo hace falta un registro gratuito.
+    de: Einführung von Nikkei xTECH zu LLMO, dem in Japan verbreiteten Begriff für GEO, und zum Unterschied zu SEO; für den vollständigen Text ist eine kostenlose Registrierung nötig.
+- id: nikkei-xtrend-aio
+  name: AI検索で推される企業と外される企業 AIOで重要なたった一つのこと
+  url: https://xtrend.nikkei.com/atcl/contents/18/01354/00001/
+  category: regional/japanese
+  type: article
+  pricing: paid
+  open_source: false
+  regions:
+  - jp
+  year: 2026
+  desc:
+    en: Opening part of a Nikkei xTrend series on AI search optimization, citing Ahrefs data on how AI Overviews cut clicks in Japan; most of the text is for paying members.
+    zh-CN: 日经 xTrend AI 搜索优化系列的首篇，引用 Ahrefs 数据说明 Google AI Overviews 如何减少日本的点击量，正文大部分仅限付费会员。
+    ja: AI 検索最適化に関する日経クロストレンドの連載の初回で、日本で AI Overviews がクリック数を減らしていることを示す Ahrefs のデータを引用し、本文の大部分は有料会員向けです。
+    ko: AI 검색 최적화를 다룬 Nikkei xTrend 연재의 첫 회로, AI Overviews가 일본에서 클릭을 줄인 Ahrefs 데이터를 인용하며 본문 대부분은 유료 회원용입니다.
+    es: Primera parte de una serie de Nikkei xTrend sobre optimización para la búsqueda con IA, con datos de Ahrefs sobre cómo AI Overviews reduce los clics en Japón; casi todo es para miembros de pago.
+    de: Auftakt einer Serie von Nikkei xTrend zur Optimierung für die KI-Suche, die Ahrefs-Daten zum Klickrückgang durch AI Overviews in Japan zitiert; der Großteil ist zahlenden Mitgliedern vorbehalten.
+- id: suzukikenichi-ai-overviews-opt-out
+  name: AI Overviews・AI ModeのCTRは検索全体の2倍以上、28日間のオプトアウト実験で推定
+  url: https://www.suzukikenichi.com/blog/ctr-for-ai-overviews-and-ai-mode-estimated-at-more-than-double-the-site-wide-search-ctr-in-a-28-day-opt-out-experiment/
+  category: regional/japanese
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - jp
+  year: 2026
+  desc:
+    en: Write-up of a 28-day test that opted a site out of AI Overviews and AI Mode, estimating their click-through rate at more than twice the site average.
+    zh-CN: 记录一项为期 28 天的实验，让网站退出 Google AI Overviews 和 AI Mode，估算二者的点击率是网站平均值的两倍以上。
+    ja: サイトを AI Overviews と AI Mode から 28日間オプトアウトした実験の報告で、両機能のクリック率がサイト平均の 2倍を超えると推定しています。
+    ko: 사이트를 AI Overviews와 AI Mode에서 28일간 제외한 실험을 정리한 글로, 두 기능의 클릭률이 사이트 평균의 2배 이상이라고 추정합니다.
+    es: Relato de una prueba de 28 días que excluyó un sitio de AI Overviews y AI Mode y estimó que la tasa de clics de ambas funciones era más del doble de la media del sitio.
+    de: Bericht über einen 28-tägigen Test, bei dem eine Website von AI Overviews und AI Mode ausgeschlossen wurde; die Klickrate dort wird auf mehr als das Doppelte des Website-Durchschnitts geschätzt.
+- id: webtan-geo-llmo-seo
+  name: そのGEO／LLMO間違ってるかも！？ AI検索時代でも変わらない「王道SEO」に取り組むべき理由
+  url: https://webtan.impress.co.jp/e/2026/08/24/52930
+  category: regional/japanese
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - jp
+  year: 2026
+  desc:
+    en: Report of a talk by Kenichi Suzuki arguing that GEO and LLMO rest on conventional SEO, with a conceptual model of how Google's AI search builds its answers.
+    zh-CN: 铃木谦一的演讲报道，认为 GEO 和大语言模型优化（LLMO）都建立在传统 SEO 之上，并给出 Google AI 搜索生成回答的概念模型。
+    ja: GEO や LLMO は従来の SEO の上に成り立つと論じた鈴木謙一氏の講演レポートで、Google の AI 検索が回答を組み立てる仕組みの概念モデルも紹介しています。
+    ko: GEO와 LLMO가 전통적인 SEO에 기반한다고 주장한 Kenichi Suzuki의 강연 보고로, Google AI 검색이 답변을 만드는 과정의 개념 모델을 제시합니다.
+    es: Crónica de una charla de Kenichi Suzuki que sostiene que el GEO y el LLMO se basan en el SEO convencional, con un modelo conceptual de cómo construye sus respuestas la búsqueda con IA de Google.
+    de: Bericht über einen Vortrag von Kenichi Suzuki, nach dem GEO und LLMO auf klassischem SEO beruhen, mit einem konzeptionellen Modell, wie die KI-Suche von Google ihre Antworten aufbaut.
+- id: geeknews-geo
+  name: 생성형 엔진 최적화(GEO), 검색의 규칙을 어떻게 바꾸는가
+  url: https://news.hada.io/topic?id=21260
+  category: regional/korean
+  type: community
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  year: 2025
+  desc:
+    en: GeekNews post summarizing a16z's essay on GEO in Korean, with a short reader discussion of how the terms GEO and AEO overlap.
+    zh-CN: GeekNews 上用韩语概述 a16z GEO 文章的帖子，附有读者关于 GEO 与答案引擎优化（AEO）概念重叠的简短讨论。
+    ja: a16z の GEO に関するエッセイを韓国語で要約した GeekNews の投稿で、GEO と AEO という用語の重なりをめぐる短い読者の議論も含みます。
+    ko: a16z의 GEO 에세이를 한국어로 요약한 GeekNews 게시물로, GEO와 AEO 용어가 겹치는 지점에 관한 짧은 독자 토론이 달려 있습니다.
+    es: Entrada de GeekNews que resume en coreano el ensayo de a16z sobre GEO, con un breve debate de los lectores sobre cómo se solapan los términos GEO y AEO.
+    de: GeekNews-Beitrag, der den a16z-Essay zu GEO auf Koreanisch zusammenfasst, mit einer kurzen Leserdiskussion darüber, wie sich die Begriffe GEO und AEO überschneiden.
+- id: kaa-from-seo-to-geo
+  name: 'From SEO to GEO: 미국 디지털 마케팅의 새로운 전쟁터'
+  url: https://www.kaa.or.kr/k/mag/2025/winter/KAA_journal_2025_winter_Chapter4_3.pdf
+  category: regional/korean
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  year: 2025
+  desc:
+    en: Trend review in the Korea Federation of Advertising Associations journal introducing GEO, how engines such as Perplexity and Gemini draw on search data, and the role of E-E-A-T.
+    zh-CN: 韩国广告团体联合会期刊中的趋势评论，介绍 GEO、Perplexity 和 Gemini 等引擎如何利用搜索数据，以及 E-E-A-T 的作用。
+    ja: 韓国広告団体連合会の機関誌に掲載されたトレンドレビューで、GEO の概要、Perplexity や Gemini などのエンジンによる検索データの活用、E-E-A-T の役割を紹介しています。
+    ko: 한국광고총연합회 학술지의 트렌드 리뷰로, GEO와 Perplexity, Gemini 등의 엔진이 검색 데이터를 활용하는 방식, E-E-A-T의 역할을 소개합니다.
+    es: Reseña de tendencias en la revista de la Federación Coreana de Asociaciones de Publicidad que presenta el GEO, cómo usan datos de búsqueda motores como Perplexity y Gemini y el papel del E-E-A-T.
+    de: Trendbeitrag in der Zeitschrift der Korea Federation of Advertising Associations zu GEO, zur Nutzung von Suchdaten durch Suchmaschinen wie Perplexity und Gemini sowie zur Rolle von E-E-A-T.
+- id: kpf-ai-browser-news
+  name: AI 브라우저 시대, 뉴스 유통 구조 변화와 언론사 수익 모델 재편
+  url: https://www.kpf.or.kr/front/research/trendDetail.do?seq=600699
+  category: regional/korean
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  year: 2026
+  desc:
+    en: Korea Press Foundation report on how AI browsers and zero-click answers reshape news distribution and publishers' revenue models.
+    zh-CN: 韩国言论振兴财团的报告，分析 AI 浏览器和零点击回答如何重塑新闻分发和媒体盈利模式。
+    ja: AI ブラウザとゼロクリック回答がニュースの流通構造とパブリッシャーの収益モデルをどう変えるかを論じた、韓国言論振興財団のレポートです。
+    ko: AI 브라우저와 제로 클릭 답변이 뉴스 유통 구조와 언론사 수익 모델을 어떻게 바꾸는지 분석한 한국언론진흥재단 보고서입니다.
+    es: Informe de la Korea Press Foundation sobre cómo los navegadores con IA y las respuestas sin clic transforman la distribución de noticias y los modelos de ingresos de los medios.
+    de: Bericht der Korea Press Foundation darüber, wie KI-Browser und Zero-Click-Antworten die Verbreitung von Nachrichten und die Erlösmodelle von Verlagen verändern.
+- id: kpf-cma-google-ai-search
+  name: AI로 뉴스를 검색하는 시대, 영국 CMA의 구글 규제와 의미
+  url: https://www.kpf.or.kr/front/board/boardContentsView.do?board_id=246&contents_id=662358c31eb94c8eba60267a69ab3262
+  category: regional/korean
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  year: 2026
+  desc:
+    en: Korea Press Foundation report on the UK CMA's 2026 requirements for Google, such as AI opt-outs, AI search data and source attribution, and what they mean for Korea.
+    zh-CN: 韩国言论振兴财团的报告，介绍英国 CMA 于 2026 年对 Google 提出的 AI 退出选项、AI 搜索数据和来源标注等要求，及其对韩国的意义。
+    ja: 英国 CMA が 2026年に Google に課した AI のオプトアウト、AI 検索データ、出典表示などの要件と、その韓国への示唆をまとめた韓国言論振興財団のレポートです。
+    ko: AI 옵트아웃, AI 검색 데이터, 출처 표기 등 영국 CMA가 2026년 Google에 부과한 요구 사항과 한국에 주는 시사점을 다룬 한국언론진흥재단 보고서입니다.
+    es: Informe de la Korea Press Foundation sobre lo que la CMA británica exigió a Google en 2026, como exclusión de la IA, datos de búsqueda con IA y atribución de fuentes, y lo que supone para Corea.
+    de: Bericht der Korea Press Foundation zu den Auflagen der britischen CMA für Google von 2026, etwa KI-Opt-outs, Daten zur KI-Suche und Quellenangaben, und zu ihrer Bedeutung für Korea.
+- id: naver-ai-briefing-creators
+  name: 네이버, AI 브리핑 도입 이후 창작자 지원 규모 약 2배 확대
+  url: https://navercorp.com/media/pressReleasesDetail?seq=10034578
+  category: regional/korean
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  year: 2026
+  desc:
+    en: Naver press release on how AI Briefing shows creators' posts as sources, and on Naver Mate, which pays about 3,000 creators a month based on AI Briefing citations.
+    zh-CN: Naver 新闻稿，介绍 AI Briefing 如何将创作者的帖子作为来源展示，以及按 AI Briefing 引用每月向约 3000 名创作者付费的 Naver Mate。
+    ja: AI Briefing がクリエイターの投稿を情報源として表示する仕組みと、その引用に応じて毎月約 3000人に報酬を支払う Naver Mate を紹介した Naver のプレスリリースです。
+    ko: AI 브리핑이 창작자 게시물을 출처로 보여 주는 방식과, AI 브리핑 인용을 기준으로 매달 창작자 약 3,000명에게 보상하는 네이버 메이트를 소개한 네이버 보도자료입니다.
+    es: Nota de prensa de Naver sobre cómo AI Briefing muestra publicaciones de creadores como fuentes y sobre Naver Mate, que paga a unos 3000 creadores al mes según las citas en AI Briefing.
+    de: Pressemitteilung von Naver dazu, wie AI Briefing Beiträge von Creators als Quellen anzeigt, und zu Naver Mate, das monatlich rund 3.000 Creators auf Basis von AI-Briefing-Zitationen vergütet.
+- id: toss-payments-geo-ecommerce
+  name: SEO를 넘어 GEO로, 생성형 AI 시대 이커머스 대응 전략
+  url: https://www.tosspayments.com/blog/articles/39461
+  category: regional/korean
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - kr
+  year: 2025
+  desc:
+    en: Guide to GEO for online shops from a Korean payments company, with five tactics such as Q&A content, use-case product descriptions, FAQs and outside mentions.
+    zh-CN: 韩国一家支付公司面向网店的 GEO 指南，提出问答内容、按使用场景撰写商品描述、常见问题和外部提及等五项策略。
+    ja: 韓国の決済会社による EC サイト向けの GEO ガイドで、Q&A コンテンツ、利用シーン別の商品説明、FAQ、外部での言及など 5つの施策を紹介しています。
+    ko: 한국 결제 기업이 쓴 온라인 쇼핑몰용 GEO 가이드로, Q&A 콘텐츠, 사용 사례 중심 상품 설명, FAQ, 외부 언급 등 5가지 전술을 소개합니다.
+    es: Guía de GEO para tiendas en línea de una empresa coreana de pagos, con cinco tácticas como contenido de preguntas y respuestas, descripciones por caso de uso, FAQ y menciones externas.
+    de: GEO-Leitfaden eines koreanischen Zahlungsdienstleisters für Onlineshops mit fünf Taktiken wie Q&A-Content, anwendungsbezogenen Produktbeschreibungen, FAQs und externen Erwähnungen.
+- id: ahrefs-es-media-cited-by-ai
+  name: Cuáles son los medios más citados por la IA en España
+  url: https://ahrefs.com/blog/es/top-medios-citados-ia/
+  category: regional/spanish
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - es
+  year: 2026
+  desc:
+    en: Analysis of 2.26 million Spanish prompts ranking which news outlets ChatGPT, Gemini, Perplexity, Copilot, Grok and Google's AI features cite most often.
+    zh-CN: 分析 226 万条西班牙语提示词，统计 ChatGPT、Gemini、Perplexity、Copilot、Grok 及 Google AI 功能最常引用的新闻媒体排名。
+    ja: スペイン語プロンプト 226万件から、ChatGPT、Gemini、Perplexity、Copilot、Grok、Google の AI 機能が最も引用するニュースメディアを順位づけした調査です。
+    ko: 스페인어 프롬프트 226만 개로 ChatGPT, Gemini, Perplexity, Copilot, Grok, Google AI 기능이 자주 인용하는 언론사 순위를 매깁니다.
+    es: Análisis de 2,26 millones de prompts en español que clasifica los medios de noticias más citados por ChatGPT, Gemini, Perplexity, Copilot, Grok y las funciones de IA de Google.
+    de: Analyse von 2,26 Millionen spanischen Prompts mit einem Ranking der Nachrichtenmedien, die ChatGPT, Gemini, Perplexity, Copilot, Grok und Googles KI-Funktionen am häufigsten zitieren.
+- id: geo-brand-visibility-tourism
+  name: Generative Engine Optimization (GEO) y visibilidad de marcas en recomendaciones turísticas generadas por IA
+  url: https://revistaprismasocial.es/ps/article/view/5975
+  category: regional/spanish
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - es
+  year: 2026
+  desc:
+    en: Exploratory study that ran one generic travel query through several AI systems at three points in time and found hotel brand visibility and cited sources highly volatile.
+    zh-CN: 探索性研究，在三个时间点向多个 AI 系统提交同一条通用旅游查询，发现酒店品牌的可见度和引用来源波动很大。
+    ja: 一般的な旅行クエリ 1件を 3つの時点で複数の AI システムに入力し、ホテルブランドの可視性と引用元が大きく変動することを示した探索的研究です。
+    ko: 일반적인 여행 쿼리 하나를 여러 AI 시스템에 세 시점에 걸쳐 입력해 호텔 브랜드 가시성과 인용 출처의 변동이 매우 크다는 결과를 얻은 탐색적 연구입니다.
+    es: Estudio exploratorio que lanzó una consulta genérica de viajes en varios sistemas de IA en tres momentos y halló una gran volatilidad en la visibilidad de las marcas hoteleras y las fuentes citadas.
+    de: Explorative Studie, die eine allgemeine Reiseanfrage zu drei Zeitpunkten an mehrere KI-Systeme stellte und eine stark schwankende Sichtbarkeit von Hotelmarken und zitierten Quellen feststellte.
+- id: geo-digital-repositories
+  name: 'Generative Engine Optimization en repositorios digitales: optimización de la visibilidad para la IA generativa'
+  url: https://doi.org/10.3145/infonomy.25.034
+  category: regional/spanish
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - es
+  - latam
+  year: 2025
+  desc:
+    en: Proposes the first GEO guidelines for institutional repositories, covering technical setup, semantic structure, metadata, multilingual content and new metrics.
+    zh-CN: 首次为机构知识库提出 GEO 指南，涵盖技术设置、语义结构、元数据、多语言内容和新指标。
+    ja: 機関リポジトリ向けに初めての GEO ガイドラインを提案し、技術的な設定、意味構造、メタデータ、多言語コンテンツ、新しい指標を扱った論文です。
+    ko: 기관 리포지터리를 위한 최초의 GEO 지침을 제안하며 기술 설정, 의미 구조, 메타데이터, 다국어 콘텐츠, 새로운 지표를 다룹니다.
+    es: Propone las primeras pautas de GEO para repositorios institucionales, que abarcan configuración técnica, estructura semántica, metadatos, contenido multilingüe y nuevas métricas.
+    de: Schlägt die ersten GEO-Richtlinien für institutionelle Repositorien vor, mit technischer Einrichtung, semantischer Struktur, Metadaten, mehrsprachigen Inhalten und neuen Metriken.
+- id: geo-review-approaches-metrics
+  name: 'Generative Engine Optimization (GEO): revisión de enfoques, métricas y estrategias'
+  url: https://www.ibersid.eu/ojs/index.php/ibersid/article/view/5156
+  category: regional/spanish
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - es
+  year: 2026
+  desc:
+    en: Reviews GEO literature and finds it converging on visibility, influence and verifiability metrics and on recurring strategies such as structure, structured data and authority.
+    zh-CN: 综述 GEO 文献，发现研究逐渐采用可见度、影响力和可验证性指标，并围绕结构、结构化数据和权威性等常见策略展开。
+    ja: GEO の文献をレビューし、可視性・影響力・検証可能性の指標と、構造、構造化データ、権威性といった定番の戦略に研究が収束しつつあることを示した論文です。
+    ko: GEO 문헌을 검토해 가시성, 영향력, 검증 가능성 지표와 구조, 구조화된 데이터, 권위 같은 반복적인 전략으로 수렴하고 있음을 밝힙니다.
+    es: Revisa la literatura sobre GEO y constata que converge en métricas de visibilidad, influencia y verificabilidad y en estrategias recurrentes como la estructura, los datos estructurados y la autoridad.
+    de: Wertet die GEO-Literatur aus, die bei Metriken für Sichtbarkeit, Einfluss und Überprüfbarkeit sowie bei wiederkehrenden Strategien wie Struktur, strukturierten Daten und Autorität konvergiert.
+- id: google-ai-overviews-news-media-thinkepi
+  name: Google AI Overviews y los medios
+  url: https://thinkepi.scimagoepi.com/index.php/ThinkEPI/en/article/view/91722
+  category: regional/spanish
+  type: paper
+  pricing: free
+  open_source: false
+  regions:
+  - es
+  year: 2026
+  desc:
+    en: Argues that AI Overviews and AI Mode have sharply cut traffic to Spanish news sites and that publishers should add GEO, reader loyalty and collective licensing.
+    zh-CN: 认为 Google AI Overviews 和 AI Mode 大幅减少了西班牙新闻网站的流量，建议发布商引入 GEO、读者忠诚度建设和集体授权。
+    ja: AI Overviews と AI Mode がスペインのニュースサイトへのトラフィックを大きく減らしたとし、GEO、読者のロイヤルティ向上、集団ライセンスへの取り組みを促す記事です。
+    ko: AI Overviews와 AI Mode가 스페인 뉴스 사이트의 트래픽을 크게 줄였으며 언론사가 GEO, 독자 충성도, 공동 라이선싱에 나서야 한다고 주장합니다.
+    es: Sostiene que AI Overviews y AI Mode han reducido mucho el tráfico de los medios de noticias españoles y que los editores deberían sumar GEO, fidelización de lectores y licencias colectivas.
+    de: Argumentiert, dass AI Overviews und AI Mode den Traffic spanischer Nachrichtenseiten stark verringert haben und Verlage auf GEO, Leserbindung und kollektive Lizenzierung setzen sollten.
+- id: labperiodismo-ai-overviews-spain
+  name: 'Impacto de AI Overviews en España: Google activa resúmenes generativos en el 29,8% de búsquedas sobre medios'
+  url: https://laboratoriodeperiodismo.org/impacto-de-ai-overviews-en-espana-google-activa-resumenes-generativos-en-el-298-de-busquedas-sobre-medios/
+  category: regional/spanish
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - es
+  year: 2026
+  desc:
+    en: Summary of a University of Barcelona study of 2,699 keywords that found AI Overviews on 29.8% of searches about major Spanish news outlets but rarely on breaking news.
+    zh-CN: 概述巴塞罗那大学对 2699 个关键词的研究，发现在涉及西班牙主要新闻媒体的搜索中 29.8% 出现 Google AI Overviews，但突发新闻中很少出现。
+    ja: バルセロナ大学による 2699キーワードの研究の要約で、スペインの主要メディアに関する検索の 29.8% に AI Overviews が表示され、速報ではまれなことを示しています。
+    ko: 키워드 2,699개를 분석해 스페인 주요 언론사 관련 검색의 29.8%에 AI Overviews가 나오지만 속보에는 드물다는 바르셀로나 대학교 연구를 요약합니다.
+    es: 'Resume un estudio de la Universidad de Barcelona sobre 2699 palabras clave: AI Overviews aparece en el 29,8 % de las búsquedas sobre grandes medios españoles, pero rara vez en noticias de última hora.'
+    de: Zusammenfassung einer Studie der Universität Barcelona zu 2.699 Keywords, die AI Overviews bei 29,8 % der Suchen zu großen spanischen Nachrichtenmedien fand, bei Eilmeldungen aber selten.
+- id: bvdw-answer-economy
+  name: 'BVDW Whitepaper: The Answer Economy'
+  url: https://www.bvdw.org/news-und-publikationen/bvdw-ordnet-ki-getriebenen-wandel-der-informationsoekonomie-ein/
+  category: regional/german
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - de
+  year: 2026
+  desc:
+    en: German digital industry association whitepaper on the shift from search to AI answer systems, with a proposed standard definition of GEO and how it relates to SEO.
+    zh-CN: 德国数字行业协会的白皮书，探讨从搜索到 AI 回答系统的转变，提出 GEO 的标准定义及其与 SEO 的关系。
+    ja: 検索から AI 回答システムへの移行を扱ったドイツのデジタル業界団体 BVDW のホワイトペーパーで、GEO の標準的な定義案と SEO との関係を示しています。
+    ko: 검색에서 AI 답변 시스템으로의 전환을 다룬 독일 디지털 산업 협회의 백서로, GEO의 표준 정의와 SEO와의 관계를 제안합니다.
+    es: Informe técnico de la asociación alemana del sector digital sobre el paso de la búsqueda a los sistemas de respuestas con IA, con una propuesta de definición estándar de GEO y su relación con el SEO.
+    de: Whitepaper des deutschen Digitalverbands BVDW zum Wandel von der Suche zu KI-Antwortsystemen mit einer vorgeschlagenen Standarddefinition von GEO und ihrer Abgrenzung zu SEO.
+- id: bvdw-geo-kpi
+  name: 'Search im Umbruch: Die neun wichtigsten GEO-KPI'
+  url: https://www.bvdw.org/news-und-publikationen/die-neun-wichtigsten-geo-kpi/
+  category: regional/german
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - de
+  year: 2026
+  desc:
+    en: Short BVDW whitepaper proposing nine KPIs for measuring brand visibility in generative search, with advice on prompt sets and regular review.
+    zh-CN: BVDW 的简短白皮书，提出衡量品牌在生成式搜索中可见度的 9 项 KPI，并就提示词集和定期复盘给出建议。
+    ja: 生成検索でのブランドの可視性を測る 9つの GEO KPI を提案した BVDW の短いホワイトペーパーで、プロンプトセットや定期的な見直しについても助言しています。
+    ko: 생성형 검색의 브랜드 가시성을 측정하는 9가지 KPI를 제안하고 프롬프트 세트 구성과 정기 점검에 관한 조언을 담은 BVDW의 짧은 백서입니다.
+    es: Breve informe técnico de la BVDW que propone nueve KPI para medir la visibilidad de marca en la búsqueda generativa, con consejos sobre conjuntos de prompts y revisión periódica.
+    de: Kurzes Whitepaper des BVDW mit neun KPIs zur Messung der Markensichtbarkeit in der generativen Suche sowie Empfehlungen zu Prompt-Sets und regelmäßiger Überprüfung.
+- id: sistrix-chatgpt-core-update
+  name: 'ChatGPT Core Updates: Auch Chatbots haben Algorithmus-Änderungen'
+  url: https://www.sistrix.de/news/chatgpt-core-update/
+  category: regional/german
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - de
+  year: 2026
+  desc:
+    en: Analysis of 3.8 million German-language ChatGPT answers showing that a May 2026 model switch shifted the mix of cited domains by 47% within two days.
+    zh-CN: 分析 380 万条德语 ChatGPT 回答，显示 2026 年 5 月的模型切换在两天内使被引用域名的构成变化了 47%。
+    ja: ドイツ語の ChatGPT 回答 380万件を分析し、2026年5月のモデル切り替えで引用ドメインの構成が 2日以内に 47% 変化したことを示した記事です。
+    ko: 독일어 ChatGPT 답변 380만 건을 분석해 2026년 5월 모델 교체 후 이틀 만에 인용 도메인 구성이 47% 바뀌었음을 보여 줍니다.
+    es: Análisis de 3,8 millones de respuestas de ChatGPT en alemán que muestra que un cambio de modelo en mayo de 2026 alteró en un 47 % la combinación de dominios citados en dos días.
+    de: Analyse von 3,8 Millionen deutschsprachigen ChatGPT-Antworten, nach der ein Modellwechsel im Mai 2026 die Verteilung der zitierten Domains binnen zwei Tagen um 47 % verschob.
+- id: sistrix-geo-myths
+  name: 'GEO-Mythen im Datencheck: Was 96.418 URLs über AI-Citations verraten'
+  url: https://www.sistrix.de/news/geo-mythen-im-datencheck/
+  category: regional/german
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - de
+  year: 2026
+  desc:
+    en: Compares cited and uncited pages of the same domains in DACH AI answers, finding that structure and schema correlate with citations while llms.txt shows no effect.
+    zh-CN: 比较德语区（DACH）AI 回答中同一域名下被引用与未被引用的页面，发现结构和 Schema 与引用相关，而 llms.txt 没有效果。
+    ja: ドイツ語圏（DACH）の AI 回答で同じドメインの引用ページと非引用ページを比較し、構造とスキーマは引用と相関する一方、llms.txt には効果が見られないことを示した調査です。
+    ko: DACH 지역 AI 답변에서 같은 도메인의 인용·비인용 페이지를 비교해 구조와 스키마는 인용과 상관관계가 있지만 llms.txt는 효과가 없음을 밝힙니다.
+    es: 'Compara páginas citadas y no citadas de los mismos dominios en respuestas de IA de la región DACH: la estructura y el marcado Schema se correlacionan con las citas, mientras que llms.txt no influye.'
+    de: Vergleicht zitierte und nicht zitierte Seiten derselben Domains in KI-Antworten im DACH-Raum und zeigt, dass Struktur und Schema mit Zitationen korrelieren, llms.txt aber keinen Effekt hat.
+- id: t3n-ai-sources-blinq
+  name: 'ChatGPT, Perplexity & Co.: Diese Quellen nutzen KI-Tools am häufigsten'
+  url: https://t3n.de/news/chatgpt-perplexity-co-diese-quellen-nutzen-ki-tools-am-haeufigsten-und-das-ist-ein-problem-1754013/
+  category: regional/german
+  type: article
+  pricing: free
+  open_source: false
+  regions:
+  - de
+  year: 2026
+  desc:
+    en: Report on a study of 250,000 AI answers showing which sources ChatGPT, AI Overviews and Perplexity cite most, led by company websites, YouTube and Reddit.
+    zh-CN: 报道一项涉及 25 万条 AI 回答的研究，揭示 ChatGPT、Google AI Overviews 和 Perplexity 最常引用的来源，居首的是企业网站、YouTube 和 Reddit。
+    ja: 25万件の AI 回答の調査をもとに、ChatGPT、AI Overviews、Perplexity が最も多く引用する情報源の上位は企業サイト、YouTube、Reddit だと伝える記事です。
+    ko: AI 답변 25만 건 분석에서 ChatGPT, AI Overviews, Perplexity가 가장 많이 인용한 출처는 기업 사이트, YouTube, Reddit 순이라고 전합니다.
+    es: Artículo sobre un estudio de 250 000 respuestas de IA que muestra cuáles son las fuentes más citadas por ChatGPT, AI Overviews y Perplexity, encabezadas por webs corporativas, YouTube y Reddit.
+    de: Bericht über eine Studie zu 250.000 KI-Antworten, die zeigt, welche Quellen ChatGPT, AI Overviews und Perplexity am häufigsten zitieren, angeführt von Unternehmenswebsites, YouTube und Reddit.
+- id: t3n-geo-website-check
+  name: 'GEO und Technik für Websites: Wie sich der KI-Chatbot Infos sucht'
+  url: https://t3n.de/news/geo-und-website-check-wie-sich-der-ki-chatbot-infos-sucht-und-was-unternehmen-daraus-lernen-koennen-1766802/
+  category: regional/german
+  type: guide
+  pricing: free
+  open_source: false
+  regions:
+  - de
+  year: 2026
+  desc:
+    en: Explains how ChatGPT, Gemini, Copilot and Perplexity find and cite pages, from query fan-out and search indexes to technical access, with a checklist for companies.
+    zh-CN: 解释 ChatGPT、Gemini、Copilot 和 Perplexity 如何查找和引用页面，从查询扇出、搜索索引到技术访问，并附面向企业的检查清单。
+    ja: ChatGPT、Gemini、Copilot、Perplexity のページ探索と引用の仕組みをクエリファンアウト、検索インデックス、技術的アクセスから解説し、企業向けチェックリストも付けています。
+    ko: 쿼리 팬아웃, 검색 색인, 기술적 접근성 관점에서 ChatGPT, Gemini, Copilot, Perplexity의 페이지 탐색·인용 방식과 기업용 체크리스트를 제공합니다.
+    es: Explica cómo encuentran y citan páginas ChatGPT, Gemini, Copilot y Perplexity, desde el query fan-out y los índices de búsqueda hasta el acceso técnico, con una lista de verificación para empresas.
+    de: Erklärt, wie ChatGPT, Gemini, Copilot und Perplexity Seiten finden und zitieren, vom Fan-out von Suchanfragen über Suchindizes bis zum technischen Zugriff, mit einer Checkliste für Unternehmen.

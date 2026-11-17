@@ -1,0 +1,51 @@
+- id: ahrefs-ai-search-conversions-own-site
+  name: Does AI Search Traffic Convert Better Than Traditional Search? For Ahrefs, Yes
+  url: https://ahrefs.com/blog/ai-search-traffic-conversions-ahrefs/
+  category: case-studies
+  type: case-study
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Shares Ahrefs' own analytics showing that AI search visitors were 0.5% of its traffic but 12.1% of signups.
+    zh-CN: 分享 Ahrefs 自身的分析数据，AI 搜索访客仅占其流量的 0.5%，却贡献了 12.1% 的注册。
+    ja: Ahrefs 自社のアナリティクスをもとに、AI 検索からの訪問者がトラフィックの 0.5% にすぎない一方で、登録の 12.1% を占めたことを示した記事です。
+    ko: AI 검색 방문자가 Ahrefs 전체 트래픽의 0.5%에 불과했지만 가입자의 12.1%를 차지했다는 자사 분석 데이터를 공유합니다.
+    es: Comparte datos de analítica de Ahrefs que muestran que los visitantes procedentes de la búsqueda con IA eran el 0,5 % de su tráfico, pero el 12,1 % de sus registros.
+    de: Zeigt anhand eigener Analytics-Daten von Ahrefs, dass Besucher aus der KI-Suche 0,5 % des Traffics, aber 12,1 % der Registrierungen ausmachten.
+- id: ramp-profound-ai-visibility
+  name: How Ramp increased AI brand visibility 7x in accounts payable
+  url: https://www.tryprofound.com/customers/ramp-case-study
+  category: case-studies
+  type: case-study
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Vendor case study reporting Profound-measured AI search visibility for Ramp's accounts payable product rising to 22.2%, with the pages and queries Ramp targeted.
+    zh-CN: 厂商案例研究，称经 Profound 测量，Ramp 应付账款产品的 AI 搜索可见度升至 22.2%，并列出 Ramp 重点优化的页面和查询。
+    ja: Ramp の買掛金管理製品の AI 検索での可視性が Profound の計測で 22.2% に上昇したことを、Ramp が狙ったページやクエリとともに報告したベンダーの事例です。
+    ko: Profound가 측정한 Ramp 매입 채무 관리 제품의 AI 검색 가시성이 22.2%로 오른 과정과 Ramp가 공략한 페이지, 쿼리를 소개하는 업체 사례 연구입니다.
+    es: 'Estudio de caso de un proveedor: la visibilidad en la búsqueda con IA del producto de cuentas por pagar de Ramp, medida con Profound, subió al 22,2 %, con las páginas y consultas que Ramp priorizó.'
+    de: Fallstudie eines Anbieters, laut der die von Profound gemessene Sichtbarkeit von Ramps Kreditorenprodukt in der KI-Suche auf 22,2 % stieg, mit den Seiten und Suchanfragen, auf die Ramp abzielte.
+- id: vercel-adapting-seo-for-llms
+  name: How Vercel's adapting SEO for LLMs and AI search
+  url: https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search
+  category: case-studies
+  type: case-study
+  pricing: free
+  open_source: false
+  regions:
+  - global
+  year: 2025
+  desc:
+    en: Describes how Vercel adapts SEO for LLM discovery, reporting that ChatGPT referred around 10% of its new signups, up from 1% six months earlier.
+    zh-CN: 介绍 Vercel 如何调整 SEO，让大语言模型更容易发现其内容，称 ChatGPT 带来的新注册约占 10%，而六个月前仅为 1%。
+    ja: Vercel が LLM による発見に向けて SEO をどう適応させているかを紹介し、新規登録の約 10% が ChatGPT 経由となり、半年前の 1% から増えたことを報告した記事です。
+    ko: Vercel이 LLM에서 잘 발견되도록 SEO를 조정하는 방식을 소개하며, 신규 가입의 약 10%가 ChatGPT에서 유입되어 6개월 전 1%에서 늘었다고 밝힙니다.
+    es: Describe cómo adapta Vercel su SEO al descubrimiento por LLM e indica que ChatGPT generó cerca del 10 % de sus nuevos registros, frente al 1 % de seis meses antes.
+    de: Beschreibt, wie Vercel SEO für die Auffindbarkeit in LLMs anpasst, und berichtet, dass rund 10 % der neuen Registrierungen über ChatGPT kamen, gegenüber 1 % sechs Monate zuvor.

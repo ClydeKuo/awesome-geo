@@ -1,0 +1,57 @@
+name: Add a resource
+description: Suggest a GEO / AI search visibility resource for the list
+title: "[Add] "
+labels: [new-resource]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Please read CONTRIBUTING.md first. Only an English description is needed; maintainers fill in the translations.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Plain link, no tracking or affiliate parameters (utm_*, ref, fbclid, gclid).
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: Leaf category path, e.g. research/foundational
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description (English)
+      description: One original, objective sentence (max 200 characters), no marketing language.
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing
+      options: [free, freemium, paid, n/a]
+    validations:
+      required: true
+  - type: dropdown
+    id: open_source
+    attributes:
+      label: Open source
+      options: ["no", "yes"]
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: This is not an agency or service provider, and the URL contains no tracking or affiliate links.
+          required: true
