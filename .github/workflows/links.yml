@@ -11,9 +11,9 @@ permissions:
 
 jobs:
   lychee:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Check links
         id: lychee
         uses: lycheeverse/lychee-action@v2
@@ -32,7 +32,7 @@ jobs:
           echo "number=$number" >> "$GITHUB_OUTPUT"
       - name: Create or update issue
         if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           issue-number: ${{ steps.existing.outputs.number }}
           title: Broken links report

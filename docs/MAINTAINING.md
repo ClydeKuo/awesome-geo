@@ -12,6 +12,15 @@ The `awesome-lint` CI job checks repository metadata on GitHub, so it fails unti
 - [ ] Enable GitHub Actions, with workflow permissions allowing issues write access (Settings > Actions > General), so link-check issue reporting works.
 - [ ] Run `scripts/validate.py --strict` and `scripts/build.py` locally; `git diff` must be empty afterwards.
 
+Set the description and required topics from an authenticated GitHub CLI session:
+
+```bash
+gh repo edit --description "A curated list of resources on Generative Engine Optimization (GEO): research, guides, standards, tools and AI search engines." \
+  --add-topic awesome --add-topic awesome-list --add-topic generative-engine-optimization --add-topic geo --add-topic ai-search
+```
+
+This updates GitHub repository settings and preserves existing topics. After setting them, rerun the failed CI jobs. These settings cannot be supplied by README content or workflow YAML.
+
 `awesome-lint` is pinned in `.github/workflows/ci.yml` (`awesome-lint@2.3.0`). Bump it deliberately and re-check the README.
 
 ## Merging a contributor PR
